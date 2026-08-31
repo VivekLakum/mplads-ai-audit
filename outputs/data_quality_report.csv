@@ -1,0 +1,7 @@
+dataset,records,status
+works_master,64193,Clean & Integrated
+expenditures,35000,Clean & Disbursed Ledger
+mp_allocation,774,Clean Allocation Limits
+calamity,32,Clean Calamity Consents
+work_features,64193,Engineered Analytical Table
+anomaly_results,64193,Scored & Explainable Anomaly Table

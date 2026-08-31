@@ -1,0 +1,1152 @@
+expenditure_id,work_id,parliament_house,expenditure_date,vendor_name,payment_status,amount,duplicate_group_id,occurrence_count_in_group,duplicate_classification
+EXP_RS_16813,WS/MP103/2023-2024/27625,Rajya Sabha,2024-08-01,Dinesh Patel,Payment Success,75000.0,0,2,True/Strong Duplicate Candidate
+EXP_RS_16814,WS/MP103/2023-2024/27625,Rajya Sabha,2024-08-01,Dinesh Patel,Payment Success,75000.0,0,2,True/Strong Duplicate Candidate
+EXP_RS_16811,WS/MP103/2023-2024/27625,Rajya Sabha,2024-08-01,Patel Devlopers,Payment Success,125000.0,1,2,True/Strong Duplicate Candidate
+EXP_RS_16812,WS/MP103/2023-2024/27625,Rajya Sabha,2024-08-01,Patel Devlopers,Payment Success,125000.0,1,2,True/Strong Duplicate Candidate
+EXP_RS_17573,WS/MP103/2023-2024/31332,Rajya Sabha,2024-03-07,mahesh,Payment Success,30000.0,2,2,True/Strong Duplicate Candidate
+EXP_RS_17574,WS/MP103/2023-2024/31332,Rajya Sabha,2024-03-07,mahesh,Payment Success,30000.0,2,2,True/Strong Duplicate Candidate
+EXP_RS_17538,WS/MP103/2023-2024/31332,Rajya Sabha,2024-03-07,shekhar badrilal,Payment Success,30000.0,3,2,True/Strong Duplicate Candidate
+EXP_RS_17539,WS/MP103/2023-2024/31332,Rajya Sabha,2024-03-07,shekhar badrilal,Payment Success,30000.0,3,2,True/Strong Duplicate Candidate
+EXP_RS_17541,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-28,Balaji Traders,Payment Success,50400.0,4,2,True/Strong Duplicate Candidate
+EXP_RS_17546,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-28,Balaji Traders,Payment Success,50400.0,4,2,True/Strong Duplicate Candidate
+EXP_RS_17568,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,mahesh,Payment Success,25000.0,5,3,True/Strong Duplicate Candidate
+EXP_RS_17569,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,mahesh,Payment Success,25000.0,5,3,True/Strong Duplicate Candidate
+EXP_RS_17570,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,mahesh,Payment Success,25000.0,5,3,True/Strong Duplicate Candidate
+EXP_RS_17531,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,shekhar badrilal,Payment Success,25000.0,6,4,True/Strong Duplicate Candidate
+EXP_RS_17532,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,shekhar badrilal,Payment Success,25000.0,6,4,True/Strong Duplicate Candidate
+EXP_RS_17533,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,shekhar badrilal,Payment Success,25000.0,6,4,True/Strong Duplicate Candidate
+EXP_RS_17534,WS/MP103/2023-2024/31332,Rajya Sabha,2024-04-29,shekhar badrilal,Payment Success,25000.0,6,4,True/Strong Duplicate Candidate
+EXP_RS_16843,WS/MP103/2023-2024/34205,Rajya Sabha,2024-06-25,Rohit,Payment Success,35000.0,7,2,True/Strong Duplicate Candidate
+EXP_RS_16844,WS/MP103/2023-2024/34205,Rajya Sabha,2024-06-25,Rohit,Payment Success,35000.0,7,2,True/Strong Duplicate Candidate
+EXP_RS_17059,WS/MP103/2023-2024/34536,Rajya Sabha,2025-04-23,Aakash Namdev,Payment Success,50000.0,8,3,True/Strong Duplicate Candidate
+EXP_RS_17060,WS/MP103/2023-2024/34536,Rajya Sabha,2025-04-23,Aakash Namdev,Payment Success,50000.0,8,3,True/Strong Duplicate Candidate
+EXP_RS_17061,WS/MP103/2023-2024/34536,Rajya Sabha,2025-04-23,Aakash Namdev,Payment Success,50000.0,8,3,True/Strong Duplicate Candidate
+EXP_RS_16949,WS/MP103/2024-2025/147532,Rajya Sabha,2025-03-12,Shiv krapa contstruction company,Payment Success,24000.0,9,2,True/Strong Duplicate Candidate
+EXP_RS_16951,WS/MP103/2024-2025/147532,Rajya Sabha,2025-03-12,Shiv krapa contstruction company,Payment Success,24000.0,9,2,True/Strong Duplicate Candidate
+EXP_RS_16948,WS/MP103/2024-2025/147532,Rajya Sabha,2025-03-12,Shiv krapa contstruction company,Payment Success,25000.0,10,3,True/Strong Duplicate Candidate
+EXP_RS_16950,WS/MP103/2024-2025/147532,Rajya Sabha,2025-03-12,Shiv krapa contstruction company,Payment Success,25000.0,10,3,True/Strong Duplicate Candidate
+EXP_RS_16952,WS/MP103/2024-2025/147532,Rajya Sabha,2025-03-12,Shiv krapa contstruction company,Payment Success,25000.0,10,3,True/Strong Duplicate Candidate
+EXP_RS_6354,WS/MP103/2025-2026/209510,Rajya Sabha,2025-10-28,Mahesh,Payment Success,24500.0,11,2,True/Strong Duplicate Candidate
+EXP_RS_6355,WS/MP103/2025-2026/209510,Rajya Sabha,2025-10-28,Mahesh,Payment Success,24500.0,11,2,True/Strong Duplicate Candidate
+EXP_RS_6349,WS/MP103/2025-2026/209510,Rajya Sabha,2025-10-28,Mahesh,Payment Success,24900.0,12,2,True/Strong Duplicate Candidate
+EXP_RS_6352,WS/MP103/2025-2026/209510,Rajya Sabha,2025-10-28,Mahesh,Payment Success,24900.0,12,2,True/Strong Duplicate Candidate
+EXP_RS_12073,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,LAXMAN SATPUTE,Payment Success,3000.0,13,2,True/Strong Duplicate Candidate
+EXP_RS_12076,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,LAXMAN SATPUTE,Payment Success,3000.0,13,2,True/Strong Duplicate Candidate
+EXP_RS_12079,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,NIRMALA LAXMAN SATPUTE,Payment Success,1800.0,14,2,True/Strong Duplicate Candidate
+EXP_RS_12080,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,NIRMALA LAXMAN SATPUTE,Payment Success,1800.0,14,2,True/Strong Duplicate Candidate
+EXP_RS_12062,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,PARASRAM GAJANAND SATPUTE,Payment Success,3000.0,15,2,True/Strong Duplicate Candidate
+EXP_RS_12064,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,PARASRAM GAJANAND SATPUTE,Payment Success,3000.0,15,2,True/Strong Duplicate Candidate
+EXP_RS_12068,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,REKHA PARASRAM SATPUTE,Payment Success,1800.0,16,2,True/Strong Duplicate Candidate
+EXP_RS_12069,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-16,REKHA PARASRAM SATPUTE,Payment Success,1800.0,16,2,True/Strong Duplicate Candidate
+EXP_RS_12072,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,LAXMAN SATPUTE,Payment Success,3000.0,17,3,True/Strong Duplicate Candidate
+EXP_RS_12074,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,LAXMAN SATPUTE,Payment Success,3000.0,17,3,True/Strong Duplicate Candidate
+EXP_RS_12075,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,LAXMAN SATPUTE,Payment Success,3000.0,17,3,True/Strong Duplicate Candidate
+EXP_RS_12078,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,NIRMALA LAXMAN SATPUTE,Payment Success,1800.0,18,3,True/Strong Duplicate Candidate
+EXP_RS_12081,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,NIRMALA LAXMAN SATPUTE,Payment Success,1800.0,18,3,True/Strong Duplicate Candidate
+EXP_RS_12082,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,NIRMALA LAXMAN SATPUTE,Payment Success,1800.0,18,3,True/Strong Duplicate Candidate
+EXP_RS_12063,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,PARASRAM GAJANAND SATPUTE,Payment Success,3000.0,19,3,True/Strong Duplicate Candidate
+EXP_RS_12065,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,PARASRAM GAJANAND SATPUTE,Payment Success,3000.0,19,3,True/Strong Duplicate Candidate
+EXP_RS_12066,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,PARASRAM GAJANAND SATPUTE,Payment Success,3000.0,19,3,True/Strong Duplicate Candidate
+EXP_RS_12067,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,REKHA PARASRAM SATPUTE,Payment Success,1800.0,20,3,True/Strong Duplicate Candidate
+EXP_RS_12070,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,REKHA PARASRAM SATPUTE,Payment Success,1800.0,20,3,True/Strong Duplicate Candidate
+EXP_RS_12071,WS/MP106/2023-2024/26208,Rajya Sabha,2024-10-23,REKHA PARASRAM SATPUTE,Payment Success,1800.0,20,3,True/Strong Duplicate Candidate
+EXP_RS_4031,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,INDRADEO NANDU BARDE,Payment Success,2400.0,21,4,True/Strong Duplicate Candidate
+EXP_RS_4032,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,INDRADEO NANDU BARDE,Payment Success,2400.0,21,4,True/Strong Duplicate Candidate
+EXP_RS_4034,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,INDRADEO NANDU BARDE,Payment Success,2400.0,21,4,True/Strong Duplicate Candidate
+EXP_RS_4035,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,INDRADEO NANDU BARDE,Payment Success,2400.0,21,4,True/Strong Duplicate Candidate
+EXP_RS_4036,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MALTA INDRADEV BARDE,Payment Success,1566.0,22,4,True/Strong Duplicate Candidate
+EXP_RS_4038,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MALTA INDRADEV BARDE,Payment Success,1566.0,22,4,True/Strong Duplicate Candidate
+EXP_RS_4039,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MALTA INDRADEV BARDE,Payment Success,1566.0,22,4,True/Strong Duplicate Candidate
+EXP_RS_4040,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MALTA INDRADEV BARDE,Payment Success,1566.0,22,4,True/Strong Duplicate Candidate
+EXP_RS_8812,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MANGAL DHURVE,Payment Success,7021.0,23,2,True/Strong Duplicate Candidate
+EXP_RS_8814,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,MANGAL DHURVE,Payment Success,7021.0,23,2,True/Strong Duplicate Candidate
+EXP_RS_4042,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,POONAM BARDE,Payment Success,1305.0,24,2,True/Strong Duplicate Candidate
+EXP_RS_4045,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,POONAM BARDE,Payment Success,1305.0,24,2,True/Strong Duplicate Candidate
+EXP_RS_4041,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,POONAM BARDE,Payment Success,1566.0,25,3,True/Strong Duplicate Candidate
+EXP_RS_4043,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,POONAM BARDE,Payment Success,1566.0,25,3,True/Strong Duplicate Candidate
+EXP_RS_4044,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,POONAM BARDE,Payment Success,1566.0,25,3,True/Strong Duplicate Candidate
+EXP_RS_4049,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUKHDEV KACHARU BARDE,Payment Success,2000.0,26,2,True/Strong Duplicate Candidate
+EXP_RS_4052,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUKHDEV KACHARU BARDE,Payment Success,2000.0,26,2,True/Strong Duplicate Candidate
+EXP_RS_4048,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUKHDEV KACHARU BARDE,Payment Success,2400.0,27,2,True/Strong Duplicate Candidate
+EXP_RS_4051,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUKHDEV KACHARU BARDE,Payment Success,2400.0,27,2,True/Strong Duplicate Candidate
+EXP_RS_4054,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUNITA SUKHDEO BARDE,Payment Success,1305.0,28,2,True/Strong Duplicate Candidate
+EXP_RS_4058,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUNITA SUKHDEO BARDE,Payment Success,1305.0,28,2,True/Strong Duplicate Candidate
+EXP_RS_4055,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUNITA SUKHDEO BARDE,Payment Success,1566.0,29,3,True/Strong Duplicate Candidate
+EXP_RS_4056,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUNITA SUKHDEO BARDE,Payment Success,1566.0,29,3,True/Strong Duplicate Candidate
+EXP_RS_4057,WS/MP106/2024-2025/145085,Rajya Sabha,2026-04-07,SUNITA SUKHDEO BARDE,Payment Success,1566.0,29,3,True/Strong Duplicate Candidate
+EXP_RS_1241,WS/MP106/2025-2026/230397,Rajya Sabha,2026-06-23,ANSH TRADERS RAGADGAON,Payment Success,56000.0,30,2,True/Strong Duplicate Candidate
+EXP_RS_1242,WS/MP106/2025-2026/230397,Rajya Sabha,2026-06-23,ANSH TRADERS RAGADGAON,Payment Success,56000.0,30,2,True/Strong Duplicate Candidate
+EXP_RS_17818,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,40068.0,31,3,True/Strong Duplicate Candidate
+EXP_RS_17819,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,40068.0,31,3,True/Strong Duplicate Candidate
+EXP_RS_17820,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,40068.0,31,3,True/Strong Duplicate Candidate
+EXP_RS_17821,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,41748.0,32,4,True/Strong Duplicate Candidate
+EXP_RS_17822,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,41748.0,32,4,True/Strong Duplicate Candidate
+EXP_RS_17823,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,41748.0,32,4,True/Strong Duplicate Candidate
+EXP_RS_17824,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,41748.0,32,4,True/Strong Duplicate Candidate
+EXP_RS_17825,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,45108.0,33,2,True/Strong Duplicate Candidate
+EXP_RS_17826,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-17,MAA DURGA TREDARS,Payment Success,45108.0,33,2,True/Strong Duplicate Candidate
+EXP_RS_17444,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-24,PAHARIYA EARTHMOVERS,Payment Success,40068.0,34,2,True/Strong Duplicate Candidate
+EXP_RS_17445,WS/MP107/2023-2024/90552,Rajya Sabha,2024-02-24,PAHARIYA EARTHMOVERS,Payment Success,40068.0,34,2,True/Strong Duplicate Candidate
+EXP_RS_17811,WS/MP107/2023-2024/90552,Rajya Sabha,2024-03-22,NARESH KUMAR TIWARI,Payment Success,40068.0,35,3,True/Strong Duplicate Candidate
+EXP_RS_17812,WS/MP107/2023-2024/90552,Rajya Sabha,2024-03-22,NARESH KUMAR TIWARI,Payment Success,40068.0,35,3,True/Strong Duplicate Candidate
+EXP_RS_17813,WS/MP107/2023-2024/90552,Rajya Sabha,2024-03-22,NARESH KUMAR TIWARI,Payment Success,40068.0,35,3,True/Strong Duplicate Candidate
+EXP_RS_17832,WS/MP107/2023-2024/90553,Rajya Sabha,2024-02-17,KRISHNA TRADERS,Payment Success,152000.0,36,2,True/Strong Duplicate Candidate
+EXP_RS_17834,WS/MP107/2023-2024/90553,Rajya Sabha,2024-02-17,KRISHNA TRADERS,Payment Success,152000.0,36,2,True/Strong Duplicate Candidate
+EXP_RS_8359,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99000.0,37,2,True/Strong Duplicate Candidate
+EXP_RS_8360,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99000.0,37,2,True/Strong Duplicate Candidate
+EXP_RS_8363,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99600.0,38,2,True/Strong Duplicate Candidate
+EXP_RS_8364,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99600.0,38,2,True/Strong Duplicate Candidate
+EXP_RS_8369,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99880.0,39,4,True/Strong Duplicate Candidate
+EXP_RS_8370,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99880.0,39,4,True/Strong Duplicate Candidate
+EXP_RS_8373,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99880.0,39,4,True/Strong Duplicate Candidate
+EXP_RS_8374,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99880.0,39,4,True/Strong Duplicate Candidate
+EXP_RS_8377,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99890.0,40,2,True/Strong Duplicate Candidate
+EXP_RS_8378,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99890.0,40,2,True/Strong Duplicate Candidate
+EXP_RS_8361,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99900.0,41,2,True/Strong Duplicate Candidate
+EXP_RS_8362,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99900.0,41,2,True/Strong Duplicate Candidate
+EXP_RS_8367,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8368,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8375,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8376,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8382,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8383,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99935.0,42,6,True/Strong Duplicate Candidate
+EXP_RS_8379,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99960.0,43,2,True/Strong Duplicate Candidate
+EXP_RS_8380,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99960.0,43,2,True/Strong Duplicate Candidate
+EXP_RS_8365,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99990.0,44,5,True/Strong Duplicate Candidate
+EXP_RS_8366,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99990.0,44,5,True/Strong Duplicate Candidate
+EXP_RS_8371,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99990.0,44,5,True/Strong Duplicate Candidate
+EXP_RS_8372,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99990.0,44,5,True/Strong Duplicate Candidate
+EXP_RS_8381,WS/MP107/2025-2026/192443,Rajya Sabha,2025-07-06,DEVESH KUMAR PATLE,Payment Success,99990.0,44,5,True/Strong Duplicate Candidate
+EXP_RS_8389,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99300.0,45,2,True/Strong Duplicate Candidate
+EXP_RS_8390,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99300.0,45,2,True/Strong Duplicate Candidate
+EXP_RS_8387,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99600.0,46,2,True/Strong Duplicate Candidate
+EXP_RS_8388,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99600.0,46,2,True/Strong Duplicate Candidate
+EXP_RS_8405,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99825.0,47,2,True/Strong Duplicate Candidate
+EXP_RS_8406,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99825.0,47,2,True/Strong Duplicate Candidate
+EXP_RS_8396,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99880.0,48,4,True/Strong Duplicate Candidate
+EXP_RS_8401,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99880.0,48,4,True/Strong Duplicate Candidate
+EXP_RS_8402,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99880.0,48,4,True/Strong Duplicate Candidate
+EXP_RS_8409,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99880.0,48,4,True/Strong Duplicate Candidate
+EXP_RS_8393,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99890.0,49,3,True/Strong Duplicate Candidate
+EXP_RS_8394,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99890.0,49,3,True/Strong Duplicate Candidate
+EXP_RS_8397,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99890.0,49,3,True/Strong Duplicate Candidate
+EXP_RS_8385,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99900.0,50,2,True/Strong Duplicate Candidate
+EXP_RS_8386,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99900.0,50,2,True/Strong Duplicate Candidate
+EXP_RS_8403,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99935.0,51,2,True/Strong Duplicate Candidate
+EXP_RS_8404,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99935.0,51,2,True/Strong Duplicate Candidate
+EXP_RS_8391,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99960.0,52,3,True/Strong Duplicate Candidate
+EXP_RS_8392,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99960.0,52,3,True/Strong Duplicate Candidate
+EXP_RS_8395,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99960.0,52,3,True/Strong Duplicate Candidate
+EXP_RS_8398,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99990.0,53,5,True/Strong Duplicate Candidate
+EXP_RS_8399,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99990.0,53,5,True/Strong Duplicate Candidate
+EXP_RS_8400,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99990.0,53,5,True/Strong Duplicate Candidate
+EXP_RS_8407,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99990.0,53,5,True/Strong Duplicate Candidate
+EXP_RS_8408,WS/MP107/2025-2026/192445,Rajya Sabha,2025-07-03,DEVESH KUMAR PATLE,Payment Success,99990.0,53,5,True/Strong Duplicate Candidate
+EXP_RS_15343,WS/MP139/2024-2025/134087,Rajya Sabha,2025-08-19,Mahindra and Mahindra Ltd,Payment Success,749855.0,54,3,True/Strong Duplicate Candidate
+EXP_RS_15344,WS/MP139/2024-2025/134087,Rajya Sabha,2025-08-19,Mahindra and Mahindra Ltd,Payment Success,749855.0,54,3,True/Strong Duplicate Candidate
+EXP_RS_15345,WS/MP139/2024-2025/134087,Rajya Sabha,2025-08-19,Mahindra and Mahindra Ltd,Payment Success,749855.0,54,3,True/Strong Duplicate Candidate
+EXP_RS_11289,WS/MP140/2023-2024/16863,Rajya Sabha,2025-07-02,TERAN TERAN BRICKS AND TILES,Payment Success,33750.0,55,3,True/Strong Duplicate Candidate
+EXP_RS_11290,WS/MP140/2023-2024/16863,Rajya Sabha,2025-07-02,TERAN TERAN BRICKS AND TILES,Payment Success,33750.0,55,3,True/Strong Duplicate Candidate
+EXP_RS_11291,WS/MP140/2023-2024/16863,Rajya Sabha,2025-07-02,TERAN TERAN BRICKS AND TILES,Payment Success,33750.0,55,3,True/Strong Duplicate Candidate
+EXP_RS_15653,WS/MP140/2023-2024/34273,Rajya Sabha,2024-05-14,RAJA SAHIB JI ENTERPRISES,Payment Success,36000.0,56,4,True/Strong Duplicate Candidate
+EXP_RS_15654,WS/MP140/2023-2024/34273,Rajya Sabha,2024-05-14,RAJA SAHIB JI ENTERPRISES,Payment Success,36000.0,56,4,True/Strong Duplicate Candidate
+EXP_RS_15655,WS/MP140/2023-2024/34273,Rajya Sabha,2024-05-14,RAJA SAHIB JI ENTERPRISES,Payment Success,36000.0,56,4,True/Strong Duplicate Candidate
+EXP_RS_15656,WS/MP140/2023-2024/34273,Rajya Sabha,2024-05-14,RAJA SAHIB JI ENTERPRISES,Payment Success,36000.0,56,4,True/Strong Duplicate Candidate
+EXP_RS_16636,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,18000.0,57,2,True/Strong Duplicate Candidate
+EXP_RS_16638,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,18000.0,57,2,True/Strong Duplicate Candidate
+EXP_RS_16635,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,36000.0,58,2,True/Strong Duplicate Candidate
+EXP_RS_16637,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,36000.0,58,2,True/Strong Duplicate Candidate
+EXP_RS_16633,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,42000.0,59,2,True/Strong Duplicate Candidate
+EXP_RS_16634,WS/MP140/2023-2024/39816,Rajya Sabha,2025-01-20,MS Manuke Brick Ind,Payment Success,42000.0,59,2,True/Strong Duplicate Candidate
+EXP_RS_8686,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_8687,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_8688,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_8689,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_8690,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_8691,WS/MP140/2023-2024/78302,Rajya Sabha,2025-12-23,JHANERI BRICKS CO,Payment Success,47250.0,60,6,True/Strong Duplicate Candidate
+EXP_RS_6417,WS/MP140/2024-2025/135348,Rajya Sabha,2026-01-08,SATGURU BUILDING MATERIAL,Payment Success,48000.0,61,2,True/Strong Duplicate Candidate
+EXP_RS_6420,WS/MP140/2024-2025/135348,Rajya Sabha,2026-01-08,SATGURU BUILDING MATERIAL,Payment Success,48000.0,61,2,True/Strong Duplicate Candidate
+EXP_RS_9603,WS/MP140/2024-2025/135349,Rajya Sabha,2025-06-09,Amritsaria Mal Syal Bricks Klin,Payment Success,34450.0,62,2,True/Strong Duplicate Candidate
+EXP_RS_9604,WS/MP140/2024-2025/135349,Rajya Sabha,2025-06-09,Amritsaria Mal Syal Bricks Klin,Payment Success,34450.0,62,2,True/Strong Duplicate Candidate
+EXP_RS_11777,WS/MP140/2024-2025/142008,Rajya Sabha,2024-12-12,DTC Tiles,Payment Success,80287.0,63,2,True/Strong Duplicate Candidate
+EXP_RS_11778,WS/MP140/2024-2025/142008,Rajya Sabha,2024-12-12,DTC Tiles,Payment Success,80287.0,63,2,True/Strong Duplicate Candidate
+EXP_RS_16631,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,MS Manuke Brick Ind,Payment Success,45000.0,64,2,True/Strong Duplicate Candidate
+EXP_RS_16632,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,MS Manuke Brick Ind,Payment Success,45000.0,64,2,True/Strong Duplicate Candidate
+EXP_RS_16652,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,40145.0,65,3,True/Strong Duplicate Candidate
+EXP_RS_16653,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,40145.0,65,3,True/Strong Duplicate Candidate
+EXP_RS_16654,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,40145.0,65,3,True/Strong Duplicate Candidate
+EXP_RS_16646,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,45880.0,66,5,True/Strong Duplicate Candidate
+EXP_RS_16647,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,45880.0,66,5,True/Strong Duplicate Candidate
+EXP_RS_16648,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,45880.0,66,5,True/Strong Duplicate Candidate
+EXP_RS_16649,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,45880.0,66,5,True/Strong Duplicate Candidate
+EXP_RS_16650,WS/MP140/2024-2025/142008,Rajya Sabha,2025-01-21,lucky Interlock Tiles,Payment Success,45880.0,66,5,True/Strong Duplicate Candidate
+EXP_RS_18371,WS/MP140/2024-2025/164182,Rajya Sabha,2026-03-18,GUPTA BROTHERS,Payment Success,48000.0,67,2,True/Strong Duplicate Candidate
+EXP_RS_18375,WS/MP140/2024-2025/164182,Rajya Sabha,2026-03-18,GUPTA BROTHERS,Payment Success,48000.0,67,2,True/Strong Duplicate Candidate
+EXP_RS_216,WS/MP140/2024-2025/164182,Rajya Sabha,2026-08-26,Gupta Trading Co,Payment In-Progress,40000.0,68,3,True/Strong Duplicate Candidate
+EXP_RS_217,WS/MP140/2024-2025/164182,Rajya Sabha,2026-08-26,Gupta Trading Co,Payment In-Progress,40000.0,68,3,True/Strong Duplicate Candidate
+EXP_RS_219,WS/MP140/2024-2025/164182,Rajya Sabha,2026-08-26,Gupta Trading Co,Payment In-Progress,40000.0,68,3,True/Strong Duplicate Candidate
+EXP_RS_10171,WS/MP140/2025-2026/194345,Rajya Sabha,2025-06-05,AGGARWAL SANITARY STORE,Payment Success,450000.0,69,2,True/Strong Duplicate Candidate
+EXP_RS_10172,WS/MP140/2025-2026/194345,Rajya Sabha,2025-06-05,AGGARWAL SANITARY STORE,Payment Success,450000.0,69,2,True/Strong Duplicate Candidate
+EXP_RS_4574,WS/MP140/2025-2026/212989,Rajya Sabha,2026-01-05,MS ASHA RANI BIKO,Payment Success,42000.0,70,3,True/Strong Duplicate Candidate
+EXP_RS_4575,WS/MP140/2025-2026/212989,Rajya Sabha,2026-01-05,MS ASHA RANI BIKO,Payment Success,42000.0,70,3,True/Strong Duplicate Candidate
+EXP_RS_4576,WS/MP140/2025-2026/212989,Rajya Sabha,2026-01-05,MS ASHA RANI BIKO,Payment Success,42000.0,70,3,True/Strong Duplicate Candidate
+EXP_RS_10005,WS/MP140/2025-2026/222802,Rajya Sabha,2026-08-18,SK BRICKS AND CO,Payment Success,40000.0,71,4,True/Strong Duplicate Candidate
+EXP_RS_10006,WS/MP140/2025-2026/222802,Rajya Sabha,2026-08-18,SK BRICKS AND CO,Payment Success,40000.0,71,4,True/Strong Duplicate Candidate
+EXP_RS_10007,WS/MP140/2025-2026/222802,Rajya Sabha,2026-08-18,SK BRICKS AND CO,Payment Success,40000.0,71,4,True/Strong Duplicate Candidate
+EXP_RS_10008,WS/MP140/2025-2026/222802,Rajya Sabha,2026-08-18,SK BRICKS AND CO,Payment Success,40000.0,71,4,True/Strong Duplicate Candidate
+EXP_RS_17691,WS/MP140/2025-2026/247931,Rajya Sabha,2026-07-03,Bhullar Spun Pipe Factory,Payment Success,49560.0,72,4,True/Strong Duplicate Candidate
+EXP_RS_17692,WS/MP140/2025-2026/247931,Rajya Sabha,2026-07-03,Bhullar Spun Pipe Factory,Payment Success,49560.0,72,4,True/Strong Duplicate Candidate
+EXP_RS_17693,WS/MP140/2025-2026/247931,Rajya Sabha,2026-07-03,Bhullar Spun Pipe Factory,Payment Success,49560.0,72,4,True/Strong Duplicate Candidate
+EXP_RS_17694,WS/MP140/2025-2026/247931,Rajya Sabha,2026-07-03,Bhullar Spun Pipe Factory,Payment Success,49560.0,72,4,True/Strong Duplicate Candidate
+EXP_RS_17697,WS/MP140/2025-2026/247933,Rajya Sabha,2026-05-22,Bhullar Spun Pipe Factory,Payment Success,47602.0,73,2,True/Strong Duplicate Candidate
+EXP_RS_17698,WS/MP140/2025-2026/247933,Rajya Sabha,2026-05-22,Bhullar Spun Pipe Factory,Payment Success,47602.0,73,2,True/Strong Duplicate Candidate
+EXP_RS_5509,WS/MP140/2025-2026/250196,Rajya Sabha,2026-07-20,Rock Stone Construction,Payment Success,22940.0,74,2,True/Strong Duplicate Candidate
+EXP_RS_5510,WS/MP140/2025-2026/250196,Rajya Sabha,2026-07-20,Rock Stone Construction,Payment Success,22940.0,74,2,True/Strong Duplicate Candidate
+EXP_RS_5507,WS/MP140/2025-2026/250196,Rajya Sabha,2026-07-20,Rock Stone Construction,Payment Success,91760.0,75,2,True/Strong Duplicate Candidate
+EXP_RS_5508,WS/MP140/2025-2026/250196,Rajya Sabha,2026-07-20,Rock Stone Construction,Payment Success,91760.0,75,2,True/Strong Duplicate Candidate
+EXP_RS_13179,WS/MP140/2025-2026/255047,Rajya Sabha,2026-03-05,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,24301.0,76,2,True/Strong Duplicate Candidate
+EXP_RS_13180,WS/MP140/2025-2026/255047,Rajya Sabha,2026-03-05,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,24301.0,76,2,True/Strong Duplicate Candidate
+EXP_RS_6131,WS/MP141/2023-2024/77739,Rajya Sabha,2025-09-01,AJIT RAM KIRTAN SINGH BKO,Payment Success,27560.0,77,3,True/Strong Duplicate Candidate
+EXP_RS_6132,WS/MP141/2023-2024/77739,Rajya Sabha,2025-09-01,AJIT RAM KIRTAN SINGH BKO,Payment Success,27560.0,77,3,True/Strong Duplicate Candidate
+EXP_RS_6133,WS/MP141/2023-2024/77739,Rajya Sabha,2025-09-01,AJIT RAM KIRTAN SINGH BKO,Payment Success,27560.0,77,3,True/Strong Duplicate Candidate
+EXP_RS_15206,WS/MP141/2023-2024/77740,Rajya Sabha,2025-03-20,SUMIT VACHHER CONTRACTOR,Payment Success,50000.0,78,2,True/Strong Duplicate Candidate
+EXP_RS_15207,WS/MP141/2023-2024/77740,Rajya Sabha,2025-03-20,SUMIT VACHHER CONTRACTOR,Payment Success,50000.0,78,2,True/Strong Duplicate Candidate
+EXP_RS_2885,WS/MP141/2023-2024/80682,Rajya Sabha,2026-01-27,Chitti Trading Company,Payment Success,41340.0,79,4,True/Strong Duplicate Candidate
+EXP_RS_2886,WS/MP141/2023-2024/80682,Rajya Sabha,2026-01-27,Chitti Trading Company,Payment Success,41340.0,79,4,True/Strong Duplicate Candidate
+EXP_RS_2888,WS/MP141/2023-2024/80682,Rajya Sabha,2026-01-27,Chitti Trading Company,Payment Success,41340.0,79,4,True/Strong Duplicate Candidate
+EXP_RS_2889,WS/MP141/2023-2024/80682,Rajya Sabha,2026-01-27,Chitti Trading Company,Payment Success,41340.0,79,4,True/Strong Duplicate Candidate
+EXP_RS_3791,WS/MP141/2023-2024/80682,Rajya Sabha,2026-02-05,Dalip Kumar,Payment Success,60368.0,80,2,True/Strong Duplicate Candidate
+EXP_RS_3792,WS/MP141/2023-2024/80682,Rajya Sabha,2026-02-05,Dalip Kumar,Payment Success,60368.0,80,2,True/Strong Duplicate Candidate
+EXP_RS_10685,WS/MP141/2024-2025/135854,Rajya Sabha,2025-01-16,JINDAL WIRE NETTING INDUSTRIES,Payment Success,57000.0,81,2,True/Strong Duplicate Candidate
+EXP_RS_10686,WS/MP141/2024-2025/135854,Rajya Sabha,2025-01-16,JINDAL WIRE NETTING INDUSTRIES,Payment Success,57000.0,81,2,True/Strong Duplicate Candidate
+EXP_RS_10926,WS/MP141/2024-2025/135854,Rajya Sabha,2025-01-16,KAPIL HARDWARE AND SANITARY STORE,Payment Success,49608.0,82,2,True/Strong Duplicate Candidate
+EXP_RS_10927,WS/MP141/2024-2025/135854,Rajya Sabha,2025-01-16,KAPIL HARDWARE AND SANITARY STORE,Payment Success,49608.0,82,2,True/Strong Duplicate Candidate
+EXP_RS_10003,WS/MP141/2024-2025/135854,Rajya Sabha,2025-03-08,SK BRICKS AND CO,Payment Success,33920.0,83,2,True/Strong Duplicate Candidate
+EXP_RS_10004,WS/MP141/2024-2025/135854,Rajya Sabha,2025-03-08,SK BRICKS AND CO,Payment Success,33920.0,83,2,True/Strong Duplicate Candidate
+EXP_RS_12634,WS/MP141/2024-2025/135854,Rajya Sabha,2026-05-25,SHRI KRISHNA BUILDERS,Payment Success,40000.0,84,2,True/Strong Duplicate Candidate
+EXP_RS_12635,WS/MP141/2024-2025/135854,Rajya Sabha,2026-05-25,SHRI KRISHNA BUILDERS,Payment Success,40000.0,84,2,True/Strong Duplicate Candidate
+EXP_RS_12636,WS/MP141/2024-2025/135854,Rajya Sabha,2026-05-25,SHRI KRISHNA BUILDERS,Payment Success,49400.0,85,2,True/Strong Duplicate Candidate
+EXP_RS_12637,WS/MP141/2024-2025/135854,Rajya Sabha,2026-05-25,SHRI KRISHNA BUILDERS,Payment Success,49400.0,85,2,True/Strong Duplicate Candidate
+EXP_RS_13167,WS/MP141/2024-2025/141802,Rajya Sabha,2025-06-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,21000.0,86,3,True/Strong Duplicate Candidate
+EXP_RS_13168,WS/MP141/2024-2025/141802,Rajya Sabha,2025-06-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,21000.0,86,3,True/Strong Duplicate Candidate
+EXP_RS_13169,WS/MP141/2024-2025/141802,Rajya Sabha,2025-06-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,21000.0,86,3,True/Strong Duplicate Candidate
+EXP_RS_18327,WS/MP141/2024-2025/141805,Rajya Sabha,2025-06-26,Thakur Tile Industries,Payment Success,45600.0,87,2,True/Strong Duplicate Candidate
+EXP_RS_18328,WS/MP141/2024-2025/141805,Rajya Sabha,2025-06-26,Thakur Tile Industries,Payment Success,45600.0,87,2,True/Strong Duplicate Candidate
+EXP_RS_18322,WS/MP141/2024-2025/141806,Rajya Sabha,2025-03-06,Thakur Tile Industries,Payment Success,45600.0,88,3,True/Strong Duplicate Candidate
+EXP_RS_18323,WS/MP141/2024-2025/141806,Rajya Sabha,2025-03-06,Thakur Tile Industries,Payment Success,45600.0,88,3,True/Strong Duplicate Candidate
+EXP_RS_18324,WS/MP141/2024-2025/141806,Rajya Sabha,2025-03-06,Thakur Tile Industries,Payment Success,45600.0,88,3,True/Strong Duplicate Candidate
+EXP_RS_13245,WS/MP141/2025-2026/213245,Rajya Sabha,2026-02-16,Ms Balaji Brick Ind Dasuya,Payment Success,48600.0,89,2,True/Strong Duplicate Candidate
+EXP_RS_13246,WS/MP141/2025-2026/213245,Rajya Sabha,2026-02-16,Ms Balaji Brick Ind Dasuya,Payment Success,48600.0,89,2,True/Strong Duplicate Candidate
+EXP_RS_13176,WS/MP141/2025-2026/213252,Rajya Sabha,2026-02-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,40502.0,90,3,True/Strong Duplicate Candidate
+EXP_RS_13177,WS/MP141/2025-2026/213252,Rajya Sabha,2026-02-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,40502.0,90,3,True/Strong Duplicate Candidate
+EXP_RS_13178,WS/MP141/2025-2026/213252,Rajya Sabha,2026-02-25,Ms Sanjeev Kumar BKO Vill Balagan,Payment Success,40502.0,90,3,True/Strong Duplicate Candidate
+EXP_RS_4887,WS/MP141/2025-2026/227817,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,21000.0,91,2,True/Strong Duplicate Candidate
+EXP_RS_4888,WS/MP141/2025-2026/227817,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,21000.0,91,2,True/Strong Duplicate Candidate
+EXP_RS_4897,WS/MP141/2025-2026/227819,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,28000.0,92,5,True/Strong Duplicate Candidate
+EXP_RS_4898,WS/MP141/2025-2026/227819,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,28000.0,92,5,True/Strong Duplicate Candidate
+EXP_RS_4899,WS/MP141/2025-2026/227819,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,28000.0,92,5,True/Strong Duplicate Candidate
+EXP_RS_4900,WS/MP141/2025-2026/227819,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,28000.0,92,5,True/Strong Duplicate Candidate
+EXP_RS_4901,WS/MP141/2025-2026/227819,Rajya Sabha,2026-01-06,MS BAL AND  CO,Payment Success,28000.0,92,5,True/Strong Duplicate Candidate
+EXP_RS_1714,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Gupta Iron Traders,Payment Success,43500.0,93,2,True/Strong Duplicate Candidate
+EXP_RS_1715,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Gupta Iron Traders,Payment Success,43500.0,93,2,True/Strong Duplicate Candidate
+EXP_RS_1716,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1717,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1718,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1719,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1720,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1721,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1722,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1723,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1724,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1725,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1726,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1727,WS/MP141/2026-2027/264711,Rajya Sabha,2026-05-13,Raja Sahib ji Interlock Tile Factory,Payment Success,46020.0,94,12,True/Strong Duplicate Candidate
+EXP_RS_1487,WS/MP141/2026-2027/267112,Rajya Sabha,2026-07-06,SHRI KRISHNA BUILDER,Payment Success,48000.0,95,2,True/Strong Duplicate Candidate
+EXP_RS_1489,WS/MP141/2026-2027/267112,Rajya Sabha,2026-07-06,SHRI KRISHNA BUILDER,Payment Success,48000.0,95,2,True/Strong Duplicate Candidate
+EXP_RS_1567,WS/MP141/2026-2027/267113,Rajya Sabha,2026-05-02,G B Bricks and Tiles Kathana,Payment Success,306800.0,96,2,True/Strong Duplicate Candidate
+EXP_RS_1568,WS/MP141/2026-2027/267113,Rajya Sabha,2026-05-02,G B Bricks and Tiles Kathana,Payment Success,306800.0,96,2,True/Strong Duplicate Candidate
+EXP_RS_1565,WS/MP141/2026-2027/267127,Rajya Sabha,2026-05-02,G B Bricks and Tiles Kathana,Payment Success,306800.0,97,2,True/Strong Duplicate Candidate
+EXP_RS_1566,WS/MP141/2026-2027/267127,Rajya Sabha,2026-05-02,G B Bricks and Tiles Kathana,Payment Success,306800.0,97,2,True/Strong Duplicate Candidate
+EXP_RS_4928,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,Deepak chaudhary,Payment Success,25899.0,98,2,True/Strong Duplicate Candidate
+EXP_RS_4929,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,Deepak chaudhary,Payment Success,25899.0,98,2,True/Strong Duplicate Candidate
+EXP_RS_4927,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,Deepak chaudhary,Payment Success,36999.0,99,3,True/Strong Duplicate Candidate
+EXP_RS_4930,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,Deepak chaudhary,Payment Success,36999.0,99,3,True/Strong Duplicate Candidate
+EXP_RS_4931,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,Deepak chaudhary,Payment Success,36999.0,99,3,True/Strong Duplicate Candidate
+EXP_RS_5250,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,pankaj kumar goyal,Payment Success,37400.0,100,4,True/Strong Duplicate Candidate
+EXP_RS_5251,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,pankaj kumar goyal,Payment Success,37400.0,100,4,True/Strong Duplicate Candidate
+EXP_RS_5252,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,pankaj kumar goyal,Payment Success,37400.0,100,4,True/Strong Duplicate Candidate
+EXP_RS_5253,WS/MP145/2025-2026/193233,Rajya Sabha,2025-11-08,pankaj kumar goyal,Payment Success,37400.0,100,4,True/Strong Duplicate Candidate
+EXP_RS_5245,WS/MP145/2025-2026/193233,Rajya Sabha,2026-02-22,pankaj kumar goyal,Payment Success,30600.0,101,4,True/Strong Duplicate Candidate
+EXP_RS_5246,WS/MP145/2025-2026/193233,Rajya Sabha,2026-02-22,pankaj kumar goyal,Payment Success,30600.0,101,4,True/Strong Duplicate Candidate
+EXP_RS_5247,WS/MP145/2025-2026/193233,Rajya Sabha,2026-02-22,pankaj kumar goyal,Payment Success,30600.0,101,4,True/Strong Duplicate Candidate
+EXP_RS_5249,WS/MP145/2025-2026/193233,Rajya Sabha,2026-02-22,pankaj kumar goyal,Payment Success,30600.0,101,4,True/Strong Duplicate Candidate
+EXP_RS_1982,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,Deepak Kumar,Payment Success,9750.0,102,2,True/Strong Duplicate Candidate
+EXP_RS_1983,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,Deepak Kumar,Payment Success,9750.0,102,2,True/Strong Duplicate Candidate
+EXP_RS_1973,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,MANOJ,Payment Success,3705.0,103,2,True/Strong Duplicate Candidate
+EXP_RS_1974,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,MANOJ,Payment Success,3705.0,103,2,True/Strong Duplicate Candidate
+EXP_RS_1971,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,SURESH KUMAR,Payment Success,3705.0,104,2,True/Strong Duplicate Candidate
+EXP_RS_1972,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,SURESH KUMAR,Payment Success,3705.0,104,2,True/Strong Duplicate Candidate
+EXP_RS_1976,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,VINOD KUMAR,Payment Success,9750.0,105,2,True/Strong Duplicate Candidate
+EXP_RS_1977,WS/MP148/2025-2026/266384,Rajya Sabha,2026-05-06,VINOD KUMAR,Payment Success,9750.0,105,2,True/Strong Duplicate Candidate
+EXP_RS_4390,WS/MP165/2024-2025/177920,Rajya Sabha,2026-03-05,Nipro Medical India Private Limited,Payment Success,598500.0,106,2,True/Strong Duplicate Candidate
+EXP_RS_4391,WS/MP165/2024-2025/177920,Rajya Sabha,2026-03-05,Nipro Medical India Private Limited,Payment Success,598500.0,106,2,True/Strong Duplicate Candidate
+EXP_RS_13044,WS/MP176/2024-2025/149419,Rajya Sabha,2025-02-28,Samriddhi Enterprises,Payment Success,5000000.0,107,2,True/Strong Duplicate Candidate
+EXP_RS_13045,WS/MP176/2024-2025/149419,Rajya Sabha,2025-02-28,Samriddhi Enterprises,Payment Success,5000000.0,107,2,True/Strong Duplicate Candidate
+EXP_LS_12874,WS/MP18021/2025-2026/185293,Lok Sabha,2026-02-20,SHREYA TRADING,Payment Success,120000.0,108,2,True/Strong Duplicate Candidate
+EXP_LS_12875,WS/MP18021/2025-2026/185293,Lok Sabha,2026-02-20,SHREYA TRADING,Payment Success,120000.0,108,2,True/Strong Duplicate Candidate
+EXP_LS_8733,WS/MP18062/2025-2026/188089,Lok Sabha,2026-05-21,Ranglar Private Limited,Payment Success,47200.0,109,2,True/Strong Duplicate Candidate
+EXP_LS_8734,WS/MP18062/2025-2026/188089,Lok Sabha,2026-05-21,Ranglar Private Limited,Payment Success,47200.0,109,2,True/Strong Duplicate Candidate
+EXP_LS_1938,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,47554.0,110,2,True/Strong Duplicate Candidate
+EXP_LS_1939,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,47554.0,110,2,True/Strong Duplicate Candidate
+EXP_LS_1927,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1928,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1929,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1930,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1931,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1932,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1933,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1934,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_1936,WS/MP18067/2025-2026/193196,Lok Sabha,2026-08-24,MS Sanjay Construction Kharak Bainsi Meham,Payment In-Progress,49560.0,111,9,True/Strong Duplicate Candidate
+EXP_LS_5677,WS/MP18069/2025-2026/212133,Lok Sabha,2026-06-18,ANKIT,Payment Success,58204.0,112,2,True/Strong Duplicate Candidate
+EXP_LS_5678,WS/MP18069/2025-2026/212133,Lok Sabha,2026-06-18,ANKIT,Payment Success,58204.0,112,2,True/Strong Duplicate Candidate
+EXP_LS_13448,WS/MP18108/2025-2026/266549,Lok Sabha,2026-02-13,Som Construction and Material Supply,Payment Success,149829.0,113,2,True/Strong Duplicate Candidate
+EXP_LS_13449,WS/MP18108/2025-2026/266549,Lok Sabha,2026-02-13,Som Construction and Material Supply,Payment Success,149829.0,113,2,True/Strong Duplicate Candidate
+EXP_LS_3294,WS/MP18109/2026-2027/164962,Lok Sabha,2026-08-05,GRAM PANCHAYAT RAMPUR,Payment Success,49995.0,114,3,True/Strong Duplicate Candidate
+EXP_LS_3295,WS/MP18109/2026-2027/164962,Lok Sabha,2026-08-05,GRAM PANCHAYAT RAMPUR,Payment Success,49995.0,114,3,True/Strong Duplicate Candidate
+EXP_LS_3296,WS/MP18109/2026-2027/164962,Lok Sabha,2026-08-05,GRAM PANCHAYAT RAMPUR,Payment Success,49995.0,114,3,True/Strong Duplicate Candidate
+EXP_LS_8179,WS/MP18109/2026-2027/224575,Lok Sabha,2026-06-18,PANCHAYAT BARIGAWAN NO 02,Payment Success,185000.0,115,2,True/Strong Duplicate Candidate
+EXP_LS_8181,WS/MP18109/2026-2027/224575,Lok Sabha,2026-06-18,PANCHAYAT BARIGAWAN NO 02,Payment Success,185000.0,115,2,True/Strong Duplicate Candidate
+EXP_LS_4457,WS/MP18109/2026-2027/244415,Lok Sabha,2026-07-07,GRAM PANCHAYAT BAGHAYU,Payment Success,45000.0,116,2,True/Strong Duplicate Candidate
+EXP_LS_4460,WS/MP18109/2026-2027/244415,Lok Sabha,2026-07-07,GRAM PANCHAYAT BAGHAYU,Payment Success,45000.0,116,2,True/Strong Duplicate Candidate
+EXP_LS_12036,WS/MP18109/2026-2027/247523,Lok Sabha,2026-04-10,GRAM PANCHAYAT OBARHA JANPAD PANCHAYAT SIDHI,Payment Success,100000.0,117,2,True/Strong Duplicate Candidate
+EXP_LS_12037,WS/MP18109/2026-2027/247523,Lok Sabha,2026-04-10,GRAM PANCHAYAT OBARHA JANPAD PANCHAYAT SIDHI,Payment Success,100000.0,117,2,True/Strong Duplicate Candidate
+EXP_LS_1560,WS/MP18109/2026-2027/247523,Lok Sabha,2026-08-27,GRAM PANCHAYAT OBARHA JANPAD PANCHAYAT SIDHI,Payment In-Progress,100000.0,118,2,True/Strong Duplicate Candidate
+EXP_LS_1561,WS/MP18109/2026-2027/247523,Lok Sabha,2026-08-27,GRAM PANCHAYAT OBARHA JANPAD PANCHAYAT SIDHI,Payment In-Progress,100000.0,118,2,True/Strong Duplicate Candidate
+EXP_LS_8591,WS/MP18109/2026-2027/247524,Lok Sabha,2026-04-24,GRAM PANCHAYAT DEOGHAD,Payment Success,98800.0,119,2,True/Strong Duplicate Candidate
+EXP_LS_8592,WS/MP18109/2026-2027/247524,Lok Sabha,2026-04-24,GRAM PANCHAYAT DEOGHAD,Payment Success,98800.0,119,2,True/Strong Duplicate Candidate
+EXP_LS_10043,WS/MP18152/2025-2026/258335,Lok Sabha,2026-03-20,Gill Interlock tiles,Payment Success,49490.0,120,2,True/Strong Duplicate Candidate
+EXP_LS_10044,WS/MP18152/2025-2026/258335,Lok Sabha,2026-03-20,Gill Interlock tiles,Payment Success,49490.0,120,2,True/Strong Duplicate Candidate
+EXP_LS_5860,WS/MP18153/2025-2026/212052,Lok Sabha,2026-06-16,SHREE SHYAM TRADING COMPANY,Payment Success,126776.0,121,2,True/Strong Duplicate Candidate
+EXP_LS_5861,WS/MP18153/2025-2026/212052,Lok Sabha,2026-06-16,SHREE SHYAM TRADING COMPANY,Payment Success,126776.0,121,2,True/Strong Duplicate Candidate
+EXP_LS_5857,WS/MP18153/2025-2026/212055,Lok Sabha,2026-06-23,ARMAN TILES INDUSTRIS,Payment Success,47840.0,122,2,True/Strong Duplicate Candidate
+EXP_LS_5859,WS/MP18153/2025-2026/212055,Lok Sabha,2026-06-23,ARMAN TILES INDUSTRIS,Payment Success,47840.0,122,2,True/Strong Duplicate Candidate
+EXP_LS_14777,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,35723.0,123,2,True/Strong Duplicate Candidate
+EXP_LS_14778,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,35723.0,123,2,True/Strong Duplicate Candidate
+EXP_LS_14773,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,49463.0,124,4,True/Strong Duplicate Candidate
+EXP_LS_14774,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,49463.0,124,4,True/Strong Duplicate Candidate
+EXP_LS_14775,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,49463.0,124,4,True/Strong Duplicate Candidate
+EXP_LS_14776,WS/MP18153/2025-2026/238123,Lok Sabha,2026-01-21,SHREE BALA JI PIPE INDUSTRIES,Payment Success,49463.0,124,4,True/Strong Duplicate Candidate
+EXP_LS_12676,WS/MP18154/2025-2026/166552,Lok Sabha,2026-02-13,Bajwa Tiles Mart New,Payment Success,45878.0,125,2,True/Strong Duplicate Candidate
+EXP_LS_12677,WS/MP18154/2025-2026/166552,Lok Sabha,2026-02-13,Bajwa Tiles Mart New,Payment Success,45878.0,125,2,True/Strong Duplicate Candidate
+EXP_LS_12824,WS/MP18154/2025-2026/199712,Lok Sabha,2026-03-03,Ms Aman Cement Store,Payment Success,48000.0,126,2,True/Strong Duplicate Candidate
+EXP_LS_12827,WS/MP18154/2025-2026/199712,Lok Sabha,2026-03-03,Ms Aman Cement Store,Payment Success,48000.0,126,2,True/Strong Duplicate Candidate
+EXP_LS_12819,WS/MP18154/2025-2026/199716,Lok Sabha,2026-05-14,Ms Aman Cement Store,Payment Success,49200.0,127,2,True/Strong Duplicate Candidate
+EXP_LS_12821,WS/MP18154/2025-2026/199716,Lok Sabha,2026-05-14,Ms Aman Cement Store,Payment Success,49200.0,127,2,True/Strong Duplicate Candidate
+EXP_LS_12846,WS/MP18154/2025-2026/199730,Lok Sabha,2026-02-21,NKS Industries,Payment Success,41300.0,128,2,True/Strong Duplicate Candidate
+EXP_LS_12847,WS/MP18154/2025-2026/199730,Lok Sabha,2026-02-21,NKS Industries,Payment Success,41300.0,128,2,True/Strong Duplicate Candidate
+EXP_LS_9241,WS/MP18154/2025-2026/215778,Lok Sabha,2026-04-03,ALCON CONCRETE PRODUCT,Payment Success,45880.0,129,4,True/Strong Duplicate Candidate
+EXP_LS_9242,WS/MP18154/2025-2026/215778,Lok Sabha,2026-04-03,ALCON CONCRETE PRODUCT,Payment Success,45880.0,129,4,True/Strong Duplicate Candidate
+EXP_LS_9243,WS/MP18154/2025-2026/215778,Lok Sabha,2026-04-03,ALCON CONCRETE PRODUCT,Payment Success,45880.0,129,4,True/Strong Duplicate Candidate
+EXP_LS_9244,WS/MP18154/2025-2026/215778,Lok Sabha,2026-04-03,ALCON CONCRETE PRODUCT,Payment Success,45880.0,129,4,True/Strong Duplicate Candidate
+EXP_LS_12680,WS/MP18154/2025-2026/245786,Lok Sabha,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,130,2,True/Strong Duplicate Candidate
+EXP_LS_12681,WS/MP18154/2025-2026/245786,Lok Sabha,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,130,2,True/Strong Duplicate Candidate
+EXP_LS_8263,WS/MP18154/2025-2026/251551,Lok Sabha,2026-04-15,Ms BK Bricks Industries,Payment Success,28002.0,131,2,True/Strong Duplicate Candidate
+EXP_LS_8264,WS/MP18154/2025-2026/251551,Lok Sabha,2026-04-15,Ms BK Bricks Industries,Payment Success,28002.0,131,2,True/Strong Duplicate Candidate
+EXP_LS_11137,WS/MP18155/2024-2025/176188,Lok Sabha,2026-03-12,MS Kirti Kiran Brick Industry,Payment Success,24600.0,132,2,True/Strong Duplicate Candidate
+EXP_LS_11138,WS/MP18155/2024-2025/176188,Lok Sabha,2026-03-12,MS Kirti Kiran Brick Industry,Payment Success,24600.0,132,2,True/Strong Duplicate Candidate
+EXP_LS_11704,WS/MP18155/2025-2026/188544,Lok Sabha,2026-05-22,Sachdeva Tarding Company,Payment Success,41000.0,133,2,True/Strong Duplicate Candidate
+EXP_LS_11705,WS/MP18155/2025-2026/188544,Lok Sabha,2026-05-22,Sachdeva Tarding Company,Payment Success,41000.0,133,2,True/Strong Duplicate Candidate
+EXP_LS_5894,WS/MP18155/2025-2026/192796,Lok Sabha,2026-06-22,BB Bricks,Payment Success,36000.0,134,3,True/Strong Duplicate Candidate
+EXP_LS_5895,WS/MP18155/2025-2026/192796,Lok Sabha,2026-06-22,BB Bricks,Payment Success,36000.0,134,3,True/Strong Duplicate Candidate
+EXP_LS_5896,WS/MP18155/2025-2026/192796,Lok Sabha,2026-06-22,BB Bricks,Payment Success,36000.0,134,3,True/Strong Duplicate Candidate
+EXP_LS_11143,WS/MP18155/2025-2026/243490,Lok Sabha,2026-03-12,Billa Da Bhatha,Payment Success,40000.0,135,4,True/Strong Duplicate Candidate
+EXP_LS_11144,WS/MP18155/2025-2026/243490,Lok Sabha,2026-03-12,Billa Da Bhatha,Payment Success,40000.0,135,4,True/Strong Duplicate Candidate
+EXP_LS_11145,WS/MP18155/2025-2026/243490,Lok Sabha,2026-03-12,Billa Da Bhatha,Payment Success,40000.0,135,4,True/Strong Duplicate Candidate
+EXP_LS_11146,WS/MP18155/2025-2026/243490,Lok Sabha,2026-03-12,Billa Da Bhatha,Payment Success,40000.0,135,4,True/Strong Duplicate Candidate
+EXP_LS_3124,WS/MP18155/2025-2026/243490,Lok Sabha,2026-08-15,Lahori Ram,Payment Success,31000.0,136,2,True/Strong Duplicate Candidate
+EXP_LS_3125,WS/MP18155/2025-2026/243490,Lok Sabha,2026-08-15,Lahori Ram,Payment Success,31000.0,136,2,True/Strong Duplicate Candidate
+EXP_LS_12493,WS/MP18155/2025-2026/247494,Lok Sabha,2026-03-05,MS Vishwakarma Brick Industry,Payment Success,40500.0,137,2,True/Strong Duplicate Candidate
+EXP_LS_12494,WS/MP18155/2025-2026/247494,Lok Sabha,2026-03-05,MS Vishwakarma Brick Industry,Payment Success,40500.0,137,2,True/Strong Duplicate Candidate
+EXP_LS_12482,WS/MP18155/2025-2026/247494,Lok Sabha,2026-05-12,MS Vishwakarma Brick Industry,Payment Success,40500.0,138,3,True/Strong Duplicate Candidate
+EXP_LS_12483,WS/MP18155/2025-2026/247494,Lok Sabha,2026-05-12,MS Vishwakarma Brick Industry,Payment Success,40500.0,138,3,True/Strong Duplicate Candidate
+EXP_LS_12484,WS/MP18155/2025-2026/247494,Lok Sabha,2026-05-12,MS Vishwakarma Brick Industry,Payment Success,40500.0,138,3,True/Strong Duplicate Candidate
+EXP_LS_12485,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12486,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12487,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12488,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12489,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12490,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12491,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12492,WS/MP18155/2025-2026/247495,Lok Sabha,2026-05-13,MS Vishwakarma Brick Industry,Payment Success,32400.0,139,8,True/Strong Duplicate Candidate
+EXP_LS_12249,WS/MP18155/2025-2026/247626,Lok Sabha,2026-02-26,Avreen Industeries  Mukerian,Payment Success,45595.0,140,2,True/Strong Duplicate Candidate
+EXP_LS_12250,WS/MP18155/2025-2026/247626,Lok Sabha,2026-02-26,Avreen Industeries  Mukerian,Payment Success,45595.0,140,2,True/Strong Duplicate Candidate
+EXP_LS_2940,WS/MP18155/2025-2026/247632,Lok Sabha,2026-08-21,Ms Badyal Brothers Cement Store,Payment Success,32000.0,141,2,True/Strong Duplicate Candidate
+EXP_LS_2941,WS/MP18155/2025-2026/247632,Lok Sabha,2026-08-21,Ms Badyal Brothers Cement Store,Payment Success,32000.0,141,2,True/Strong Duplicate Candidate
+EXP_LS_3472,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Kapila Trading Co,Payment Success,49000.0,142,2,True/Strong Duplicate Candidate
+EXP_LS_3473,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Kapila Trading Co,Payment Success,49000.0,142,2,True/Strong Duplicate Candidate
+EXP_LS_13541,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Karan Singh BKO,Payment Success,25502.0,143,2,True/Strong Duplicate Candidate
+EXP_LS_13542,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Karan Singh BKO,Payment Success,25502.0,143,2,True/Strong Duplicate Candidate
+EXP_LS_13543,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Karan Singh BKO,Payment Success,42504.0,144,2,True/Strong Duplicate Candidate
+EXP_LS_13544,WS/MP18155/2025-2026/247640,Lok Sabha,2026-08-07,Karan Singh BKO,Payment Success,42504.0,144,2,True/Strong Duplicate Candidate
+EXP_LS_6099,WS/MP18155/2025-2026/249394,Lok Sabha,2026-06-22,Bharat Paver and Concrete industries,Payment Success,45596.0,145,3,True/Strong Duplicate Candidate
+EXP_LS_6100,WS/MP18155/2025-2026/249394,Lok Sabha,2026-06-22,Bharat Paver and Concrete industries,Payment Success,45596.0,145,3,True/Strong Duplicate Candidate
+EXP_LS_6101,WS/MP18155/2025-2026/249394,Lok Sabha,2026-06-22,Bharat Paver and Concrete industries,Payment Success,45596.0,145,3,True/Strong Duplicate Candidate
+EXP_LS_9210,WS/MP18155/2025-2026/249797,Lok Sabha,2026-04-06,D S Builders,Payment Success,45595.0,146,3,True/Strong Duplicate Candidate
+EXP_LS_9211,WS/MP18155/2025-2026/249797,Lok Sabha,2026-04-06,D S Builders,Payment Success,45595.0,146,3,True/Strong Duplicate Candidate
+EXP_LS_9212,WS/MP18155/2025-2026/249797,Lok Sabha,2026-04-06,D S Builders,Payment Success,45595.0,146,3,True/Strong Duplicate Candidate
+EXP_LS_10148,WS/MP18155/2025-2026/250125,Lok Sabha,2026-06-23,MS Patial Bricks,Payment Success,32000.0,147,2,True/Strong Duplicate Candidate
+EXP_LS_10149,WS/MP18155/2025-2026/250125,Lok Sabha,2026-06-23,MS Patial Bricks,Payment Success,32000.0,147,2,True/Strong Duplicate Candidate
+EXP_LS_9802,WS/MP18155/2025-2026/257077,Lok Sabha,2026-06-22,Billa Bricks Manufacting,Payment Success,45100.0,148,2,True/Strong Duplicate Candidate
+EXP_LS_9803,WS/MP18155/2025-2026/257077,Lok Sabha,2026-06-22,Billa Bricks Manufacting,Payment Success,45100.0,148,2,True/Strong Duplicate Candidate
+EXP_LS_9800,WS/MP18155/2025-2026/257077,Lok Sabha,2026-06-22,Billa Bricks Manufacting,Payment Success,49200.0,149,2,True/Strong Duplicate Candidate
+EXP_LS_9801,WS/MP18155/2025-2026/257077,Lok Sabha,2026-06-22,Billa Bricks Manufacting,Payment Success,49200.0,149,2,True/Strong Duplicate Candidate
+EXP_LS_10570,WS/MP18155/2025-2026/265006,Lok Sabha,2026-03-24,surinder sngh bko,Payment Success,48000.0,150,2,True/Strong Duplicate Candidate
+EXP_LS_10571,WS/MP18155/2025-2026/265006,Lok Sabha,2026-03-24,surinder sngh bko,Payment Success,48000.0,150,2,True/Strong Duplicate Candidate
+EXP_LS_10568,WS/MP18155/2025-2026/265006,Lok Sabha,2026-04-27,surinder sngh bko,Payment Success,48000.0,151,2,True/Strong Duplicate Candidate
+EXP_LS_10569,WS/MP18155/2025-2026/265006,Lok Sabha,2026-04-27,surinder sngh bko,Payment Success,48000.0,151,2,True/Strong Duplicate Candidate
+EXP_LS_9723,WS/MP18156/2025-2026/213119,Lok Sabha,2026-03-24,SHRI GURU ARJAN DEV JI,Payment Success,34410.0,152,2,True/Strong Duplicate Candidate
+EXP_LS_9724,WS/MP18156/2025-2026/213119,Lok Sabha,2026-03-24,SHRI GURU ARJAN DEV JI,Payment Success,34410.0,152,2,True/Strong Duplicate Candidate
+EXP_LS_12293,WS/MP18156/2025-2026/213121,Lok Sabha,2026-03-17,Super Tile Works,Payment Success,45878.0,153,3,True/Strong Duplicate Candidate
+EXP_LS_12294,WS/MP18156/2025-2026/213121,Lok Sabha,2026-03-17,Super Tile Works,Payment Success,45878.0,153,3,True/Strong Duplicate Candidate
+EXP_LS_12295,WS/MP18156/2025-2026/213121,Lok Sabha,2026-03-17,Super Tile Works,Payment Success,45878.0,153,3,True/Strong Duplicate Candidate
+EXP_LS_9334,WS/MP18156/2025-2026/213614,Lok Sabha,2026-05-25,Singhal iron store,Payment Success,46800.0,154,2,True/Strong Duplicate Candidate
+EXP_LS_9335,WS/MP18156/2025-2026/213614,Lok Sabha,2026-05-25,Singhal iron store,Payment Success,46800.0,154,2,True/Strong Duplicate Candidate
+EXP_LS_14069,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,47320.0,155,5,True/Strong Duplicate Candidate
+EXP_LS_14070,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,47320.0,155,5,True/Strong Duplicate Candidate
+EXP_LS_14071,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,47320.0,155,5,True/Strong Duplicate Candidate
+EXP_LS_14072,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,47320.0,155,5,True/Strong Duplicate Candidate
+EXP_LS_14073,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,47320.0,155,5,True/Strong Duplicate Candidate
+EXP_LS_14074,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,49504.0,156,2,True/Strong Duplicate Candidate
+EXP_LS_14075,WS/MP18157/2025-2026/241179,Lok Sabha,2026-02-04,Sidhu and Company,Payment Success,49504.0,156,2,True/Strong Duplicate Candidate
+EXP_LS_14014,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-05,HARPREET SINGH,Payment Success,17400.0,157,3,True/Strong Duplicate Candidate
+EXP_LS_14015,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-05,HARPREET SINGH,Payment Success,17400.0,157,3,True/Strong Duplicate Candidate
+EXP_LS_14016,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-05,HARPREET SINGH,Payment Success,17400.0,157,3,True/Strong Duplicate Candidate
+EXP_LS_14017,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-23,HARPREET SINGH,Payment Success,17400.0,158,3,True/Strong Duplicate Candidate
+EXP_LS_14018,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-23,HARPREET SINGH,Payment Success,17400.0,158,3,True/Strong Duplicate Candidate
+EXP_LS_14019,WS/MP18157/2025-2026/241195,Lok Sabha,2026-02-23,HARPREET SINGH,Payment Success,17400.0,158,3,True/Strong Duplicate Candidate
+EXP_LS_6298,WS/MP18157/2025-2026/267152,Lok Sabha,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,159,3,True/Strong Duplicate Candidate
+EXP_LS_6299,WS/MP18157/2025-2026/267152,Lok Sabha,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,159,3,True/Strong Duplicate Candidate
+EXP_LS_6300,WS/MP18157/2025-2026/267152,Lok Sabha,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,159,3,True/Strong Duplicate Candidate
+EXP_LS_9942,WS/MP18158/2025-2026/191105,Lok Sabha,2026-05-11,DAL SINGH,Payment Success,28700.0,160,2,True/Strong Duplicate Candidate
+EXP_LS_9944,WS/MP18158/2025-2026/191105,Lok Sabha,2026-05-11,DAL SINGH,Payment Success,28700.0,160,2,True/Strong Duplicate Candidate
+EXP_LS_7128,WS/MP18158/2025-2026/199809,Lok Sabha,2026-05-11,Binder Singh,Payment Success,23800.0,161,2,True/Strong Duplicate Candidate
+EXP_LS_7129,WS/MP18158/2025-2026/199809,Lok Sabha,2026-05-11,Binder Singh,Payment Success,23800.0,161,2,True/Strong Duplicate Candidate
+EXP_LS_8836,WS/MP18158/2025-2026/206593,Lok Sabha,2026-04-07,Guru Nanak Tiles,Payment Success,48930.0,162,2,True/Strong Duplicate Candidate
+EXP_LS_8837,WS/MP18158/2025-2026/206593,Lok Sabha,2026-04-07,Guru Nanak Tiles,Payment Success,48930.0,162,2,True/Strong Duplicate Candidate
+EXP_LS_14939,WS/MP18158/2025-2026/224000,Lok Sabha,2026-05-14,ms brother brick kiln co,Payment Success,36729.0,163,2,True/Strong Duplicate Candidate
+EXP_LS_14940,WS/MP18158/2025-2026/224000,Lok Sabha,2026-05-14,ms brother brick kiln co,Payment Success,36729.0,163,2,True/Strong Duplicate Candidate
+EXP_LS_4030,WS/MP18158/2025-2026/230318,Lok Sabha,2026-07-16,ms Karam Chand hari singh bko,Payment Success,48972.0,164,2,True/Strong Duplicate Candidate
+EXP_LS_4031,WS/MP18158/2025-2026/230318,Lok Sabha,2026-07-16,ms Karam Chand hari singh bko,Payment Success,48972.0,164,2,True/Strong Duplicate Candidate
+EXP_LS_1240,WS/MP18158/2025-2026/232705,Lok Sabha,2025-11-18,GURU NANAK CEMENT STORE,Payment In-Progress,34500.0,165,2,True/Strong Duplicate Candidate
+EXP_LS_1241,WS/MP18158/2025-2026/232705,Lok Sabha,2025-11-18,GURU NANAK CEMENT STORE,Payment In-Progress,34500.0,165,2,True/Strong Duplicate Candidate
+EXP_LS_11309,WS/MP18158/2025-2026/238965,Lok Sabha,2026-02-27,ATMA RAM SOHAN LAL AGENCIES  PRIVATE LIMITED,Payment Success,49548.0,166,2,True/Strong Duplicate Candidate
+EXP_LS_11310,WS/MP18158/2025-2026/238965,Lok Sabha,2026-02-27,ATMA RAM SOHAN LAL AGENCIES  PRIVATE LIMITED,Payment Success,49548.0,166,2,True/Strong Duplicate Candidate
+EXP_LS_11306,WS/MP18158/2025-2026/238965,Lok Sabha,2026-05-08,ATMA RAM SOHAN LAL AGENCIES  PRIVATE LIMITED,Payment Success,27942.0,167,2,True/Strong Duplicate Candidate
+EXP_LS_11308,WS/MP18158/2025-2026/238965,Lok Sabha,2026-05-08,ATMA RAM SOHAN LAL AGENCIES  PRIVATE LIMITED,Payment Success,27942.0,167,2,True/Strong Duplicate Candidate
+EXP_LS_2965,WS/MP18158/2026-2027/279021,Lok Sabha,2026-08-18,SD TILE AND ANDUSTRIES,Payment Success,45840.0,168,4,True/Strong Duplicate Candidate
+EXP_LS_2966,WS/MP18158/2026-2027/279021,Lok Sabha,2026-08-18,SD TILE AND ANDUSTRIES,Payment Success,45840.0,168,4,True/Strong Duplicate Candidate
+EXP_LS_2967,WS/MP18158/2026-2027/279021,Lok Sabha,2026-08-18,SD TILE AND ANDUSTRIES,Payment Success,45840.0,168,4,True/Strong Duplicate Candidate
+EXP_LS_2968,WS/MP18158/2026-2027/279021,Lok Sabha,2026-08-18,SD TILE AND ANDUSTRIES,Payment Success,45840.0,168,4,True/Strong Duplicate Candidate
+EXP_LS_3235,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,MUNNI DEVI,Payment Success,3705.0,169,2,True/Strong Duplicate Candidate
+EXP_LS_3236,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,MUNNI DEVI,Payment Success,3705.0,169,2,True/Strong Duplicate Candidate
+EXP_LS_3238,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,PRAVEEN KUMAR,Payment Success,9100.0,170,2,True/Strong Duplicate Candidate
+EXP_LS_3239,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,PRAVEEN KUMAR,Payment Success,9100.0,170,2,True/Strong Duplicate Candidate
+EXP_LS_3230,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,RAVINDRA,Payment Success,3705.0,171,2,True/Strong Duplicate Candidate
+EXP_LS_3231,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,RAVINDRA,Payment Success,3705.0,171,2,True/Strong Duplicate Candidate
+EXP_LS_3232,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,RAVINDRA,Payment Success,9100.0,172,2,True/Strong Duplicate Candidate
+EXP_LS_3233,WS/MP18161/2025-2026/227379,Lok Sabha,2026-08-19,RAVINDRA,Payment Success,9100.0,172,2,True/Strong Duplicate Candidate
+EXP_LS_14391,WS/MP18162/2025-2026/191488,Lok Sabha,2026-01-23,GRAM PANCHYAT KHINIYA,Payment Success,49530.0,173,2,True/Strong Duplicate Candidate
+EXP_LS_14392,WS/MP18162/2025-2026/191488,Lok Sabha,2026-01-23,GRAM PANCHYAT KHINIYA,Payment Success,49530.0,173,2,True/Strong Duplicate Candidate
+EXP_LS_8400,WS/MP18167/2025-2026/259839,Lok Sabha,2026-04-10,Vinod Kumar,Payment Success,11050.0,174,2,True/Strong Duplicate Candidate
+EXP_LS_8401,WS/MP18167/2025-2026/259839,Lok Sabha,2026-04-10,Vinod Kumar,Payment Success,11050.0,174,2,True/Strong Duplicate Candidate
+EXP_LS_13695,WS/MP18169/2025-2026/254550,Lok Sabha,2026-02-05,RAHIMA KHATUN,Payment Success,3900.0,175,2,True/Strong Duplicate Candidate
+EXP_LS_13696,WS/MP18169/2025-2026/254550,Lok Sabha,2026-02-05,RAHIMA KHATUN,Payment Success,3900.0,175,2,True/Strong Duplicate Candidate
+EXP_LS_13694,WS/MP18169/2025-2026/260272,Lok Sabha,2026-03-05,RAHIMA KHATUN,Payment Success,3900.0,176,2,True/Strong Duplicate Candidate
+EXP_LS_13697,WS/MP18169/2025-2026/260272,Lok Sabha,2026-03-05,RAHIMA KHATUN,Payment Success,3900.0,176,2,True/Strong Duplicate Candidate
+EXP_LS_12611,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,ANITA DEVI,Payment Success,3705.0,177,2,True/Strong Duplicate Candidate
+EXP_LS_12612,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,ANITA DEVI,Payment Success,3705.0,177,2,True/Strong Duplicate Candidate
+EXP_LS_12614,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,ASHA DEVI,Payment Success,3705.0,178,2,True/Strong Duplicate Candidate
+EXP_LS_12615,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,ASHA DEVI,Payment Success,3705.0,178,2,True/Strong Duplicate Candidate
+EXP_LS_12607,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,GOPAL LAL SAMOTA,Payment Success,3705.0,179,2,True/Strong Duplicate Candidate
+EXP_LS_12608,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,GOPAL LAL SAMOTA,Payment Success,3705.0,179,2,True/Strong Duplicate Candidate
+EXP_LS_12589,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,Hem Singh,Payment Success,9750.0,180,2,True/Strong Duplicate Candidate
+EXP_LS_12590,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,Hem Singh,Payment Success,9750.0,180,2,True/Strong Duplicate Candidate
+EXP_LS_12625,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,SAGAR MAL,Payment Success,9750.0,181,2,True/Strong Duplicate Candidate
+EXP_LS_12626,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,SAGAR MAL,Payment Success,9750.0,181,2,True/Strong Duplicate Candidate
+EXP_LS_12616,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,SUNIL KUMAR RANWA,Payment Success,3705.0,182,2,True/Strong Duplicate Candidate
+EXP_LS_12617,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,SUNIL KUMAR RANWA,Payment Success,3705.0,182,2,True/Strong Duplicate Candidate
+EXP_LS_12627,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,TIJU DEVI,Payment Success,3705.0,183,2,True/Strong Duplicate Candidate
+EXP_LS_12628,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,TIJU DEVI,Payment Success,3705.0,183,2,True/Strong Duplicate Candidate
+EXP_LS_12603,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,bhanwar singh kajla,Payment Success,9750.0,184,2,True/Strong Duplicate Candidate
+EXP_LS_12604,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,bhanwar singh kajla,Payment Success,9750.0,184,2,True/Strong Duplicate Candidate
+EXP_LS_12605,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,rajendra kumar,Payment Success,3705.0,185,2,True/Strong Duplicate Candidate
+EXP_LS_12606,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,rajendra kumar,Payment Success,3705.0,185,2,True/Strong Duplicate Candidate
+EXP_LS_12341,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,sita devi,Payment Success,3705.0,186,2,True/Strong Duplicate Candidate
+EXP_LS_12342,WS/MP18170/2024-2025/156350,Lok Sabha,2026-02-27,sita devi,Payment Success,3705.0,186,2,True/Strong Duplicate Candidate
+EXP_LS_5063,WS/MP18170/2025-2026/218463,Lok Sabha,2026-06-29,Kamla,Payment Success,3757.0,187,2,True/Strong Duplicate Candidate
+EXP_LS_5066,WS/MP18170/2025-2026/218463,Lok Sabha,2026-06-29,Kamla,Payment Success,3757.0,187,2,True/Strong Duplicate Candidate
+EXP_LS_2382,WS/MP18260/2025-2026/251565,Lok Sabha,2026-08-18,executive engineer R B BUDGAM,Payment In-Progress,50000.0,188,2,True/Strong Duplicate Candidate
+EXP_LS_2383,WS/MP18260/2025-2026/251565,Lok Sabha,2026-08-18,executive engineer R B BUDGAM,Payment In-Progress,50000.0,188,2,True/Strong Duplicate Candidate
+EXP_RS_11953,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_11954,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_11955,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_11956,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_11957,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_11958,WS/MP18285/2025-2026/205728,Rajya Sabha,2025-07-24,SHIKSHA INTER PRISES,Payment Success,100000.0,189,6,True/Strong Duplicate Candidate
+EXP_RS_3766,WS/MP18285/2025-2026/236176,Rajya Sabha,2026-01-27,VAIDIT CONSTRUCTION,Payment Success,400000.0,190,2,True/Strong Duplicate Candidate
+EXP_RS_3767,WS/MP18285/2025-2026/236176,Rajya Sabha,2026-01-27,VAIDIT CONSTRUCTION,Payment Success,400000.0,190,2,True/Strong Duplicate Candidate
+EXP_RS_3769,WS/MP18285/2025-2026/236177,Rajya Sabha,2026-01-27,VAIDIT CONSTRUCTION,Payment Success,400000.0,191,2,True/Strong Duplicate Candidate
+EXP_RS_3770,WS/MP18285/2025-2026/236177,Rajya Sabha,2026-01-27,VAIDIT CONSTRUCTION,Payment Success,400000.0,191,2,True/Strong Duplicate Candidate
+EXP_LS_5926,WS/MP18309/2026-2027/281903,Lok Sabha,2026-07-20,Reynold M Sangma,Payment Success,200000.0,192,2,True/Strong Duplicate Candidate
+EXP_LS_5927,WS/MP18309/2026-2027/281903,Lok Sabha,2026-07-20,Reynold M Sangma,Payment Success,200000.0,192,2,True/Strong Duplicate Candidate
+EXP_LS_268,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,40000.0,193,2,True/Strong Duplicate Candidate
+EXP_LS_269,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,40000.0,193,2,True/Strong Duplicate Candidate
+EXP_LS_262,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,49000.0,194,2,True/Strong Duplicate Candidate
+EXP_LS_265,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,49000.0,194,2,True/Strong Duplicate Candidate
+EXP_LS_261,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,49700.0,195,2,True/Strong Duplicate Candidate
+EXP_LS_263,WS/MP18311/2024-2025/143656,Lok Sabha,2026-08-26,PUNJAB CEMENT AND IRON STORE,Payment In-Progress,49700.0,195,2,True/Strong Duplicate Candidate
+EXP_LS_6922,WS/MP18311/2025-2026/219447,Lok Sabha,2026-05-19,MS Milkhi Ram BKO,Payment Success,36040.0,196,2,True/Strong Duplicate Candidate
+EXP_LS_6923,WS/MP18311/2025-2026/219447,Lok Sabha,2026-05-19,MS Milkhi Ram BKO,Payment Success,36040.0,196,2,True/Strong Duplicate Candidate
+EXP_LS_5911,WS/MP18311/2025-2026/241808,Lok Sabha,2026-06-15,Parveen Gupta and Co,Payment Success,26880.0,197,3,True/Strong Duplicate Candidate
+EXP_LS_5912,WS/MP18311/2025-2026/241808,Lok Sabha,2026-06-15,Parveen Gupta and Co,Payment Success,26880.0,197,3,True/Strong Duplicate Candidate
+EXP_LS_5913,WS/MP18311/2025-2026/241808,Lok Sabha,2026-06-15,Parveen Gupta and Co,Payment Success,26880.0,197,3,True/Strong Duplicate Candidate
+EXP_LS_8244,WS/MP18311/2025-2026/255972,Lok Sabha,2026-06-20,Cheema Brick Kiln,Payment Success,42400.0,198,3,True/Strong Duplicate Candidate
+EXP_LS_8245,WS/MP18311/2025-2026/255972,Lok Sabha,2026-06-20,Cheema Brick Kiln,Payment Success,42400.0,198,3,True/Strong Duplicate Candidate
+EXP_LS_8246,WS/MP18311/2025-2026/255972,Lok Sabha,2026-06-20,Cheema Brick Kiln,Payment Success,42400.0,198,3,True/Strong Duplicate Candidate
+EXP_LS_9952,WS/MP18311/2025-2026/259393,Lok Sabha,2026-04-16,Shahi Brothers,Payment Success,30528.0,199,2,True/Strong Duplicate Candidate
+EXP_LS_9953,WS/MP18311/2025-2026/259393,Lok Sabha,2026-04-16,Shahi Brothers,Payment Success,30528.0,199,2,True/Strong Duplicate Candidate
+EXP_LS_3284,WS/MP18311/2025-2026/272258,Lok Sabha,2026-08-11,A One Bricks Dabhota HP,Payment Success,44800.0,200,2,True/Strong Duplicate Candidate
+EXP_LS_3285,WS/MP18311/2025-2026/272258,Lok Sabha,2026-08-11,A One Bricks Dabhota HP,Payment Success,44800.0,200,2,True/Strong Duplicate Candidate
+EXP_LS_7546,WS/MP18314/2025-2026/177352,Lok Sabha,2026-05-05,Aggarwal BKO Sekha,Payment Success,49200.0,201,3,True/Strong Duplicate Candidate
+EXP_LS_7547,WS/MP18314/2025-2026/177352,Lok Sabha,2026-05-05,Aggarwal BKO Sekha,Payment Success,49200.0,201,3,True/Strong Duplicate Candidate
+EXP_LS_7548,WS/MP18314/2025-2026/177352,Lok Sabha,2026-05-05,Aggarwal BKO Sekha,Payment Success,49200.0,201,3,True/Strong Duplicate Candidate
+EXP_LS_13487,WS/MP18314/2025-2026/219249,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,202,2,True/Strong Duplicate Candidate
+EXP_LS_13488,WS/MP18314/2025-2026/219249,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,202,2,True/Strong Duplicate Candidate
+EXP_LS_13489,WS/MP18314/2025-2026/219250,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,203,2,True/Strong Duplicate Candidate
+EXP_LS_13490,WS/MP18314/2025-2026/219250,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,203,2,True/Strong Duplicate Candidate
+EXP_LS_13491,WS/MP18314/2025-2026/219261,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,204,2,True/Strong Duplicate Candidate
+EXP_LS_13492,WS/MP18314/2025-2026/219261,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,204,2,True/Strong Duplicate Candidate
+EXP_LS_13479,WS/MP18314/2025-2026/219316,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,205,2,True/Strong Duplicate Candidate
+EXP_LS_13480,WS/MP18314/2025-2026/219316,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,205,2,True/Strong Duplicate Candidate
+EXP_LS_13476,WS/MP18314/2025-2026/219319,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,206,3,True/Strong Duplicate Candidate
+EXP_LS_13477,WS/MP18314/2025-2026/219319,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,206,3,True/Strong Duplicate Candidate
+EXP_LS_13478,WS/MP18314/2025-2026/219319,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,206,3,True/Strong Duplicate Candidate
+EXP_LS_13493,WS/MP18314/2025-2026/219345,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,207,2,True/Strong Duplicate Candidate
+EXP_LS_13494,WS/MP18314/2025-2026/219345,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,207,2,True/Strong Duplicate Candidate
+EXP_LS_13474,WS/MP18314/2025-2026/219348,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,208,2,True/Strong Duplicate Candidate
+EXP_LS_13475,WS/MP18314/2025-2026/219348,Lok Sabha,2026-08-24,Ganpati Tiles Matti,Payment Success,35000.0,208,2,True/Strong Duplicate Candidate
+EXP_LS_13485,WS/MP18314/2025-2026/219376,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,209,2,True/Strong Duplicate Candidate
+EXP_LS_13486,WS/MP18314/2025-2026/219376,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,209,2,True/Strong Duplicate Candidate
+EXP_LS_13470,WS/MP18314/2025-2026/219378,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,210,2,True/Strong Duplicate Candidate
+EXP_LS_13471,WS/MP18314/2025-2026/219378,Lok Sabha,2026-03-13,Ganpati Tiles Matti,Payment Success,35000.0,210,2,True/Strong Duplicate Candidate
+EXP_LS_9640,WS/MP18314/2025-2026/219456,Lok Sabha,2026-07-23,Sidhu bko,Payment Success,32800.0,211,2,True/Strong Duplicate Candidate
+EXP_LS_9641,WS/MP18314/2025-2026/219456,Lok Sabha,2026-07-23,Sidhu bko,Payment Success,32800.0,211,2,True/Strong Duplicate Candidate
+EXP_LS_13075,WS/MP18314/2025-2026/219458,Lok Sabha,2026-04-01,Rayia bricks co,Payment Success,34000.0,212,2,True/Strong Duplicate Candidate
+EXP_LS_13076,WS/MP18314/2025-2026/219458,Lok Sabha,2026-04-01,Rayia bricks co,Payment Success,34000.0,212,2,True/Strong Duplicate Candidate
+EXP_LS_3109,WS/MP18314/2025-2026/219729,Lok Sabha,2026-08-13,Sangrur Tiles,Payment Success,68400.0,213,2,True/Strong Duplicate Candidate
+EXP_LS_3110,WS/MP18314/2025-2026/219729,Lok Sabha,2026-08-13,Sangrur Tiles,Payment Success,68400.0,213,2,True/Strong Duplicate Candidate
+EXP_LS_3561,WS/MP18314/2025-2026/224293,Lok Sabha,2026-08-03,Ms Dhillon  Tile Factory,Payment Success,49020.0,214,5,True/Strong Duplicate Candidate
+EXP_LS_3562,WS/MP18314/2025-2026/224293,Lok Sabha,2026-08-03,Ms Dhillon  Tile Factory,Payment Success,49020.0,214,5,True/Strong Duplicate Candidate
+EXP_LS_3563,WS/MP18314/2025-2026/224293,Lok Sabha,2026-08-03,Ms Dhillon  Tile Factory,Payment Success,49020.0,214,5,True/Strong Duplicate Candidate
+EXP_LS_3564,WS/MP18314/2025-2026/224293,Lok Sabha,2026-08-03,Ms Dhillon  Tile Factory,Payment Success,49020.0,214,5,True/Strong Duplicate Candidate
+EXP_LS_3565,WS/MP18314/2025-2026/224293,Lok Sabha,2026-08-03,Ms Dhillon  Tile Factory,Payment Success,49020.0,214,5,True/Strong Duplicate Candidate
+EXP_LS_215,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_LS_216,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_LS_217,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_LS_218,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_LS_219,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_LS_220,WS/MP18314/2026-2027/268676,Lok Sabha,2026-08-25,MS SHERPUR BRICK KILN,Payment In-Progress,49200.0,215,6,True/Strong Duplicate Candidate
+EXP_RS_1919,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-05-16,DIAMOND TRADERS,Payment Success,39530.0,216,3,True/Strong Duplicate Candidate
+EXP_RS_1923,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-05-16,DIAMOND TRADERS,Payment Success,39530.0,216,3,True/Strong Duplicate Candidate
+EXP_RS_1924,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-05-16,DIAMOND TRADERS,Payment Success,39530.0,216,3,True/Strong Duplicate Candidate
+EXP_RS_983,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Mohb Habeeb,Payment Success,12360.0,217,2,True/Strong Duplicate Candidate
+EXP_RS_985,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Mohb Habeeb,Payment Success,12360.0,217,2,True/Strong Duplicate Candidate
+EXP_RS_988,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Mud Taleem,Payment Success,12360.0,218,2,True/Strong Duplicate Candidate
+EXP_RS_989,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Mud Taleem,Payment Success,12360.0,218,2,True/Strong Duplicate Candidate
+EXP_RS_990,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Shabnam Khatoon,Payment Success,7560.0,219,2,True/Strong Duplicate Candidate
+EXP_RS_991,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Shabnam Khatoon,Payment Success,7560.0,219,2,True/Strong Duplicate Candidate
+EXP_RS_974,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Shaheen Parveen,Payment Success,7560.0,220,2,True/Strong Duplicate Candidate
+EXP_RS_976,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,Shaheen Parveen,Payment Success,7560.0,220,2,True/Strong Duplicate Candidate
+EXP_RS_979,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,kANIJ fATIMA,Payment Success,7560.0,221,2,True/Strong Duplicate Candidate
+EXP_RS_981,WS/MP18333/2025-2026/254873,Rajya Sabha,2026-07-06,kANIJ fATIMA,Payment Success,7560.0,221,2,True/Strong Duplicate Candidate
+EXP_RS_723,WS/MP18333/2026-2027/280575,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,222,2,True/Strong Duplicate Candidate
+EXP_RS_725,WS/MP18333/2026-2027/280575,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,222,2,True/Strong Duplicate Candidate
+EXP_RS_730,WS/MP18333/2026-2027/280576,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,223,2,True/Strong Duplicate Candidate
+EXP_RS_732,WS/MP18333/2026-2027/280576,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,223,2,True/Strong Duplicate Candidate
+EXP_RS_736,WS/MP18333/2026-2027/280586,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,49017.0,224,2,True/Strong Duplicate Candidate
+EXP_RS_738,WS/MP18333/2026-2027/280586,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,49017.0,224,2,True/Strong Duplicate Candidate
+EXP_RS_770,WS/MP18333/2026-2027/280589,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,48226.0,225,2,True/Strong Duplicate Candidate
+EXP_RS_772,WS/MP18333/2026-2027/280589,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,48226.0,225,2,True/Strong Duplicate Candidate
+EXP_RS_743,WS/MP18333/2026-2027/280590,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,226,2,True/Strong Duplicate Candidate
+EXP_RS_745,WS/MP18333/2026-2027/280590,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,48226.0,226,2,True/Strong Duplicate Candidate
+EXP_RS_755,WS/MP18333/2026-2027/280591,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,41901.0,227,2,True/Strong Duplicate Candidate
+EXP_RS_757,WS/MP18333/2026-2027/280591,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,41901.0,227,2,True/Strong Duplicate Candidate
+EXP_RS_760,WS/MP18333/2026-2027/280592,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,49017.0,228,2,True/Strong Duplicate Candidate
+EXP_RS_762,WS/MP18333/2026-2027/280592,Rajya Sabha,2026-08-01,SOHANI CONSTRUCTION COMPANY,Payment Success,49017.0,228,2,True/Strong Duplicate Candidate
+EXP_RS_749,WS/MP18333/2026-2027/280593,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,49017.0,229,2,True/Strong Duplicate Candidate
+EXP_RS_750,WS/MP18333/2026-2027/280593,Rajya Sabha,2026-08-01,DEV ASSOCIATES,Payment Success,49017.0,229,2,True/Strong Duplicate Candidate
+EXP_LS_1441,WS/MP18354/2025-2026/177631,Lok Sabha,2026-04-17,Ghanshyam Das Agrawal,Payment In-Progress,248944.0,230,2,True/Strong Duplicate Candidate
+EXP_LS_1442,WS/MP18354/2025-2026/177631,Lok Sabha,2026-04-17,Ghanshyam Das Agrawal,Payment In-Progress,248944.0,230,2,True/Strong Duplicate Candidate
+EXP_RS_16662,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-06-30,lucky Interlock Tiles,Payment Success,40000.0,231,4,True/Strong Duplicate Candidate
+EXP_RS_16663,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-06-30,lucky Interlock Tiles,Payment Success,40000.0,231,4,True/Strong Duplicate Candidate
+EXP_RS_16664,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-06-30,lucky Interlock Tiles,Payment Success,40000.0,231,4,True/Strong Duplicate Candidate
+EXP_RS_16665,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-06-30,lucky Interlock Tiles,Payment Success,40000.0,231,4,True/Strong Duplicate Candidate
+EXP_RS_6690,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-07-09,Hind Brick Industries,Payment Success,36000.0,232,3,True/Strong Duplicate Candidate
+EXP_RS_6691,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-07-09,Hind Brick Industries,Payment Success,36000.0,232,3,True/Strong Duplicate Candidate
+EXP_RS_6692,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-07-09,Hind Brick Industries,Payment Success,36000.0,232,3,True/Strong Duplicate Candidate
+EXP_RS_6729,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-07-23,Sidhu Cement and Scrap Store,Payment Success,49680.0,233,2,True/Strong Duplicate Candidate
+EXP_RS_6730,WS/MP18365/2025-2026/182591,Rajya Sabha,2025-07-23,Sidhu Cement and Scrap Store,Payment Success,49680.0,233,2,True/Strong Duplicate Candidate
+EXP_RS_3876,WS/MP18365/2025-2026/191964,Rajya Sabha,2026-02-04,Sandhu brothers BKO,Payment Success,46500.0,234,2,True/Strong Duplicate Candidate
+EXP_RS_3877,WS/MP18365/2025-2026/191964,Rajya Sabha,2026-02-04,Sandhu brothers BKO,Payment Success,46500.0,234,2,True/Strong Duplicate Candidate
+EXP_RS_2491,WS/MP18365/2025-2026/191964,Rajya Sabha,2026-04-17,New Friends Bricks,Payment Success,43400.0,235,2,True/Strong Duplicate Candidate
+EXP_RS_2492,WS/MP18365/2025-2026/191964,Rajya Sabha,2026-04-17,New Friends Bricks,Payment Success,43400.0,235,2,True/Strong Duplicate Candidate
+EXP_RS_3169,WS/MP18425/2025-2026/202244,Rajya Sabha,2026-03-30,K K BRICKS,Payment Success,42000.0,236,2,True/Strong Duplicate Candidate
+EXP_RS_3170,WS/MP18425/2025-2026/202244,Rajya Sabha,2026-03-30,K K BRICKS,Payment Success,42000.0,236,2,True/Strong Duplicate Candidate
+EXP_RS_839,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,42654.0,237,4,True/Strong Duplicate Candidate
+EXP_RS_840,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,42654.0,237,4,True/Strong Duplicate Candidate
+EXP_RS_841,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,42654.0,237,4,True/Strong Duplicate Candidate
+EXP_RS_844,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,42654.0,237,4,True/Strong Duplicate Candidate
+EXP_RS_837,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,48300.0,238,2,True/Strong Duplicate Candidate
+EXP_RS_838,WS/MP18425/2025-2026/202245,Rajya Sabha,2026-07-21,SHREE KRISHNA CONSTRUCTIONS,Payment Success,48300.0,238,2,True/Strong Duplicate Candidate
+EXP_RS_4905,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,13462.0,239,2,True/Strong Duplicate Candidate
+EXP_RS_4906,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,13462.0,239,2,True/Strong Duplicate Candidate
+EXP_RS_4904,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,240,4,True/Strong Duplicate Candidate
+EXP_RS_4907,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,240,4,True/Strong Duplicate Candidate
+EXP_RS_4908,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,240,4,True/Strong Duplicate Candidate
+EXP_RS_4909,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,240,4,True/Strong Duplicate Candidate
+EXP_RS_5317,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-08,SHRI BALAJI IRON AND CEMENT STORE,Payment Success,38500.0,241,2,True/Strong Duplicate Candidate
+EXP_RS_5318,WS/MP18425/2025-2026/202246,Rajya Sabha,2025-12-08,SHRI BALAJI IRON AND CEMENT STORE,Payment Success,38500.0,241,2,True/Strong Duplicate Candidate
+EXP_RS_4555,WS/MP18425/2025-2026/202246,Rajya Sabha,2026-01-29,MAA LUXMI TILE HOUSE,Payment Success,35485.0,242,2,True/Strong Duplicate Candidate
+EXP_RS_4556,WS/MP18425/2025-2026/202246,Rajya Sabha,2026-01-29,MAA LUXMI TILE HOUSE,Payment Success,35485.0,242,2,True/Strong Duplicate Candidate
+EXP_RS_5069,WS/MP18425/2025-2026/202248,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,243,2,True/Strong Duplicate Candidate
+EXP_RS_5070,WS/MP18425/2025-2026/202248,Rajya Sabha,2025-12-02,AKAM BRICKS CO,Payment Success,26924.0,243,2,True/Strong Duplicate Candidate
+EXP_RS_3145,WS/MP18425/2025-2026/202258,Rajya Sabha,2026-02-25,MS GURDEV BRICKS CO,Payment Success,35510.0,244,5,True/Strong Duplicate Candidate
+EXP_RS_3146,WS/MP18425/2025-2026/202258,Rajya Sabha,2026-02-25,MS GURDEV BRICKS CO,Payment Success,35510.0,244,5,True/Strong Duplicate Candidate
+EXP_RS_3147,WS/MP18425/2025-2026/202258,Rajya Sabha,2026-02-25,MS GURDEV BRICKS CO,Payment Success,35510.0,244,5,True/Strong Duplicate Candidate
+EXP_RS_3148,WS/MP18425/2025-2026/202258,Rajya Sabha,2026-02-25,MS GURDEV BRICKS CO,Payment Success,35510.0,244,5,True/Strong Duplicate Candidate
+EXP_RS_3149,WS/MP18425/2025-2026/202258,Rajya Sabha,2026-02-25,MS GURDEV BRICKS CO,Payment Success,35510.0,244,5,True/Strong Duplicate Candidate
+EXP_RS_3743,WS/MP18425/2025-2026/202259,Rajya Sabha,2026-02-12,KUMAR BRICKS TRADERS,Payment Success,32256.0,245,3,True/Strong Duplicate Candidate
+EXP_RS_3744,WS/MP18425/2025-2026/202259,Rajya Sabha,2026-02-12,KUMAR BRICKS TRADERS,Payment Success,32256.0,245,3,True/Strong Duplicate Candidate
+EXP_RS_3747,WS/MP18425/2025-2026/202259,Rajya Sabha,2026-02-12,KUMAR BRICKS TRADERS,Payment Success,32256.0,245,3,True/Strong Duplicate Candidate
+EXP_RS_3745,WS/MP18425/2025-2026/202259,Rajya Sabha,2026-02-12,KUMAR BRICKS TRADERS,Payment Success,40320.0,246,2,True/Strong Duplicate Candidate
+EXP_RS_3746,WS/MP18425/2025-2026/202259,Rajya Sabha,2026-02-12,KUMAR BRICKS TRADERS,Payment Success,40320.0,246,2,True/Strong Duplicate Candidate
+EXP_RS_18312,WS/MP187/2023-2024/1200,Rajya Sabha,2024-01-06,NEW KRISHI KHAD BHANDAR,Payment Success,42624.0,247,3,True/Strong Duplicate Candidate
+EXP_RS_18313,WS/MP187/2023-2024/1200,Rajya Sabha,2024-01-06,NEW KRISHI KHAD BHANDAR,Payment Success,42624.0,247,3,True/Strong Duplicate Candidate
+EXP_RS_18314,WS/MP187/2023-2024/1200,Rajya Sabha,2024-01-06,NEW KRISHI KHAD BHANDAR,Payment Success,42624.0,247,3,True/Strong Duplicate Candidate
+EXP_RS_10140,WS/MP189/2025-2026/147109,Rajya Sabha,2025-12-23,ABHAY NARAYAN YADAV,Payment Success,57514.0,248,2,True/Strong Duplicate Candidate
+EXP_RS_10144,WS/MP189/2025-2026/147109,Rajya Sabha,2025-12-23,ABHAY NARAYAN YADAV,Payment Success,57514.0,248,2,True/Strong Duplicate Candidate
+EXP_RS_13982,WS/MP189/2025-2026/221854,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,249,2,True/Strong Duplicate Candidate
+EXP_RS_13983,WS/MP189/2025-2026/221854,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,249,2,True/Strong Duplicate Candidate
+EXP_RS_13984,WS/MP189/2025-2026/221854,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,250,2,True/Strong Duplicate Candidate
+EXP_RS_13985,WS/MP189/2025-2026/221854,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,250,2,True/Strong Duplicate Candidate
+EXP_RS_13990,WS/MP189/2025-2026/221857,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,251,2,True/Strong Duplicate Candidate
+EXP_RS_13991,WS/MP189/2025-2026/221857,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,251,2,True/Strong Duplicate Candidate
+EXP_RS_13992,WS/MP189/2025-2026/221857,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,252,2,True/Strong Duplicate Candidate
+EXP_RS_13993,WS/MP189/2025-2026/221857,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,252,2,True/Strong Duplicate Candidate
+EXP_RS_14000,WS/MP189/2025-2026/221862,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,253,5,True/Strong Duplicate Candidate
+EXP_RS_14001,WS/MP189/2025-2026/221862,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,253,5,True/Strong Duplicate Candidate
+EXP_RS_14002,WS/MP189/2025-2026/221862,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,253,5,True/Strong Duplicate Candidate
+EXP_RS_14003,WS/MP189/2025-2026/221862,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,253,5,True/Strong Duplicate Candidate
+EXP_RS_14004,WS/MP189/2025-2026/221862,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,253,5,True/Strong Duplicate Candidate
+EXP_RS_14005,WS/MP189/2025-2026/221862,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,254,5,True/Strong Duplicate Candidate
+EXP_RS_14006,WS/MP189/2025-2026/221862,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,254,5,True/Strong Duplicate Candidate
+EXP_RS_14007,WS/MP189/2025-2026/221862,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,254,5,True/Strong Duplicate Candidate
+EXP_RS_14008,WS/MP189/2025-2026/221862,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,254,5,True/Strong Duplicate Candidate
+EXP_RS_14009,WS/MP189/2025-2026/221862,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,254,5,True/Strong Duplicate Candidate
+EXP_RS_14016,WS/MP189/2025-2026/221868,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,255,2,True/Strong Duplicate Candidate
+EXP_RS_14017,WS/MP189/2025-2026/221868,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,255,2,True/Strong Duplicate Candidate
+EXP_RS_14018,WS/MP189/2025-2026/221868,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,256,2,True/Strong Duplicate Candidate
+EXP_RS_14019,WS/MP189/2025-2026/221868,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,256,2,True/Strong Duplicate Candidate
+EXP_RS_14024,WS/MP189/2025-2026/221872,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,257,2,True/Strong Duplicate Candidate
+EXP_RS_14025,WS/MP189/2025-2026/221872,Rajya Sabha,2025-11-12,R G SUPPLIERS,Payment Success,100300.0,257,2,True/Strong Duplicate Candidate
+EXP_RS_14026,WS/MP189/2025-2026/221872,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,258,2,True/Strong Duplicate Candidate
+EXP_RS_14027,WS/MP189/2025-2026/221872,Rajya Sabha,2025-12-05,R G SUPPLIERS,Payment Success,63649.0,258,2,True/Strong Duplicate Candidate
+EXP_RS_13494,WS/MP192/2023-2024/13218,Rajya Sabha,2024-09-07,SHIV OM CEMENT AGENCE,Payment Success,48000.0,259,2,True/Strong Duplicate Candidate
+EXP_RS_13496,WS/MP192/2023-2024/13218,Rajya Sabha,2024-09-07,SHIV OM CEMENT AGENCE,Payment Success,48000.0,259,2,True/Strong Duplicate Candidate
+EXP_RS_19971,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19972,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19973,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19974,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19975,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19976,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19977,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19978,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19979,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19980,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19981,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19982,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19983,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19984,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19985,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19986,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19987,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19988,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19989,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19990,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19991,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19992,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19993,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19994,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19995,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19996,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19997,WS/MP195/2025-2026/254630,Rajya Sabha,2026-01-07,ND CONTRACTOR,Payment Success,1017608.0,260,27,True/Strong Duplicate Candidate
+EXP_RS_19998,WS/MP195/2025-2026/254630,Rajya Sabha,2026-03-21,ND CONTRACTOR,Payment Success,1017608.0,261,3,True/Strong Duplicate Candidate
+EXP_RS_19999,WS/MP195/2025-2026/254630,Rajya Sabha,2026-03-21,ND CONTRACTOR,Payment Success,1017608.0,261,3,True/Strong Duplicate Candidate
+EXP_RS_20000,WS/MP195/2025-2026/254630,Rajya Sabha,2026-03-21,ND CONTRACTOR,Payment Success,1017608.0,261,3,True/Strong Duplicate Candidate
+EXP_RS_17313,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17314,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17315,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17316,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17317,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17318,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17319,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17320,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17321,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17322,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17323,WS/MP201/2023-2024/73283,Rajya Sabha,2024-03-05,shree radha rani kripa associate,Payment Success,814812.0,262,11,True/Strong Duplicate Candidate
+EXP_RS_17325,WS/MP201/2023-2024/73283,Rajya Sabha,2024-06-13,shree radha rani kripa associate,Payment Success,814812.0,263,5,True/Strong Duplicate Candidate
+EXP_RS_17326,WS/MP201/2023-2024/73283,Rajya Sabha,2024-06-13,shree radha rani kripa associate,Payment Success,814812.0,263,5,True/Strong Duplicate Candidate
+EXP_RS_17327,WS/MP201/2023-2024/73283,Rajya Sabha,2024-06-13,shree radha rani kripa associate,Payment Success,814812.0,263,5,True/Strong Duplicate Candidate
+EXP_RS_17328,WS/MP201/2023-2024/73283,Rajya Sabha,2024-06-13,shree radha rani kripa associate,Payment Success,814812.0,263,5,True/Strong Duplicate Candidate
+EXP_RS_17329,WS/MP201/2023-2024/73283,Rajya Sabha,2024-06-13,shree radha rani kripa associate,Payment Success,814812.0,263,5,True/Strong Duplicate Candidate
+EXP_RS_11552,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11553,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11554,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11555,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11556,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11557,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11558,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11559,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11560,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11561,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11562,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11563,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11564,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11565,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11566,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11567,WS/MP201/2024-2025/155278,Rajya Sabha,2025-02-11,HARI TARA ASSOCIATES,Payment Success,828000.0,264,16,True/Strong Duplicate Candidate
+EXP_RS_11569,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11570,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11571,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11572,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11573,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11574,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11575,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11576,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11577,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11578,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11579,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11580,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11581,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11582,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11583,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11584,WS/MP201/2024-2025/155278,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,265,16,True/Strong Duplicate Candidate
+EXP_RS_11510,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11511,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11512,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11513,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11514,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11515,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11516,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11517,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11518,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11519,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11520,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11521,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11522,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11523,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11524,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11525,WS/MP201/2025-2026/162408,Rajya Sabha,2025-04-03,HARI TARA ASSOCIATES,Payment Success,828000.0,266,16,True/Strong Duplicate Candidate
+EXP_RS_11528,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11529,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11530,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11531,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11532,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11533,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11534,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11535,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11536,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11537,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11538,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11539,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11540,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11541,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11542,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11543,WS/MP201/2025-2026/162408,Rajya Sabha,2025-08-26,HARI TARA ASSOCIATES,Payment Success,276000.0,267,16,True/Strong Duplicate Candidate
+EXP_RS_11544,WS/MP201/2025-2026/162408,Rajya Sabha,2025-12-30,HARI TARA ASSOCIATES,Payment Success,207000.0,268,4,True/Strong Duplicate Candidate
+EXP_RS_11545,WS/MP201/2025-2026/162408,Rajya Sabha,2025-12-30,HARI TARA ASSOCIATES,Payment Success,207000.0,268,4,True/Strong Duplicate Candidate
+EXP_RS_11546,WS/MP201/2025-2026/162408,Rajya Sabha,2025-12-30,HARI TARA ASSOCIATES,Payment Success,207000.0,268,4,True/Strong Duplicate Candidate
+EXP_RS_11547,WS/MP201/2025-2026/162408,Rajya Sabha,2025-12-30,HARI TARA ASSOCIATES,Payment Success,207000.0,268,4,True/Strong Duplicate Candidate
+EXP_RS_11548,WS/MP201/2025-2026/162408,Rajya Sabha,2026-07-03,HARI TARA ASSOCIATES,Payment Success,69000.0,269,4,True/Strong Duplicate Candidate
+EXP_RS_11549,WS/MP201/2025-2026/162408,Rajya Sabha,2026-07-03,HARI TARA ASSOCIATES,Payment Success,69000.0,269,4,True/Strong Duplicate Candidate
+EXP_RS_11550,WS/MP201/2025-2026/162408,Rajya Sabha,2026-07-03,HARI TARA ASSOCIATES,Payment Success,69000.0,269,4,True/Strong Duplicate Candidate
+EXP_RS_11551,WS/MP201/2025-2026/162408,Rajya Sabha,2026-07-03,HARI TARA ASSOCIATES,Payment Success,69000.0,269,4,True/Strong Duplicate Candidate
+EXP_RS_19807,WS/MP201/2025-2026/255893,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,270,3,True/Strong Duplicate Candidate
+EXP_RS_19808,WS/MP201/2025-2026/255893,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,270,3,True/Strong Duplicate Candidate
+EXP_RS_19809,WS/MP201/2025-2026/255893,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,270,3,True/Strong Duplicate Candidate
+EXP_RS_19810,WS/MP201/2025-2026/255893,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,271,3,True/Strong Duplicate Candidate
+EXP_RS_19811,WS/MP201/2025-2026/255893,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,271,3,True/Strong Duplicate Candidate
+EXP_RS_19812,WS/MP201/2025-2026/255893,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,271,3,True/Strong Duplicate Candidate
+EXP_RS_19813,WS/MP201/2025-2026/255894,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,272,3,True/Strong Duplicate Candidate
+EXP_RS_19814,WS/MP201/2025-2026/255894,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,272,3,True/Strong Duplicate Candidate
+EXP_RS_19815,WS/MP201/2025-2026/255894,Rajya Sabha,2026-02-19,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,615600.0,272,3,True/Strong Duplicate Candidate
+EXP_RS_19816,WS/MP201/2025-2026/255894,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,273,3,True/Strong Duplicate Candidate
+EXP_RS_19817,WS/MP201/2025-2026/255894,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,273,3,True/Strong Duplicate Candidate
+EXP_RS_19818,WS/MP201/2025-2026/255894,Rajya Sabha,2026-03-06,SHRI GURU KRIPA NARSINGH ASSOCIATES,Payment Success,205200.0,273,3,True/Strong Duplicate Candidate
+EXP_RS_13263,WS/MP234/2024-2025/134594,Rajya Sabha,2024-11-21,Navkash Engineering Solutions,Payment Success,46546.0,274,3,True/Strong Duplicate Candidate
+EXP_RS_13264,WS/MP234/2024-2025/134594,Rajya Sabha,2024-11-21,Navkash Engineering Solutions,Payment Success,46546.0,274,3,True/Strong Duplicate Candidate
+EXP_RS_13265,WS/MP234/2024-2025/134594,Rajya Sabha,2024-11-21,Navkash Engineering Solutions,Payment Success,46546.0,274,3,True/Strong Duplicate Candidate
+EXP_RS_13271,WS/MP234/2024-2025/134594,Rajya Sabha,2024-12-31,Navkash Engineering Solutions,Payment Success,46256.0,275,2,True/Strong Duplicate Candidate
+EXP_RS_13272,WS/MP234/2024-2025/134594,Rajya Sabha,2024-12-31,Navkash Engineering Solutions,Payment Success,46256.0,275,2,True/Strong Duplicate Candidate
+EXP_RS_2097,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Mohan Lal so Sadhu Ram,Payment Success,6400.0,276,2,True/Strong Duplicate Candidate
+EXP_RS_2098,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Mohan Lal so Sadhu Ram,Payment Success,6400.0,276,2,True/Strong Duplicate Candidate
+EXP_RS_19852,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Pardeep Kumar son of Roshan Lal,Payment Success,6400.0,277,2,True/Strong Duplicate Candidate
+EXP_RS_19853,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Pardeep Kumar son of Roshan Lal,Payment Success,6400.0,277,2,True/Strong Duplicate Candidate
+EXP_RS_8618,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Prem Bricks Industry,Payment Success,37500.0,278,2,True/Strong Duplicate Candidate
+EXP_RS_8619,WS/MP235/2025-2026/241415,Rajya Sabha,2026-04-09,Prem Bricks Industry,Payment Success,37500.0,278,2,True/Strong Duplicate Candidate
+EXP_RS_19861,WS/MP235/2025-2026/241415,Rajya Sabha,2026-08-10,MS Darshan Singh and Sons BKO,Payment Success,49500.0,279,2,True/Strong Duplicate Candidate
+EXP_RS_19862,WS/MP235/2025-2026/241415,Rajya Sabha,2026-08-10,MS Darshan Singh and Sons BKO,Payment Success,49500.0,279,2,True/Strong Duplicate Candidate
+EXP_RS_3620,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,40300.0,280,2,True/Strong Duplicate Candidate
+EXP_RS_3623,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,40300.0,280,2,True/Strong Duplicate Candidate
+EXP_RS_3622,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,41540.0,281,2,True/Strong Duplicate Candidate
+EXP_RS_3625,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,41540.0,281,2,True/Strong Duplicate Candidate
+EXP_RS_3621,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,42160.0,282,2,True/Strong Duplicate Candidate
+EXP_RS_3624,WS/MP235/2025-2026/263608,Rajya Sabha,2026-02-11,Luxmi Entt udyog,Payment Success,42160.0,282,2,True/Strong Duplicate Candidate
+EXP_RS_3613,WS/MP235/2025-2026/263608,Rajya Sabha,2026-03-09,Thind Cemet store,Payment Success,17500.0,283,2,True/Strong Duplicate Candidate
+EXP_RS_3614,WS/MP235/2025-2026/263608,Rajya Sabha,2026-03-09,Thind Cemet store,Payment Success,17500.0,283,2,True/Strong Duplicate Candidate
+EXP_RS_3611,WS/MP235/2025-2026/263608,Rajya Sabha,2026-03-09,Thind Cemet store,Payment Success,21000.0,284,2,True/Strong Duplicate Candidate
+EXP_RS_3615,WS/MP235/2025-2026/263608,Rajya Sabha,2026-03-09,Thind Cemet store,Payment Success,21000.0,284,2,True/Strong Duplicate Candidate
+EXP_RS_3362,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,285,5,True/Strong Duplicate Candidate
+EXP_RS_3363,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,285,5,True/Strong Duplicate Candidate
+EXP_RS_3364,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,285,5,True/Strong Duplicate Candidate
+EXP_RS_3365,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,285,5,True/Strong Duplicate Candidate
+EXP_RS_3366,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,285,5,True/Strong Duplicate Candidate
+EXP_RS_3370,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,286,5,True/Strong Duplicate Candidate
+EXP_RS_3371,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,286,5,True/Strong Duplicate Candidate
+EXP_RS_3372,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,286,5,True/Strong Duplicate Candidate
+EXP_RS_3373,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,286,5,True/Strong Duplicate Candidate
+EXP_RS_3374,WS/MP235/2025-2026/263610,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,286,5,True/Strong Duplicate Candidate
+EXP_RS_3378,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,287,5,True/Strong Duplicate Candidate
+EXP_RS_3379,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,287,5,True/Strong Duplicate Candidate
+EXP_RS_3380,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,287,5,True/Strong Duplicate Candidate
+EXP_RS_3381,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,287,5,True/Strong Duplicate Candidate
+EXP_RS_3382,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-13,Ranjeet Tile Industries,Payment Success,45800.0,287,5,True/Strong Duplicate Candidate
+EXP_RS_3385,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,288,3,True/Strong Duplicate Candidate
+EXP_RS_3386,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,288,3,True/Strong Duplicate Candidate
+EXP_RS_3387,WS/MP235/2025-2026/263611,Rajya Sabha,2026-02-26,Ranjeet Tile Industries,Payment Success,45800.0,288,3,True/Strong Duplicate Candidate
+EXP_RS_3414,WS/MP235/2025-2026/263613,Rajya Sabha,2026-02-18,BRT TRADERS,Payment Success,72000.0,289,3,True/Strong Duplicate Candidate
+EXP_RS_3415,WS/MP235/2025-2026/263613,Rajya Sabha,2026-02-18,BRT TRADERS,Payment Success,72000.0,289,3,True/Strong Duplicate Candidate
+EXP_RS_3416,WS/MP235/2025-2026/263613,Rajya Sabha,2026-02-18,BRT TRADERS,Payment Success,72000.0,289,3,True/Strong Duplicate Candidate
+EXP_RS_2443,WS/MP235/2025-2026/267404,Rajya Sabha,2026-03-19,Nandha and Co,Payment Success,107520.0,290,2,True/Strong Duplicate Candidate
+EXP_RS_2444,WS/MP235/2025-2026/267404,Rajya Sabha,2026-03-19,Nandha and Co,Payment Success,107520.0,290,2,True/Strong Duplicate Candidate
+EXP_RS_3051,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-13,Kali Ram Ved Parkash,Payment Success,68000.0,291,2,True/Strong Duplicate Candidate
+EXP_RS_3052,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-13,Kali Ram Ved Parkash,Payment Success,68000.0,291,2,True/Strong Duplicate Candidate
+EXP_RS_3057,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-17,Kali Ram Ved Parkash,Payment Success,68000.0,292,2,True/Strong Duplicate Candidate
+EXP_RS_3058,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-17,Kali Ram Ved Parkash,Payment Success,68000.0,292,2,True/Strong Duplicate Candidate
+EXP_RS_3053,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Kali Ram Ved Parkash,Payment Success,72000.0,293,2,True/Strong Duplicate Candidate
+EXP_RS_3054,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Kali Ram Ved Parkash,Payment Success,72000.0,293,2,True/Strong Duplicate Candidate
+EXP_RS_2445,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_2446,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_2447,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_2448,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_2450,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_2451,WS/MP235/2025-2026/267405,Rajya Sabha,2026-03-25,Nandha and Co,Payment Success,48025.0,294,6,True/Strong Duplicate Candidate
+EXP_RS_3237,WS/MP235/2025-2026/267407,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,295,3,True/Strong Duplicate Candidate
+EXP_RS_3238,WS/MP235/2025-2026/267407,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,295,3,True/Strong Duplicate Candidate
+EXP_RS_3239,WS/MP235/2025-2026/267407,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,295,3,True/Strong Duplicate Candidate
+EXP_RS_3245,WS/MP235/2025-2026/267409,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,296,3,True/Strong Duplicate Candidate
+EXP_RS_3246,WS/MP235/2025-2026/267409,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,296,3,True/Strong Duplicate Candidate
+EXP_RS_3247,WS/MP235/2025-2026/267409,Rajya Sabha,2026-03-11,Baba Inder Dass Public Sen Sec School,Payment Success,28500.0,296,3,True/Strong Duplicate Candidate
+EXP_RS_3324,WS/MP235/2025-2026/267411,Rajya Sabha,2026-06-24,Ranjeet Tile Industries,Payment Success,34350.0,297,3,True/Strong Duplicate Candidate
+EXP_RS_3325,WS/MP235/2025-2026/267411,Rajya Sabha,2026-06-24,Ranjeet Tile Industries,Payment Success,34350.0,297,3,True/Strong Duplicate Candidate
+EXP_RS_3326,WS/MP235/2025-2026/267411,Rajya Sabha,2026-06-24,Ranjeet Tile Industries,Payment Success,34350.0,297,3,True/Strong Duplicate Candidate
+EXP_RS_3327,WS/MP235/2025-2026/267412,Rajya Sabha,2026-02-17,Ranjeet Tile Industries,Payment Success,43750.0,298,2,True/Strong Duplicate Candidate
+EXP_RS_3329,WS/MP235/2025-2026/267412,Rajya Sabha,2026-02-17,Ranjeet Tile Industries,Payment Success,43750.0,298,2,True/Strong Duplicate Candidate
+EXP_RS_3344,WS/MP235/2025-2026/267412,Rajya Sabha,2026-03-11,Ranjeet Tile Industries,Payment Success,46800.0,299,2,True/Strong Duplicate Candidate
+EXP_RS_3347,WS/MP235/2025-2026/267412,Rajya Sabha,2026-03-11,Ranjeet Tile Industries,Payment Success,46800.0,299,2,True/Strong Duplicate Candidate
+EXP_RS_2639,WS/MP235/2025-2026/268737,Rajya Sabha,2026-03-20,Imperial Interlok Tiles,Payment Success,45800.0,300,4,True/Strong Duplicate Candidate
+EXP_RS_2640,WS/MP235/2025-2026/268737,Rajya Sabha,2026-03-20,Imperial Interlok Tiles,Payment Success,45800.0,300,4,True/Strong Duplicate Candidate
+EXP_RS_2641,WS/MP235/2025-2026/268737,Rajya Sabha,2026-03-20,Imperial Interlok Tiles,Payment Success,45800.0,300,4,True/Strong Duplicate Candidate
+EXP_RS_2642,WS/MP235/2025-2026/268737,Rajya Sabha,2026-03-20,Imperial Interlok Tiles,Payment Success,45800.0,300,4,True/Strong Duplicate Candidate
+EXP_RS_3307,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_3308,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_3309,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_3310,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_3311,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_3312,WS/MP235/2025-2026/268738,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,45800.0,301,6,True/Strong Duplicate Candidate
+EXP_RS_2635,WS/MP235/2025-2026/268739,Rajya Sabha,2026-03-16,Imperial Interlok Tiles,Payment Success,45800.0,302,4,True/Strong Duplicate Candidate
+EXP_RS_2636,WS/MP235/2025-2026/268739,Rajya Sabha,2026-03-16,Imperial Interlok Tiles,Payment Success,45800.0,302,4,True/Strong Duplicate Candidate
+EXP_RS_2637,WS/MP235/2025-2026/268739,Rajya Sabha,2026-03-16,Imperial Interlok Tiles,Payment Success,45800.0,302,4,True/Strong Duplicate Candidate
+EXP_RS_2638,WS/MP235/2025-2026/268739,Rajya Sabha,2026-03-16,Imperial Interlok Tiles,Payment Success,45800.0,302,4,True/Strong Duplicate Candidate
+EXP_RS_3315,WS/MP235/2025-2026/268739,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,34350.0,303,2,True/Strong Duplicate Candidate
+EXP_RS_3316,WS/MP235/2025-2026/268739,Rajya Sabha,2026-04-21,Ranjeet Tile Industries,Payment Success,34350.0,303,2,True/Strong Duplicate Candidate
+EXP_RS_2485,WS/MP235/2025-2026/268742,Rajya Sabha,2026-03-16,New Friends Bricks,Payment Success,43400.0,304,2,True/Strong Duplicate Candidate
+EXP_RS_2486,WS/MP235/2025-2026/268742,Rajya Sabha,2026-03-16,New Friends Bricks,Payment Success,43400.0,304,2,True/Strong Duplicate Candidate
+EXP_RS_2632,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,40075.0,305,2,True/Strong Duplicate Candidate
+EXP_RS_2633,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,40075.0,305,2,True/Strong Duplicate Candidate
+EXP_RS_2626,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,306,4,True/Strong Duplicate Candidate
+EXP_RS_2627,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,306,4,True/Strong Duplicate Candidate
+EXP_RS_2628,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,306,4,True/Strong Duplicate Candidate
+EXP_RS_2631,WS/MP235/2025-2026/268744,Rajya Sabha,2026-03-16,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,306,4,True/Strong Duplicate Candidate
+EXP_RS_2482,WS/MP235/2025-2026/268745,Rajya Sabha,2026-03-16,New Friends Bricks,Payment Success,24800.0,307,3,True/Strong Duplicate Candidate
+EXP_RS_2483,WS/MP235/2025-2026/268745,Rajya Sabha,2026-03-16,New Friends Bricks,Payment Success,24800.0,307,3,True/Strong Duplicate Candidate
+EXP_RS_2484,WS/MP235/2025-2026/268745,Rajya Sabha,2026-03-16,New Friends Bricks,Payment Success,24800.0,307,3,True/Strong Duplicate Candidate
+EXP_RS_13476,WS/MP235/2025-2026/268746,Rajya Sabha,2026-03-10,Friends Interlocking Tile Factory,Payment Success,91600.0,308,2,True/Strong Duplicate Candidate
+EXP_RS_13477,WS/MP235/2025-2026/268746,Rajya Sabha,2026-03-10,Friends Interlocking Tile Factory,Payment Success,91600.0,308,2,True/Strong Duplicate Candidate
+EXP_RS_2605,WS/MP235/2025-2026/268747,Rajya Sabha,2026-03-25,Bansal Bricks Kilan Gram Udyog Samiti,Payment Success,31000.0,309,2,True/Strong Duplicate Candidate
+EXP_RS_2606,WS/MP235/2025-2026/268747,Rajya Sabha,2026-03-25,Bansal Bricks Kilan Gram Udyog Samiti,Payment Success,31000.0,309,2,True/Strong Duplicate Candidate
+EXP_RS_2610,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2611,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2612,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2613,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2614,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2615,WS/MP235/2025-2026/268749,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,310,6,True/Strong Duplicate Candidate
+EXP_RS_2616,WS/MP235/2025-2026/268750,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,311,5,True/Strong Duplicate Candidate
+EXP_RS_2617,WS/MP235/2025-2026/268750,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,311,5,True/Strong Duplicate Candidate
+EXP_RS_2618,WS/MP235/2025-2026/268750,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,311,5,True/Strong Duplicate Candidate
+EXP_RS_2619,WS/MP235/2025-2026/268750,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,311,5,True/Strong Duplicate Candidate
+EXP_RS_2620,WS/MP235/2025-2026/268750,Rajya Sabha,2026-03-10,Gurmej Cint and Cement Tile Factory,Payment Success,45800.0,311,5,True/Strong Duplicate Candidate
+EXP_RS_2008,WS/MP235/2025-2026/274835,Rajya Sabha,2026-04-07,Bajaj Enterprises,Payment Success,35000.0,312,2,True/Strong Duplicate Candidate
+EXP_RS_2012,WS/MP235/2025-2026/274835,Rajya Sabha,2026-04-07,Bajaj Enterprises,Payment Success,35000.0,312,2,True/Strong Duplicate Candidate
+EXP_RS_2007,WS/MP235/2025-2026/274835,Rajya Sabha,2026-04-07,Bajaj Enterprises,Payment Success,39000.0,313,3,True/Strong Duplicate Candidate
+EXP_RS_2010,WS/MP235/2025-2026/274835,Rajya Sabha,2026-04-07,Bajaj Enterprises,Payment Success,39000.0,313,3,True/Strong Duplicate Candidate
+EXP_RS_2011,WS/MP235/2025-2026/274835,Rajya Sabha,2026-04-07,Bajaj Enterprises,Payment Success,39000.0,313,3,True/Strong Duplicate Candidate
+EXP_RS_2166,WS/MP235/2025-2026/274836,Rajya Sabha,2026-04-07,Gaurav Gram Udyog Mandal Rrgd,Payment Success,43400.0,314,2,True/Strong Duplicate Candidate
+EXP_RS_2167,WS/MP235/2025-2026/274836,Rajya Sabha,2026-04-07,Gaurav Gram Udyog Mandal Rrgd,Payment Success,43400.0,314,2,True/Strong Duplicate Candidate
+EXP_RS_2061,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,315,3,True/Strong Duplicate Candidate
+EXP_RS_2063,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,315,3,True/Strong Duplicate Candidate
+EXP_RS_2065,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,315,3,True/Strong Duplicate Candidate
+EXP_RS_2066,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,316,3,True/Strong Duplicate Candidate
+EXP_RS_2068,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,316,3,True/Strong Duplicate Candidate
+EXP_RS_2070,WS/MP235/2025-2026/274838,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,316,3,True/Strong Duplicate Candidate
+EXP_RS_2077,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,317,3,True/Strong Duplicate Candidate
+EXP_RS_2078,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,317,3,True/Strong Duplicate Candidate
+EXP_RS_2080,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-17,Sidhu Cemet Store,Payment Success,48750.0,317,3,True/Strong Duplicate Candidate
+EXP_RS_2082,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,318,3,True/Strong Duplicate Candidate
+EXP_RS_2084,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,318,3,True/Strong Duplicate Candidate
+EXP_RS_2086,WS/MP235/2025-2026/274839,Rajya Sabha,2026-04-20,Sidhu Cemet Store,Payment Success,48750.0,318,3,True/Strong Duplicate Candidate
+EXP_RS_2559,WS/MP235/2025-2026/274842,Rajya Sabha,2026-04-06,Baba BKO,Payment Success,31000.0,319,2,True/Strong Duplicate Candidate
+EXP_RS_2560,WS/MP235/2025-2026/274842,Rajya Sabha,2026-04-06,Baba BKO,Payment Success,31000.0,319,2,True/Strong Duplicate Candidate
+EXP_RS_1522,WS/MP235/2026-2027/277163,Rajya Sabha,2026-05-15,Guru Nanak BKO,Payment Success,39200.0,320,2,True/Strong Duplicate Candidate
+EXP_RS_1523,WS/MP235/2026-2027/277163,Rajya Sabha,2026-05-15,Guru Nanak BKO,Payment Success,39200.0,320,2,True/Strong Duplicate Candidate
+EXP_RS_1638,WS/MP235/2026-2027/277164,Rajya Sabha,2026-05-13,Dashmesh Bricks Co,Payment Success,47040.0,321,2,True/Strong Duplicate Candidate
+EXP_RS_1639,WS/MP235/2026-2027/277164,Rajya Sabha,2026-05-13,Dashmesh Bricks Co,Payment Success,47040.0,321,2,True/Strong Duplicate Candidate
+EXP_RS_1620,WS/MP235/2026-2027/277165,Rajya Sabha,2026-05-15,RK bricks Industry,Payment Success,47040.0,322,2,True/Strong Duplicate Candidate
+EXP_RS_1621,WS/MP235/2026-2027/277165,Rajya Sabha,2026-05-15,RK bricks Industry,Payment Success,47040.0,322,2,True/Strong Duplicate Candidate
+EXP_RS_3864,WS/MP235/2026-2027/277172,Rajya Sabha,2026-05-18,Shree Hargobind Sahib Entt Udyog,Payment Success,43400.0,323,2,True/Strong Duplicate Candidate
+EXP_RS_3865,WS/MP235/2026-2027/277172,Rajya Sabha,2026-05-18,Shree Hargobind Sahib Entt Udyog,Payment Success,43400.0,323,2,True/Strong Duplicate Candidate
+EXP_RS_1435,WS/MP235/2026-2027/279289,Rajya Sabha,2026-06-17,Arora Trading Co,Payment Success,39200.0,324,2,True/Strong Duplicate Candidate
+EXP_RS_1436,WS/MP235/2026-2027/279289,Rajya Sabha,2026-06-17,Arora Trading Co,Payment Success,39200.0,324,2,True/Strong Duplicate Candidate
+EXP_RS_1140,WS/MP235/2026-2027/286140,Rajya Sabha,2026-06-23,Vishal Cement Store,Payment Success,70000.0,325,2,True/Strong Duplicate Candidate
+EXP_RS_1141,WS/MP235/2026-2027/286140,Rajya Sabha,2026-06-23,Vishal Cement Store,Payment Success,70000.0,325,2,True/Strong Duplicate Candidate
+EXP_RS_3340,WS/MP235/2026-2027/286152,Rajya Sabha,2026-08-11,Ranjeet Tile Industries,Payment Success,39000.0,326,2,True/Strong Duplicate Candidate
+EXP_RS_3341,WS/MP235/2026-2027/286152,Rajya Sabha,2026-08-11,Ranjeet Tile Industries,Payment Success,39000.0,326,2,True/Strong Duplicate Candidate
+EXP_RS_1588,WS/MP235/2026-2027/288247,Rajya Sabha,2026-07-07,Shree Guru Nanak Cement Store,Payment Success,49140.0,327,2,True/Strong Duplicate Candidate
+EXP_RS_1589,WS/MP235/2026-2027/288247,Rajya Sabha,2026-07-07,Shree Guru Nanak Cement Store,Payment Success,49140.0,327,2,True/Strong Duplicate Candidate
+EXP_RS_17283,WS/MP235/2026-2027/288248,Rajya Sabha,2026-07-07,J L Industries BKO,Payment Success,39200.0,328,2,True/Strong Duplicate Candidate
+EXP_RS_17284,WS/MP235/2026-2027/288248,Rajya Sabha,2026-07-07,J L Industries BKO,Payment Success,39200.0,328,2,True/Strong Duplicate Candidate
+EXP_RS_2489,WS/MP235/2026-2027/288253,Rajya Sabha,2026-07-09,New Friends Bricks,Payment Success,49995.0,329,2,True/Strong Duplicate Candidate
+EXP_RS_2490,WS/MP235/2026-2027/288253,Rajya Sabha,2026-07-09,New Friends Bricks,Payment Success,49995.0,329,2,True/Strong Duplicate Candidate
+EXP_RS_965,WS/MP235/2026-2027/288253,Rajya Sabha,2026-07-09,Sukhjeet Singh Malle Wala,Payment Success,150000.0,330,2,True/Strong Duplicate Candidate
+EXP_RS_966,WS/MP235/2026-2027/288253,Rajya Sabha,2026-07-09,Sukhjeet Singh Malle Wala,Payment Success,150000.0,330,2,True/Strong Duplicate Candidate
+EXP_RS_1360,WS/MP235/2026-2027/290367,Rajya Sabha,2026-08-10,Guru Nanak Sales Corporation,Payment Success,49000.0,331,2,True/Strong Duplicate Candidate
+EXP_RS_1361,WS/MP235/2026-2027/290367,Rajya Sabha,2026-08-10,Guru Nanak Sales Corporation,Payment Success,49000.0,331,2,True/Strong Duplicate Candidate
+EXP_RS_3393,WS/MP235/2026-2027/290372,Rajya Sabha,2026-08-03,Ranjeet Tile Industries,Payment Success,49000.0,332,2,True/Strong Duplicate Candidate
+EXP_RS_3394,WS/MP235/2026-2027/290372,Rajya Sabha,2026-08-03,Ranjeet Tile Industries,Payment Success,49000.0,332,2,True/Strong Duplicate Candidate
+EXP_RS_1356,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Guru Nanak Sales Corporation,Payment Success,49000.0,333,3,True/Strong Duplicate Candidate
+EXP_RS_1357,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Guru Nanak Sales Corporation,Payment Success,49000.0,333,3,True/Strong Duplicate Candidate
+EXP_RS_1358,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Guru Nanak Sales Corporation,Payment Success,49000.0,333,3,True/Strong Duplicate Candidate
+EXP_RS_1029,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Tilka Singh,Payment Success,35000.0,334,2,True/Strong Duplicate Candidate
+EXP_RS_1031,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Tilka Singh,Payment Success,35000.0,334,2,True/Strong Duplicate Candidate
+EXP_RS_1028,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Tilka Singh,Payment Success,66000.0,335,2,True/Strong Duplicate Candidate
+EXP_RS_1030,WS/MP235/2026-2027/290374,Rajya Sabha,2026-07-08,Tilka Singh,Payment Success,66000.0,335,2,True/Strong Duplicate Candidate
+EXP_RS_1354,WS/MP235/2026-2027/290374,Rajya Sabha,2026-08-03,Guru Nanak Sales Corporation,Payment Success,49000.0,336,2,True/Strong Duplicate Candidate
+EXP_RS_1355,WS/MP235/2026-2027/290374,Rajya Sabha,2026-08-03,Guru Nanak Sales Corporation,Payment Success,49000.0,336,2,True/Strong Duplicate Candidate
+EXP_RS_3350,WS/MP235/2026-2027/290374,Rajya Sabha,2026-08-03,Ranjeet Tile Industries,Payment Success,49000.0,337,2,True/Strong Duplicate Candidate
+EXP_RS_3351,WS/MP235/2026-2027/290374,Rajya Sabha,2026-08-03,Ranjeet Tile Industries,Payment Success,49000.0,337,2,True/Strong Duplicate Candidate
+EXP_RS_1440,WS/MP235/2026-2027/299124,Rajya Sabha,2026-08-17,Arora Trading Co,Payment Success,39200.0,338,4,True/Strong Duplicate Candidate
+EXP_RS_1441,WS/MP235/2026-2027/299124,Rajya Sabha,2026-08-17,Arora Trading Co,Payment Success,39200.0,338,4,True/Strong Duplicate Candidate
+EXP_RS_1442,WS/MP235/2026-2027/299124,Rajya Sabha,2026-08-17,Arora Trading Co,Payment Success,39200.0,338,4,True/Strong Duplicate Candidate
+EXP_RS_1443,WS/MP235/2026-2027/299124,Rajya Sabha,2026-08-17,Arora Trading Co,Payment Success,39200.0,338,4,True/Strong Duplicate Candidate
+EXP_RS_3878,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Sandhu brothers BKO,Payment Success,47040.0,339,2,True/Strong Duplicate Candidate
+EXP_RS_3879,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Sandhu brothers BKO,Payment Success,47040.0,339,2,True/Strong Duplicate Candidate
+EXP_RS_3860,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Shree Hargobind Sahib Entt Udyog,Payment Success,39200.0,340,4,True/Strong Duplicate Candidate
+EXP_RS_3861,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Shree Hargobind Sahib Entt Udyog,Payment Success,39200.0,340,4,True/Strong Duplicate Candidate
+EXP_RS_3862,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Shree Hargobind Sahib Entt Udyog,Payment Success,39200.0,340,4,True/Strong Duplicate Candidate
+EXP_RS_3863,WS/MP235/2026-2027/299131,Rajya Sabha,2026-08-06,Shree Hargobind Sahib Entt Udyog,Payment Success,39200.0,340,4,True/Strong Duplicate Candidate
+EXP_RS_286,WS/MP235/2026-2027/301954,Rajya Sabha,2026-08-26,Guru Nanak Sales Corporation,Payment In-Progress,49000.0,341,5,True/Strong Duplicate Candidate
+EXP_RS_287,WS/MP235/2026-2027/301954,Rajya Sabha,2026-08-26,Guru Nanak Sales Corporation,Payment In-Progress,49000.0,341,5,True/Strong Duplicate Candidate
+EXP_RS_288,WS/MP235/2026-2027/301954,Rajya Sabha,2026-08-26,Guru Nanak Sales Corporation,Payment In-Progress,49000.0,341,5,True/Strong Duplicate Candidate
+EXP_RS_289,WS/MP235/2026-2027/301954,Rajya Sabha,2026-08-26,Guru Nanak Sales Corporation,Payment In-Progress,49000.0,341,5,True/Strong Duplicate Candidate
+EXP_RS_290,WS/MP235/2026-2027/301954,Rajya Sabha,2026-08-26,Guru Nanak Sales Corporation,Payment In-Progress,49000.0,341,5,True/Strong Duplicate Candidate
+EXP_RS_1348,WS/MP235/2026-2027/301956,Rajya Sabha,2026-08-25,Guru Nanak Sales Corporation,Payment Success,49000.0,342,2,True/Strong Duplicate Candidate
+EXP_RS_1349,WS/MP235/2026-2027/301956,Rajya Sabha,2026-08-25,Guru Nanak Sales Corporation,Payment Success,49000.0,342,2,True/Strong Duplicate Candidate
+EXP_LS_13973,WS/MP313/2025-2026/225987,Lok Sabha,2026-03-05,KPCC ENTERPRISE,Payment Success,356191.0,343,3,True/Strong Duplicate Candidate
+EXP_LS_13974,WS/MP313/2025-2026/225987,Lok Sabha,2026-03-05,KPCC ENTERPRISE,Payment Success,356191.0,343,3,True/Strong Duplicate Candidate
+EXP_LS_13975,WS/MP313/2025-2026/225987,Lok Sabha,2026-03-05,KPCC ENTERPRISE,Payment Success,356191.0,343,3,True/Strong Duplicate Candidate
+EXP_LS_3164,WS/MP380/2025-2026/205836,Lok Sabha,2026-08-07,VARDHAN ENTERPRISE,Payment Success,32000.0,344,2,True/Strong Duplicate Candidate
+EXP_LS_3165,WS/MP380/2025-2026/205836,Lok Sabha,2026-08-07,VARDHAN ENTERPRISE,Payment Success,32000.0,344,2,True/Strong Duplicate Candidate
+EXP_LS_12837,WS/MP380/2025-2026/243158,Lok Sabha,2026-08-20,Dhaliwal Enterprises,Payment Success,47320.0,345,5,True/Strong Duplicate Candidate
+EXP_LS_12838,WS/MP380/2025-2026/243158,Lok Sabha,2026-08-20,Dhaliwal Enterprises,Payment Success,47320.0,345,5,True/Strong Duplicate Candidate
+EXP_LS_12839,WS/MP380/2025-2026/243158,Lok Sabha,2026-08-20,Dhaliwal Enterprises,Payment Success,47320.0,345,5,True/Strong Duplicate Candidate
+EXP_LS_12840,WS/MP380/2025-2026/243158,Lok Sabha,2026-08-20,Dhaliwal Enterprises,Payment Success,47320.0,345,5,True/Strong Duplicate Candidate
+EXP_LS_12841,WS/MP380/2025-2026/243158,Lok Sabha,2026-08-20,Dhaliwal Enterprises,Payment Success,47320.0,345,5,True/Strong Duplicate Candidate
+EXP_LS_5962,WS/MP380/2026-2027/272209,Lok Sabha,2026-06-15,Najar Singh,Payment Success,24850.0,346,2,True/Strong Duplicate Candidate
+EXP_LS_5963,WS/MP380/2026-2027/272209,Lok Sabha,2026-06-15,Najar Singh,Payment Success,24850.0,346,2,True/Strong Duplicate Candidate
+EXP_LS_5958,WS/MP380/2026-2027/272209,Lok Sabha,2026-06-15,Sandhu Bricks,Payment Success,42001.0,347,2,True/Strong Duplicate Candidate
+EXP_LS_5959,WS/MP380/2026-2027/272209,Lok Sabha,2026-06-15,Sandhu Bricks,Payment Success,42001.0,347,2,True/Strong Duplicate Candidate
+EXP_LS_5594,WS/MP380/2026-2027/273253,Lok Sabha,2026-06-22,KALSI INTERLOCK TILES,Payment Success,37500.0,348,3,True/Strong Duplicate Candidate
+EXP_LS_5596,WS/MP380/2026-2027/273253,Lok Sabha,2026-06-22,KALSI INTERLOCK TILES,Payment Success,37500.0,348,3,True/Strong Duplicate Candidate
+EXP_LS_5597,WS/MP380/2026-2027/273253,Lok Sabha,2026-06-22,KALSI INTERLOCK TILES,Payment Success,37500.0,348,3,True/Strong Duplicate Candidate
+EXP_LS_1796,WS/MP465/2025-2026/189652,Lok Sabha,2026-07-03,DEEPA SURGICAL,Payment In-Progress,120000.0,349,2,True/Strong Duplicate Candidate
+EXP_LS_1797,WS/MP465/2025-2026/189652,Lok Sabha,2026-07-03,DEEPA SURGICAL,Payment In-Progress,120000.0,349,2,True/Strong Duplicate Candidate
+EXP_LS_8796,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ARTHI DEVI,Payment Success,7056.0,350,2,True/Strong Duplicate Candidate
+EXP_LS_8797,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ARTHI DEVI,Payment Success,7056.0,350,2,True/Strong Duplicate Candidate
+EXP_LS_8800,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ASHISH,Payment Success,7056.0,351,2,True/Strong Duplicate Candidate
+EXP_LS_8801,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ASHISH,Payment Success,7056.0,351,2,True/Strong Duplicate Candidate
+EXP_LS_8798,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,NEHA,Payment Success,7056.0,352,2,True/Strong Duplicate Candidate
+EXP_LS_8799,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,NEHA,Payment Success,7056.0,352,2,True/Strong Duplicate Candidate
+EXP_LS_8802,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,NITIN SINGH,Payment Success,7056.0,353,2,True/Strong Duplicate Candidate
+EXP_LS_8803,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,NITIN SINGH,Payment Success,7056.0,353,2,True/Strong Duplicate Candidate
+EXP_LS_8792,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,PUSHPA DEVI,Payment Success,7056.0,354,2,True/Strong Duplicate Candidate
+EXP_LS_8793,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,PUSHPA DEVI,Payment Success,7056.0,354,2,True/Strong Duplicate Candidate
+EXP_LS_8794,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ROHAN,Payment Success,7056.0,355,2,True/Strong Duplicate Candidate
+EXP_LS_8795,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,ROHAN,Payment Success,7056.0,355,2,True/Strong Duplicate Candidate
+EXP_LS_8790,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,SUBASH,Payment Success,7056.0,356,2,True/Strong Duplicate Candidate
+EXP_LS_8791,WS/MP478/2025-2026/243399,Lok Sabha,2026-04-10,SUBASH,Payment Success,7056.0,356,2,True/Strong Duplicate Candidate
+EXP_LS_10663,WS/MP478/2025-2026/243401,Lok Sabha,2026-06-25,MAMTA DEVI,Payment Success,6552.0,357,2,True/Strong Duplicate Candidate
+EXP_LS_11305,WS/MP478/2025-2026/243401,Lok Sabha,2026-06-25,MAMTA DEVI,Payment Success,6552.0,357,2,True/Strong Duplicate Candidate
+EXP_LS_7938,WS/MP507/2025-2026/196288,Lok Sabha,2026-04-28,SHRI GURU KRIPA NARSINGH ASSOSIATES,Payment Success,9415694.0,358,2,True/Strong Duplicate Candidate
+EXP_LS_7939,WS/MP507/2025-2026/196288,Lok Sabha,2026-04-28,SHRI GURU KRIPA NARSINGH ASSOSIATES,Payment Success,9415694.0,358,2,True/Strong Duplicate Candidate
+EXP_LS_317,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,250000.0,359,2,True/Strong Duplicate Candidate
+EXP_LS_318,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,250000.0,359,2,True/Strong Duplicate Candidate
+EXP_LS_313,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,500000.0,360,4,True/Strong Duplicate Candidate
+EXP_LS_314,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,500000.0,360,4,True/Strong Duplicate Candidate
+EXP_LS_315,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,500000.0,360,4,True/Strong Duplicate Candidate
+EXP_LS_316,WS/MP533/2025-2026/226046,Lok Sabha,2026-03-26,Subansiri Traders Ziro,Payment In-Progress,500000.0,360,4,True/Strong Duplicate Candidate
+EXP_LS_10202,WS/MP640/2026-2027/151613,Lok Sabha,2026-05-21,VAIBHAV LAXMI PIPE,Payment Success,193424.0,361,3,True/Strong Duplicate Candidate
+EXP_LS_10203,WS/MP640/2026-2027/151613,Lok Sabha,2026-05-21,VAIBHAV LAXMI PIPE,Payment Success,193424.0,361,3,True/Strong Duplicate Candidate
+EXP_LS_10204,WS/MP640/2026-2027/151613,Lok Sabha,2026-05-21,VAIBHAV LAXMI PIPE,Payment Success,193424.0,361,3,True/Strong Duplicate Candidate
+EXP_LS_4451,WS/MP643/2025-2026/177006,Lok Sabha,2026-07-07,Maa Durga Workshop,Payment Success,49921.0,362,2,True/Strong Duplicate Candidate
+EXP_LS_4455,WS/MP643/2025-2026/177006,Lok Sabha,2026-07-07,Maa Durga Workshop,Payment Success,49921.0,362,2,True/Strong Duplicate Candidate
+EXP_LS_4445,WS/MP643/2025-2026/177006,Lok Sabha,2026-07-07,Maa Durga Workshop,Payment Success,49995.0,363,3,True/Strong Duplicate Candidate
+EXP_LS_4450,WS/MP643/2025-2026/177006,Lok Sabha,2026-07-07,Maa Durga Workshop,Payment Success,49995.0,363,3,True/Strong Duplicate Candidate
+EXP_LS_4456,WS/MP643/2025-2026/177006,Lok Sabha,2026-07-07,Maa Durga Workshop,Payment Success,49995.0,363,3,True/Strong Duplicate Candidate
+EXP_LS_13717,WS/MP643/2025-2026/228760,Lok Sabha,2026-02-11,DILIP KUMAR DASHORE,Payment Success,25000.0,364,2,True/Strong Duplicate Candidate
+EXP_LS_13718,WS/MP643/2025-2026/228760,Lok Sabha,2026-02-11,DILIP KUMAR DASHORE,Payment Success,25000.0,364,2,True/Strong Duplicate Candidate
+EXP_LS_13723,WS/MP643/2025-2026/228760,Lok Sabha,2026-02-11,MAHENDRA MASARE,Payment Success,25000.0,365,2,True/Strong Duplicate Candidate
+EXP_LS_13724,WS/MP643/2025-2026/228760,Lok Sabha,2026-02-11,MAHENDRA MASARE,Payment Success,25000.0,365,2,True/Strong Duplicate Candidate
+EXP_LS_7304,WS/MP650/2025-2026/216023,Lok Sabha,2026-05-05,SHANKAR LAL PUNAMCHAND,Payment Success,25000.0,366,2,True/Strong Duplicate Candidate
+EXP_LS_7305,WS/MP650/2025-2026/216023,Lok Sabha,2026-05-05,SHANKAR LAL PUNAMCHAND,Payment Success,25000.0,366,2,True/Strong Duplicate Candidate
+EXP_LS_13732,WS/MP716/2025-2026/189724,Lok Sabha,2026-02-10,GURU KIRPA TRADING CO,Payment Success,52500.0,367,2,True/Strong Duplicate Candidate
+EXP_LS_13733,WS/MP716/2025-2026/189724,Lok Sabha,2026-02-10,GURU KIRPA TRADING CO,Payment Success,52500.0,367,2,True/Strong Duplicate Candidate
+EXP_LS_201,WS/MP716/2025-2026/203943,Lok Sabha,2026-08-21,JR INDUSTRIES,Payment In-Progress,38104.0,368,2,True/Strong Duplicate Candidate
+EXP_LS_202,WS/MP716/2025-2026/203943,Lok Sabha,2026-08-21,JR INDUSTRIES,Payment In-Progress,38104.0,368,2,True/Strong Duplicate Candidate
+EXP_LS_2116,WS/MP716/2025-2026/203945,Lok Sabha,2026-08-21,Ms Sikander Industries,Payment In-Progress,48705.0,369,2,True/Strong Duplicate Candidate
+EXP_LS_2119,WS/MP716/2025-2026/203945,Lok Sabha,2026-08-21,Ms Sikander Industries,Payment In-Progress,48705.0,369,2,True/Strong Duplicate Candidate
+EXP_LS_1999,WS/MP716/2025-2026/203951,Lok Sabha,2026-07-02,Karamjeet Kaur,Payment In-Progress,9637.0,370,2,True/Strong Duplicate Candidate
+EXP_LS_2000,WS/MP716/2025-2026/203951,Lok Sabha,2026-07-02,Karamjeet Kaur,Payment In-Progress,9637.0,370,2,True/Strong Duplicate Candidate
+EXP_LS_1606,WS/MP716/2025-2026/203954,Lok Sabha,2026-08-14,JK Industries,Payment In-Progress,45840.0,371,5,True/Strong Duplicate Candidate
+EXP_LS_1607,WS/MP716/2025-2026/203954,Lok Sabha,2026-08-14,JK Industries,Payment In-Progress,45840.0,371,5,True/Strong Duplicate Candidate
+EXP_LS_1608,WS/MP716/2025-2026/203954,Lok Sabha,2026-08-14,JK Industries,Payment In-Progress,45840.0,371,5,True/Strong Duplicate Candidate
+EXP_LS_1609,WS/MP716/2025-2026/203954,Lok Sabha,2026-08-14,JK Industries,Payment In-Progress,45840.0,371,5,True/Strong Duplicate Candidate
+EXP_LS_1610,WS/MP716/2025-2026/203954,Lok Sabha,2026-08-14,JK Industries,Payment In-Progress,45840.0,371,5,True/Strong Duplicate Candidate
+EXP_LS_5840,WS/MP716/2025-2026/210101,Lok Sabha,2026-06-16,NAMBARDAR BRICKS CO,Payment Success,73500.0,372,4,True/Strong Duplicate Candidate
+EXP_LS_5841,WS/MP716/2025-2026/210101,Lok Sabha,2026-06-16,NAMBARDAR BRICKS CO,Payment Success,73500.0,372,4,True/Strong Duplicate Candidate
+EXP_LS_5842,WS/MP716/2025-2026/210101,Lok Sabha,2026-06-16,NAMBARDAR BRICKS CO,Payment Success,73500.0,372,4,True/Strong Duplicate Candidate
+EXP_LS_5843,WS/MP716/2025-2026/210101,Lok Sabha,2026-06-16,NAMBARDAR BRICKS CO,Payment Success,73500.0,372,4,True/Strong Duplicate Candidate
+EXP_LS_7838,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,373,3,True/Strong Duplicate Candidate
+EXP_LS_7842,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,373,3,True/Strong Duplicate Candidate
+EXP_LS_7850,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,373,3,True/Strong Duplicate Candidate
+EXP_LS_7839,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7840,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7841,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7843,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7844,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7845,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7851,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7852,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7853,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_7854,WS/MP716/2025-2026/212401,Lok Sabha,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,374,10,True/Strong Duplicate Candidate
+EXP_LS_3076,WS/MP716/2025-2026/226780,Lok Sabha,2026-08-12,KUNDANAM INDUSTRIES,Payment Success,43750.0,375,5,True/Strong Duplicate Candidate
+EXP_LS_3077,WS/MP716/2025-2026/226780,Lok Sabha,2026-08-12,KUNDANAM INDUSTRIES,Payment Success,43750.0,375,5,True/Strong Duplicate Candidate
+EXP_LS_3078,WS/MP716/2025-2026/226780,Lok Sabha,2026-08-12,KUNDANAM INDUSTRIES,Payment Success,43750.0,375,5,True/Strong Duplicate Candidate
+EXP_LS_3079,WS/MP716/2025-2026/226780,Lok Sabha,2026-08-12,KUNDANAM INDUSTRIES,Payment Success,43750.0,375,5,True/Strong Duplicate Candidate
+EXP_LS_3080,WS/MP716/2025-2026/226780,Lok Sabha,2026-08-12,KUNDANAM INDUSTRIES,Payment Success,43750.0,375,5,True/Strong Duplicate Candidate
+EXP_LS_5030,WS/MP716/2025-2026/250843,Lok Sabha,2026-07-02,ROYAL BUILDING MATERIAL,Payment Success,106250.0,376,2,True/Strong Duplicate Candidate
+EXP_LS_5031,WS/MP716/2025-2026/250843,Lok Sabha,2026-07-02,ROYAL BUILDING MATERIAL,Payment Success,106250.0,376,2,True/Strong Duplicate Candidate
+EXP_LS_6614,WS/MP719/2025-2026/215798,Lok Sabha,2026-05-23,SUNITA,Payment Success,12474.0,377,2,True/Strong Duplicate Candidate
+EXP_LS_6648,WS/MP719/2025-2026/215798,Lok Sabha,2026-05-23,SUNITA,Payment Success,12474.0,377,2,True/Strong Duplicate Candidate
+EXP_LS_8053,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Hariom,Payment Success,11700.0,378,2,True/Strong Duplicate Candidate
+EXP_LS_8054,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Hariom,Payment Success,11700.0,378,2,True/Strong Duplicate Candidate
+EXP_LS_8046,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,LEELA,Payment Success,3705.0,379,2,True/Strong Duplicate Candidate
+EXP_LS_8047,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,LEELA,Payment Success,3705.0,379,2,True/Strong Duplicate Candidate
+EXP_LS_8055,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Laxman,Payment Success,11700.0,380,2,True/Strong Duplicate Candidate
+EXP_LS_8056,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Laxman,Payment Success,11700.0,380,2,True/Strong Duplicate Candidate
+EXP_LS_8051,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Laxman Nath,Payment Success,11700.0,381,2,True/Strong Duplicate Candidate
+EXP_LS_8052,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Laxman Nath,Payment Success,11700.0,381,2,True/Strong Duplicate Candidate
+EXP_LS_8040,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,MANOWAR BANO,Payment Success,3705.0,382,2,True/Strong Duplicate Candidate
+EXP_LS_8041,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,MANOWAR BANO,Payment Success,3705.0,382,2,True/Strong Duplicate Candidate
+EXP_LS_8042,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,MONA,Payment Success,3705.0,383,2,True/Strong Duplicate Candidate
+EXP_LS_8043,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,MONA,Payment Success,3705.0,383,2,True/Strong Duplicate Candidate
+EXP_LS_8061,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,PARSI,Payment Success,3705.0,384,2,True/Strong Duplicate Candidate
+EXP_LS_8062,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,PARSI,Payment Success,3705.0,384,2,True/Strong Duplicate Candidate
+EXP_LS_8059,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,SANJU,Payment Success,3705.0,385,2,True/Strong Duplicate Candidate
+EXP_LS_8060,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,SANJU,Payment Success,3705.0,385,2,True/Strong Duplicate Candidate
+EXP_LS_8048,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Soniya,Payment Success,3705.0,386,2,True/Strong Duplicate Candidate
+EXP_LS_8049,WS/MP719/2025-2026/240586,Lok Sabha,2026-08-07,Soniya,Payment Success,3705.0,386,2,True/Strong Duplicate Candidate
+EXP_LS_1425,WS/MP719/2025-2026/257060,Lok Sabha,2026-08-19,RAMPRASAD,Payment In-Progress,11050.0,387,2,True/Strong Duplicate Candidate
+EXP_LS_1426,WS/MP719/2025-2026/257060,Lok Sabha,2026-08-19,RAMPRASAD,Payment In-Progress,11050.0,387,2,True/Strong Duplicate Candidate
+EXP_LS_4304,WS/MP727/2025-2026/244863,Lok Sabha,2026-07-13,MAMTA RATHORE,Payment Success,3315.0,388,2,True/Strong Duplicate Candidate
+EXP_LS_4305,WS/MP727/2025-2026/244863,Lok Sabha,2026-07-13,MAMTA RATHORE,Payment Success,3315.0,388,2,True/Strong Duplicate Candidate
+EXP_LS_13812,WS/MP728/2025-2026/191759,Lok Sabha,2026-03-02,MOHAN LAL,Payment Success,10800.0,389,2,True/Strong Duplicate Candidate
+EXP_LS_13813,WS/MP728/2025-2026/191759,Lok Sabha,2026-03-02,MOHAN LAL,Payment Success,10800.0,389,2,True/Strong Duplicate Candidate
+EXP_LS_14129,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,GOVIND RAM,Payment Success,11700.0,390,2,True/Strong Duplicate Candidate
+EXP_LS_14130,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,GOVIND RAM,Payment Success,11700.0,390,2,True/Strong Duplicate Candidate
+EXP_LS_14121,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,JAYVARDHAN SINGH,Payment Success,11700.0,391,2,True/Strong Duplicate Candidate
+EXP_LS_14122,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,JAYVARDHAN SINGH,Payment Success,11700.0,391,2,True/Strong Duplicate Candidate
+EXP_LS_14133,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,JITENDRA SINGH,Payment Success,11700.0,392,2,True/Strong Duplicate Candidate
+EXP_LS_14134,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,JITENDRA SINGH,Payment Success,11700.0,392,2,True/Strong Duplicate Candidate
+EXP_LS_14143,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,OMI DEVI,Payment Success,3705.0,393,2,True/Strong Duplicate Candidate
+EXP_LS_14144,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,OMI DEVI,Payment Success,3705.0,393,2,True/Strong Duplicate Candidate
+EXP_LS_14135,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,SANNU KANWAR,Payment Success,3705.0,394,2,True/Strong Duplicate Candidate
+EXP_LS_14136,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,SANNU KANWAR,Payment Success,3705.0,394,2,True/Strong Duplicate Candidate
+EXP_LS_14137,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,SIRU KANWAR,Payment Success,3705.0,395,2,True/Strong Duplicate Candidate
+EXP_LS_14138,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,SIRU KANWAR,Payment Success,3705.0,395,2,True/Strong Duplicate Candidate
+EXP_LS_14141,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,TARAMANI,Payment Success,3705.0,396,2,True/Strong Duplicate Candidate
+EXP_LS_14142,WS/MP728/2025-2026/192002,Lok Sabha,2026-02-25,TARAMANI,Payment Success,3705.0,396,2,True/Strong Duplicate Candidate
+EXP_LS_1846,WS/MP728/2025-2026/192099,Lok Sabha,2026-08-25,VIJENDRA KUMAR,Payment In-Progress,11115.0,397,2,True/Strong Duplicate Candidate
+EXP_LS_1848,WS/MP728/2025-2026/192099,Lok Sabha,2026-08-25,VIJENDRA KUMAR,Payment In-Progress,11115.0,397,2,True/Strong Duplicate Candidate
+EXP_LS_13747,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,BALWANT SINGH,Payment Success,3300.0,398,2,True/Strong Duplicate Candidate
+EXP_LS_13748,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,BALWANT SINGH,Payment Success,3300.0,398,2,True/Strong Duplicate Candidate
+EXP_LS_13745,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,DAYARAM,Payment Success,3300.0,399,2,True/Strong Duplicate Candidate
+EXP_LS_13746,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,DAYARAM,Payment Success,3300.0,399,2,True/Strong Duplicate Candidate
+EXP_LS_13749,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,PRABHU DAYAL,Payment Success,9000.0,400,2,True/Strong Duplicate Candidate
+EXP_LS_13750,WS/MP728/2025-2026/197732,Lok Sabha,2026-02-19,PRABHU DAYAL,Payment Success,9000.0,400,2,True/Strong Duplicate Candidate
+EXP_RS_4591,WS/MP831/2024-2025/165181,Rajya Sabha,2025-11-29,Kalita Timber  Enterprise,Payment Success,194675.0,401,2,True/Strong Duplicate Candidate
+EXP_RS_4592,WS/MP831/2024-2025/165181,Rajya Sabha,2025-11-29,Kalita Timber  Enterprise,Payment Success,194675.0,401,2,True/Strong Duplicate Candidate
+EXP_RS_10553,WS/MP843/2024-2025/136534,Rajya Sabha,2025-02-18,Sethi Building Material,Payment Success,40000.0,402,2,True/Strong Duplicate Candidate
+EXP_RS_10554,WS/MP843/2024-2025/136534,Rajya Sabha,2025-02-18,Sethi Building Material,Payment Success,40000.0,402,2,True/Strong Duplicate Candidate
+EXP_RS_6405,WS/MP843/2024-2025/163591,Rajya Sabha,2026-02-10,SUNITA DEVI,Payment Success,85332.0,403,2,True/Strong Duplicate Candidate
+EXP_RS_6406,WS/MP843/2024-2025/163591,Rajya Sabha,2026-02-10,SUNITA DEVI,Payment Success,85332.0,403,2,True/Strong Duplicate Candidate
+EXP_RS_4967,WS/MP843/2024-2025/166183,Rajya Sabha,2026-01-30,SUKHVINDER CEMENT STORE,Payment Success,49920.0,404,2,True/Strong Duplicate Candidate
+EXP_RS_4968,WS/MP843/2024-2025/166183,Rajya Sabha,2026-01-30,SUKHVINDER CEMENT STORE,Payment Success,49920.0,404,2,True/Strong Duplicate Candidate
+EXP_RS_5299,WS/MP843/2025-2026/180325,Rajya Sabha,2025-12-30,JVM BLOCKS,Payment Success,40600.0,405,2,True/Strong Duplicate Candidate
+EXP_RS_5300,WS/MP843/2025-2026/180325,Rajya Sabha,2025-12-30,JVM BLOCKS,Payment Success,40600.0,405,2,True/Strong Duplicate Candidate
+EXP_RS_6429,WS/MP843/2025-2026/184546,Rajya Sabha,2025-08-18,Gupta Chips and Marble Store,Payment Success,48195.0,406,2,True/Strong Duplicate Candidate
+EXP_RS_6430,WS/MP843/2025-2026/184546,Rajya Sabha,2025-08-18,Gupta Chips and Marble Store,Payment Success,48195.0,406,2,True/Strong Duplicate Candidate
+EXP_RS_13057,WS/MP843/2025-2026/267763,Rajya Sabha,2026-03-17,HEM RAJ,Payment Success,40810.0,407,3,True/Strong Duplicate Candidate
+EXP_RS_13058,WS/MP843/2025-2026/267763,Rajya Sabha,2026-03-17,HEM RAJ,Payment Success,40810.0,407,3,True/Strong Duplicate Candidate
+EXP_RS_13059,WS/MP843/2025-2026/267763,Rajya Sabha,2026-03-17,HEM RAJ,Payment Success,40810.0,407,3,True/Strong Duplicate Candidate
+EXP_RS_17262,WS/MP844/2023-2024/74812,Rajya Sabha,2024-03-26,LAJPAT SINGH CONTRACTOR,Payment Success,49768.0,408,2,True/Strong Duplicate Candidate
+EXP_RS_17263,WS/MP844/2023-2024/74812,Rajya Sabha,2024-03-26,LAJPAT SINGH CONTRACTOR,Payment Success,49768.0,408,2,True/Strong Duplicate Candidate
+EXP_RS_16539,WS/MP844/2023-2024/74812,Rajya Sabha,2024-09-09,ARYA BRICKS MANUFACTURERS,Payment Success,26924.0,409,2,True/Strong Duplicate Candidate
+EXP_RS_16540,WS/MP844/2023-2024/74812,Rajya Sabha,2024-09-09,ARYA BRICKS MANUFACTURERS,Payment Success,26924.0,409,2,True/Strong Duplicate Candidate
+EXP_RS_14537,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,AKAL CEMENT TILES,Payment Success,46600.0,410,2,True/Strong Duplicate Candidate
+EXP_RS_14539,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,AKAL CEMENT TILES,Payment Success,46600.0,410,2,True/Strong Duplicate Candidate
+EXP_RS_14535,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,AKAL CEMENT TILES,Payment Success,49512.0,411,2,True/Strong Duplicate Candidate
+EXP_RS_14538,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,AKAL CEMENT TILES,Payment Success,49512.0,411,2,True/Strong Duplicate Candidate
+EXP_RS_18185,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,SIDHI VINAYAK BKO,Payment Success,26924.0,412,2,True/Strong Duplicate Candidate
+EXP_RS_18186,WS/MP844/2023-2024/74812,Rajya Sabha,2024-10-29,SIDHI VINAYAK BKO,Payment Success,26924.0,412,2,True/Strong Duplicate Candidate
+EXP_RS_18222,WS/MP850/2025-2026/201772,Rajya Sabha,2026-07-24,Block Bageshwar Royalty,Payment Success,8475.0,413,2,True/Strong Duplicate Candidate
+EXP_RS_18223,WS/MP850/2025-2026/201772,Rajya Sabha,2026-07-24,Block Bageshwar Royalty,Payment Success,8475.0,413,2,True/Strong Duplicate Candidate

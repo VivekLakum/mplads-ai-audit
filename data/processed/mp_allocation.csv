@@ -1,0 +1,775 @@
+mp_id,parliament_house,mp_name,state,constituency,elected_nominated,allocated_amount
+MP_LS_1,Lok Sabha,Aashtikar Patil Nagesh Bapurao,Maharashtra,HINGOLI,,190289442.0
+MP_LS_2,Lok Sabha,Abdul Rashid Sheikh,Jammu And Kashmir,BARAMULLAH,,154773472.11
+MP_LS_3,Lok Sabha,Abhay Kumar Sinha,Bihar,AURANGABAD_BR,,147000000.0
+MP_LS_4,Lok Sabha,Abhijit Gangopadhyay,West Bengal,TAMLUK,,147000000.0
+MP_LS_5,Lok Sabha,Abu Taher Khan,West Bengal,MURSHIDABAD,,147000000.0
+MP_LS_6,Lok Sabha,Adhikari Soumendu,West Bengal,KANTHI,,147000000.0
+MP_LS_7,Lok Sabha,Aditya Yadav,Uttar Pradesh,BADAUN,,147000000.0
+MP_LS_8,Lok Sabha,Adv Adoor Prakash,Kerala,ATTINGAL,,147000000.0
+MP_LS_9,Lok Sabha,Adv Dean Kuriakose,Kerala,IDUKKI,,147000000.0
+MP_LS_10,Lok Sabha,Adv Gowaal Kagada Padavi,Maharashtra,NANDURBAR(ST),,147816309.11
+MP_LS_11,Lok Sabha,Adv K Francis George,Kerala,KOTTAYAM,,188722256.11
+MP_LS_12,Lok Sabha,Afzal Ansari,Uttar Pradesh,GHAZIPUR,,220500000.0
+MP_LS_13,Lok Sabha,Aga Syed Ruhullah Mehdi,Jammu And Kashmir,SRINAGAR,,147000000.0
+MP_LS_14,Lok Sabha,Ajay Bhatt,Uttarakhand,NAINITAL UDHAM SINGH NAG.,,147000000.0
+MP_LS_15,Lok Sabha,Ajay Kumar Mandal,Bihar,BHAGALPUR,,147000000.0
+MP_LS_16,Lok Sabha,Ajay Tamta,Uttarakhand,ALMORA(SC),,147000000.0
+MP_LS_17,Lok Sabha,Ajendra Singh Lodhi,Uttar Pradesh,HAMIRPUR_UP,,147000000.0
+MP_LS_18,Lok Sabha,Akhilesh Yadav,Uttar Pradesh,KANNAUJ,,147000000.0
+MP_LS_19,Lok Sabha,Akshaya Yadav,Uttar Pradesh,FIROZABAD,,147000000.0
+MP_LS_20,Lok Sabha,Alfred Kanngam S Arthur,Manipur,OUTER MANIPUR(ST),,147000000.0
+MP_LS_21,Lok Sabha,Alok Kumar Suman,Bihar,GOPALGANJ (SC),,147000000.0
+MP_LS_22,Lok Sabha,Alok Sharma,Madhya Pradesh,BHOPAL,,147000000.0
+MP_LS_23,Lok Sabha,Amar Sharadrao Kale,Maharashtra,WARDHA,,147000000.0
+MP_LS_24,Lok Sabha,Amarsing Tisso,Assam,Diphu (ST),,147000000.0
+MP_LS_25,Lok Sabha,Ambica G Lakshminarayana Valmiki,Andhra Pradesh,ANANTAPUR,,201899064.11
+MP_LS_26,Lok Sabha,Amol Ramsing Kolhe,Maharashtra,SHIRUR,,147000000.0
+MP_LS_27,Lok Sabha,Amraram,Rajasthan,SIKAR,,165691544.11
+MP_LS_28,Lok Sabha,Amrinder Singh Raja Warring,Punjab,LUDHIANA,,147000000.0
+MP_LS_29,Lok Sabha,Anand Bhadauriya,Uttar Pradesh,DHAURAHRA,,147000000.0
+MP_LS_30,Lok Sabha,Anand Kumar,Uttar Pradesh,BAHRAICH(SC),,147000000.0
+MP_LS_31,Lok Sabha,Ananta Nayak,Odisha,KEONJHAR(ST),,147000000.0
+MP_LS_32,Lok Sabha,Andimuthu Raja,Tamil Nadu,NILGIRIS(SC),,147000000.0
+MP_LS_33,Lok Sabha,Andrew J. Syngkon,Meghalaya,SHILLONG,,98000000.0
+MP_LS_34,Lok Sabha,Angomcha Bimol Akoijam,Manipur,INNER MANIPUR,,147000000.0
+MP_LS_35,Lok Sabha,Anil Baluni,Uttarakhand,GARHWAL,,147000000.0
+MP_LS_36,Lok Sabha,Anil Yeshwant Desai,Maharashtra,MUMBAI SOUTH CENTRAL,,147000000.0
+MP_LS_37,Lok Sabha,Anita Nagarsingh Chouhan,Madhya Pradesh,RATLAM(ST),,147000000.0
+MP_LS_38,Lok Sabha,Anita Subhadarshini,Odisha,ASKA,,147000000.0
+MP_LS_39,Lok Sabha,Annpurna Devi,Jharkhand,KODARMA,,166665931.8
+MP_LS_40,Lok Sabha,Anoop Pradhan Balmiki,Uttar Pradesh,HATHRAS (SC),,147000000.0
+MP_LS_41,Lok Sabha,Anto Antony,Kerala,PATHANAMTHITTA,,147000000.0
+MP_LS_42,Lok Sabha,Anup Sanjay Dhotre,Maharashtra,AKOLA,,147000000.0
+MP_LS_43,Lok Sabha,Anurag Sharma,Uttar Pradesh,JHANSI,,147000000.0
+MP_LS_44,Lok Sabha,Anurag Singh Thakur,Himachal Pradesh,HAMIRPUR_HP,,149570117.11
+MP_LS_45,Lok Sabha,Appalanaidu Kalisetti,Andhra Pradesh,VIZIANAGARAM,,147000000.0
+MP_LS_46,Lok Sabha,Arun Bharti,Bihar,JAMUI(SC),,194924621.11
+MP_LS_47,Lok Sabha,Arun Govil,Uttar Pradesh,MEERUT,,147000000.0
+MP_LS_48,Lok Sabha,Arun Nehru,Tamil Nadu,PERAMBALUR,,147000000.0
+MP_LS_49,Lok Sabha,Aruna. D. K,Telangana,MAHABUBNAGAR,,147000000.0
+MP_LS_50,Lok Sabha,Arup Chakraborty,West Bengal,BANKURA,,147000000.0
+MP_LS_51,Lok Sabha,Arvind Dharmapuri,Telangana,NIZAMABAD,,281396355.11
+MP_LS_52,Lok Sabha,Arvind Ganpat Sawant,Maharashtra,MUMBAI SOUTH,,147000000.0
+MP_LS_53,Lok Sabha,Asaduddin Owaisi,Telangana,HYDERABAD,,147000000.0
+MP_LS_54,Lok Sabha,Ashish Dubey,Madhya Pradesh,JABALPUR,,147000000.0
+MP_LS_55,Lok Sabha,Ashok Kumar Rawat,Uttar Pradesh,MISRIKH(SC),,147000000.0
+MP_LS_56,Lok Sabha,Ashok Kumar Yadav,Bihar,MADHUBANI,,147000000.0
+MP_LS_57,Lok Sabha,Asit Kumar Mal,West Bengal,BOLPUR(SC),,275694456.74
+MP_LS_58,Lok Sabha,Atul Garg,Uttar Pradesh,GHAZIABAD,,155336470.0
+MP_LS_59,Lok Sabha,Avimanyu Sethi,Odisha,BHADRAK(SC),,147000000.0
+MP_LS_60,Lok Sabha,Awadhesh Prasad,Uttar Pradesh,FAIZABAD,,147000000.0
+MP_LS_61,Lok Sabha,Azad Kirti Jha,West Bengal,BARDHAMAN-DURGAPUR,,179658399.98
+MP_LS_62,Lok Sabha,B K Parthasarathi,Andhra Pradesh,HINDUPUR,,160491894.11
+MP_LS_63,Lok Sabha,Babu Singh Kushwaha,Uttar Pradesh,JAUNPUR,,147000000.0
+MP_LS_64,Lok Sabha,Bachhav Shobha Dinesh,Maharashtra,DHULE,,147000000.0
+MP_LS_65,Lok Sabha,Bag Mitali,West Bengal,ARAMBAG(SC),,147000000.0
+MP_LS_66,Lok Sabha,Baijayant Panda,Odisha,KENDRAPARA,,147000000.0
+MP_LS_67,Lok Sabha,Bajrang Manohar Sonwane,Maharashtra,BEED,,165899107.19
+MP_LS_68,Lok Sabha,Balabhadra Majhi,Odisha,NABARANGPUR(ST),,147413962.11
+MP_LS_69,Lok Sabha,Balashowry Vallabbhaneni,Andhra Pradesh,MACHILIPATNAM,,147000000.0
+MP_LS_70,Lok Sabha,Balram Naik Porika,Telangana,MAHABUBABAD,,147000000.0
+MP_LS_71,Lok Sabha,Balwant Baswant Wankhade,Maharashtra,AMRAVATI(SC),,198293678.0
+MP_LS_72,Lok Sabha,Balya Mama Suresh Gopinath Mhatre,Maharashtra,BHIWANDI,,147000000.0
+MP_LS_73,Lok Sabha,Bansuri Swaraj,Delhi,NEW DELHI,,154306950.0
+MP_LS_74,Lok Sabha,Bapi Haldar,West Bengal,MATHURAPUR(SC),,147000000.0
+MP_LS_75,Lok Sabha,Basavaraj Bommai,Karnataka,HAVERI,,147000000.0
+MP_LS_76,Lok Sabha,Bastipati Nagaraju Panchalingala,Andhra Pradesh,KURNOOL,,159998515.11
+MP_LS_77,Lok Sabha,Bhagirath Chaudhary,Rajasthan,AJMER,,147000000.0
+MP_LS_78,Lok Sabha,Bhajan Lal Jatav,Rajasthan,KARAULI-DHOLPUR(SC),,147000000.0
+MP_LS_79,Lok Sabha,Bharat Singh Kushwah,Madhya Pradesh,GWALIOR,,151455276.04
+MP_LS_80,Lok Sabha,Bharatbhai Manubhai Sutariya,Gujarat,AMRELI,,147000000.0
+MP_LS_81,Lok Sabha,Bharatsinhji Shankarji Dabhi,Gujarat,PATAN,,147000000.0
+MP_LS_82,Lok Sabha,Bharti Pardhi,Madhya Pradesh,BALAGHAT,,154398389.01
+MP_LS_83,Lok Sabha,Bhaskar Murlidhar Bhagare,Maharashtra,DINDORI(ST),,147000000.0
+MP_LS_84,Lok Sabha,Bhausaheb Rajaram Wakchaure,Maharashtra,SHIRDI(SC),,147000000.0
+MP_LS_85,Lok Sabha,Bhojraj Nag,Chhattisgarh,KANKER(ST),,164672734.11
+MP_LS_86,Lok Sabha,Bhola Singh,Uttar Pradesh,BULANDSHAHR(SC),,147000000.0
+MP_LS_87,Lok Sabha,Bhumare Sandipanrao Asaram,Maharashtra,AURANGABAD_MH,,147000000.0
+MP_LS_88,Lok Sabha,Bhupathiraju Srinivasa Varma,Andhra Pradesh,NARASAPURAM,,147000000.0
+MP_LS_89,Lok Sabha,Bhupender Yadav,Rajasthan,ALWAR,,147000000.0
+MP_LS_90,Lok Sabha,Bibhu Prasad Tarai,Odisha,JAGATSINGHPUR(SC),,147000000.0
+MP_LS_91,Lok Sabha,Bidyut Baran Mahato,Jharkhand,JAMSHEDPUR,,147000000.0
+MP_LS_92,Lok Sabha,Bijuli Kalita Medhi,Assam,GUWAHATI,,147000000.0
+MP_LS_93,Lok Sabha,Biplab Kumar Deb,Tripura,TRIPURA WEST,,147000000.0
+MP_LS_94,Lok Sabha,Bishnu Pada Ray,Andaman And Nicobar Islands,ANDAMAN AND NICOBAR ISLANDS,,147000000.0
+MP_LS_95,Lok Sabha,Brijendra Singh Ola,Rajasthan,JHUNJHUNU,,147000000.0
+MP_LS_96,Lok Sabha,Brijmohan Agrawal,Chhattisgarh,RAIPUR,,153766451.11
+MP_LS_97,Lok Sabha,Bunty Vivek Sahu,Madhya Pradesh,CHHINDWARA,,147000000.0
+MP_LS_98,Lok Sabha,C R Patil,Gujarat,NAVSARI,,158532494.36
+MP_LS_99,Lok Sabha,C.M.Ramesh,Andhra Pradesh,ANAKAPALLE,,202531656.11
+MP_LS_100,Lok Sabha,Captain Brijesh Chowta,Karnataka,DAKSHINA KANNADA,,147000000.0
+MP_LS_101,Lok Sabha,Captain Viriato Fernandes,Goa,SOUTH GOA,,147000000.0
+MP_LS_102,Lok Sabha,Chamala Kiran Kumar Reddy,Telangana,BHONGIR,,147000000.0
+MP_LS_103,Lok Sabha,Chandan Chauhan,Uttar Pradesh,BIJNOR,,147000000.0
+MP_LS_104,Lok Sabha,Chandra Prakash Joshi,Rajasthan,CHITTORGARH,,147000000.0
+MP_LS_105,Lok Sabha,Chandra Shekhar,Uttar Pradesh,NAGINA(SC),,147000000.0
+MP_LS_106,Lok Sabha,Chandubhai Chhaganbhai Shihora,Gujarat,SURENDRANAGAR,,147000000.0
+MP_LS_107,Lok Sabha,Charanjit Singh Channi,Punjab,JALANDHAR(SC),,147000000.0
+MP_LS_108,Lok Sabha,Chavan Vasantrao Balwantrao,Maharashtra,NANDED,,
+MP_LS_109,Lok Sabha,Chhatra Pal Singh Gangwar,Uttar Pradesh,BAREILLY,,147000000.0
+MP_LS_110,Lok Sabha,Chhatrapati Shahu Shahaji,Maharashtra,KOLHAPUR,,147000000.0
+MP_LS_111,Lok Sabha,Chhotelal,Uttar Pradesh,ROBERTSGANJ(SC),,147000000.0
+MP_LS_112,Lok Sabha,Chintamani Maharaj,Chhattisgarh,SARGUJA(ST),,147000000.0
+MP_LS_113,Lok Sabha,Chirag Paswan,Bihar,HAJIPUR(SC),,147000000.0
+MP_LS_114,Lok Sabha,Cn Annadurai,Tamil Nadu,TIRUVANNAMALAI,,148579509.11
+MP_LS_115,Lok Sabha,D M Kathir Anand,Tamil Nadu,VELLORE,,160196941.11
+MP_LS_116,Lok Sabha,D Ravikumar,Tamil Nadu,VILUPPURAM(SC),,197598306.11
+MP_LS_117,Lok Sabha,Daggubati Purandeshwari,Andhra Pradesh,RAJAHMUNDRY,,147000000.0
+MP_LS_118,Lok Sabha,Daggumalla Prasada Rao,Andhra Pradesh,CHITTOOR,,147000000.0
+MP_LS_119,Lok Sabha,Damodar Agarwal,Rajasthan,BHILWARA,,147000000.0
+MP_LS_120,Lok Sabha,Daroga Prasad Saroj,Uttar Pradesh,LALGANJ (SC),,147000000.0
+MP_LS_121,Lok Sabha,Darshan Singh Choudhary,Madhya Pradesh,HOSHANGABAD,,147000000.0
+MP_LS_122,Lok Sabha,Deepender Singh Hooda,Haryana,ROHTAK,,147000000.0
+MP_LS_123,Lok Sabha,Devendra Alias Bhole Singh,Uttar Pradesh,AKBARPUR,,147000000.0
+MP_LS_124,Lok Sabha,Devesh Chandra Thakur,Bihar,SITAMARHI,,163809205.11
+MP_LS_125,Lok Sabha,Devesh Shakya,Uttar Pradesh,ETAH,,147000000.0
+MP_LS_126,Lok Sabha,Devusinh Jesingbhai Chauhan,Gujarat,KHEDA,,147000000.0
+MP_LS_127,Lok Sabha,Dhairyasheel Sambhajirao Mane,Maharashtra,HATKANANGLE,,147000000.0
+MP_LS_128,Lok Sabha,Dhanorkar Pratibha Suresh Alias Balubhau,Maharashtra,CHANDRAPUR,,147000000.0
+MP_LS_129,Lok Sabha,Dharmendra Pradhan,Odisha,SAMBALPUR,,147000000.0
+MP_LS_130,Lok Sabha,Dharmendra Yadav,Uttar Pradesh,AZAMGARH,,147000000.0
+MP_LS_131,Lok Sabha,Dhaval Laxmanbhai Patel,Gujarat,VALSAD(ST),,147000000.0
+MP_LS_132,Lok Sabha,Dileshwar Kamait,Bihar,SUPAUL,,150450930.89
+MP_LS_133,Lok Sabha,Dilip Saikia,Assam,Darrang-Udalguri,,147000000.0
+MP_LS_134,Lok Sabha,Dinesh Chandra Yadav,Bihar,MADHEPURA,,150070866.11
+MP_LS_135,Lok Sabha,Dineshbhai Makwana,Gujarat,AHMEDABAD WEST(SC),,160434965.11
+MP_LS_136,Lok Sabha,Byreddy Shabari,Andhra Pradesh,NANDYAL,,150675889.11
+MP_LS_137,Lok Sabha,C N Manjunath,Karnataka,BANGALORE RURAL,,147000000.0
+MP_LS_138,Lok Sabha,Chandra Sekhar Pemmasani,Andhra Pradesh,GUNTUR,,159774113.11
+MP_LS_139,Lok Sabha,Dharamvira Gandhi,Punjab,PATIALA,,147000000.0
+MP_LS_140,Lok Sabha,Jayanta Kumar Roy,West Bengal,JALPAIGURI(SC),,147000000.0
+MP_LS_141,Lok Sabha,Kalge Shivaji Bandappa,Maharashtra,LATUR(SC),,147000000.0
+MP_LS_142,Lok Sabha,Mohammad Jawed,Bihar,KISHANGANJ,,148669229.11
+MP_LS_143,Lok Sabha,Rajkumar Sangwan,Uttar Pradesh,BAGHPAT,,147000000.0
+MP_LS_144,Lok Sabha,Rani Sri Kumar,Tamil Nadu,TENKASI(SC),,153060922.82
+MP_LS_145,Lok Sabha,Shashi Tharoor,Kerala,THIRUVANANTHAPURAM,,147000000.0
+MP_LS_146,Lok Sabha,Sukanta Majumdar,West Bengal,BALURGHAT,,157085364.9
+MP_LS_147,Lok Sabha,Hemang Joshi,Gujarat,VADODARA,,147000000.0
+MP_LS_148,Lok Sabha,Hemant Vishnu Savara,Maharashtra,PALGHAR(ST),,147000000.0
+MP_LS_149,Lok Sabha,Kirsan Namdeo,Maharashtra,GADCHIROLI-CHIMUR(ST),,147000000.0
+MP_LS_150,Lok Sabha,Lata Wankhede,Madhya Pradesh,SAGAR,,147000000.0
+MP_LS_151,Lok Sabha,M.P Abdussamad Samadani,Kerala,PONNANI,,170434031.11
+MP_LS_152,Lok Sabha,Mansukh Mandaviya,Gujarat,PORBANDAR,,147000000.0
+MP_LS_153,Lok Sabha,Prabha Mallikarjun,Karnataka,DAVANAGERE,,147000000.0
+MP_LS_154,Lok Sabha,Pradeep Kumar Panigrahy,Odisha,BERHAMPUR,,147000000.0
+MP_LS_155,Lok Sabha,Prashant Yadaorao Padole,Maharashtra,BHANDARA-GONDIYA,,159680283.39
+MP_LS_156,Lok Sabha,Raj Kumar Chabbewal,Punjab,HOSHIARPUR(SC),,147000000.0
+MP_LS_157,Lok Sabha,Rajesh Mishra,Madhya Pradesh,SIDHI,,262724510.35
+MP_LS_158,Lok Sabha,S P Singh,Uttar Pradesh,PRATAPGARH,,147000000.0
+MP_LS_159,Lok Sabha,Sharmila Sarkar,West Bengal,BARDHAMAN PURBA(SC),,147000000.0
+MP_LS_160,Lok Sabha,Dr.K.Sudhakar,Karnataka,CHIKBALLAPUR,,147000000.0
+MP_LS_161,Lok Sabha,Dr.Mallu Ravi,Telangana,NAGARKURNOOL(SC),,147000000.0
+MP_LS_162,Lok Sabha,Dulu Mahato,Jharkhand,DHANBAD,,147000000.0
+MP_LS_163,Lok Sabha,Durai Vaiko,Tamil Nadu,TIRUCHIRAPPALLI,,147000000.0
+MP_LS_164,Lok Sabha,Durga Das Uikey,Madhya Pradesh,BETUL(ST),,151569502.91
+MP_LS_165,Lok Sabha,Dushyant Singh,Rajasthan,JHALAWAR-BARAN,,147000000.0
+MP_LS_166,Lok Sabha,E. Tukaram,Karnataka,BELLARY(ST),,147000000.0
+MP_LS_167,Lok Sabha,E.T. Mohammed Basheer,Kerala,MALAPPURAM,,163895872.11
+MP_LS_168,Lok Sabha,Eatala Rajender,Telangana,MALKAJGIRI,,327477390.86
+MP_LS_169,Lok Sabha,Eswarasamy K,Tamil Nadu,POLLACHI,,162315106.11
+MP_LS_170,Lok Sabha,Faggan Singh Kulaste,Madhya Pradesh,MANDLA(ST),,151861648.41
+MP_LS_171,Lok Sabha,G. Kumar Naik,Karnataka,RAICHUR(ST),,147000000.0
+MP_LS_172,Lok Sabha,Gaikwad Varsha Eknath,Maharashtra,MUMBAI NORTH-CENTRAL,,147000000.0
+MP_LS_173,Lok Sabha,Gajendra Singh Patel,Madhya Pradesh,KHARGONE(ST),,147000000.0
+MP_LS_174,Lok Sabha,Gajendra Singh Shekhawat,Rajasthan,JODHPUR,,147000000.0
+MP_LS_175,Lok Sabha,Ganapathy Rajkumar P,Tamil Nadu,COIMBATORE,,147370490.11
+MP_LS_176,Lok Sabha,Ganesan Selvam,Tamil Nadu,KANCHEEPURAM(SC),,186508749.11
+MP_LS_177,Lok Sabha,Ganesh Singh,Madhya Pradesh,SATNA,,147000000.0
+MP_LS_178,Lok Sabha,Gaurav Gogoi,Assam,JORHAT,,147000000.0
+MP_LS_179,Lok Sabha,Geniben Nagaji Thakor,Gujarat,BANASKANTHA,,147000000.0
+MP_LS_180,Lok Sabha,Giridhari Yadav,Bihar,BANKA,,147000000.0
+MP_LS_181,Lok Sabha,Giriraj Singh,Bihar,BEGUSARAI,,147000000.0
+MP_LS_182,Lok Sabha,Gm Harish Balayogi,Andhra Pradesh,AMALAPURAM(SC),,147000000.0
+MP_LS_183,Lok Sabha,Godam Nagesh,Telangana,ADILABAD(ST),,147000000.0
+MP_LS_184,Lok Sabha,Gopinath K,Tamil Nadu,KRISHNAGIRI,,147000000.0
+MP_LS_185,Lok Sabha,Govind Makthappa Karjol,Karnataka,CHITRADURGA(SC),,147000000.0
+MP_LS_186,Lok Sabha,Gumma Thanuja Rani,Andhra Pradesh,ARAKU(ST),,149458905.11
+MP_LS_187,Lok Sabha,Gurmeet Singh Meet Hayer,Punjab,SANGRUR,,147000000.0
+MP_LS_188,Lok Sabha,Gyaneshwar Patil,Madhya Pradesh,KHANDWA,,155690684.77
+MP_LS_189,Lok Sabha,H.D. Kumaraswamy,Karnataka,MANDYA,,147000000.0
+MP_LS_190,Lok Sabha,Harendra Singh Malik,Uttar Pradesh,MUZAFFARNAGAR,,147000000.0
+MP_LS_191,Lok Sabha,Haribhai Patel,Gujarat,MAHESANA,,147000000.0
+MP_LS_192,Lok Sabha,Harish Chandra Meena,Rajasthan,TONK-SAWAI MADHOPUR,,147000000.0
+MP_LS_193,Lok Sabha,Harsh Malhotra,Delhi,EAST DELHI,,147134131.0
+MP_LS_194,Lok Sabha,Hasmukh Bhai Soma Bhai Patel,Gujarat,AHMEDABAD EAST,,147000000.0
+MP_LS_195,Lok Sabha,Imran Masood,Uttar Pradesh,SAHARANPUR,,147000000.0
+MP_LS_196,Lok Sabha,Indra Hang Subba,Sikkim,SIKKIM,,152003923.11
+MP_LS_197,Lok Sabha,Iqra Choudhary,Uttar Pradesh,KAIRANA,,147000000.0
+MP_LS_198,Lok Sabha,Isha Khan Choudhury,West Bengal,MALDAHA DAKSHIN,,147000000.0
+MP_LS_199,Lok Sabha,Jagadish Chandra Barma Basunia,West Bengal,COOCHBEHAR(SC),,168604641.11
+MP_LS_200,Lok Sabha,Jagadish Shettar,Karnataka,BELGAUM,,147000000.0
+MP_LS_201,Lok Sabha,Jagannath Sarkar,West Bengal,RANAGHAT(SC),,147000000.0
+MP_LS_202,Lok Sabha,Jagdambika Pal,Uttar Pradesh,DOMARIYAGANJ,,160643957.11
+MP_LS_203,Lok Sabha,Jai Parkash,Haryana,HISAR,,147000000.0
+MP_LS_204,Lok Sabha,Jai Prakash,Uttar Pradesh,HARDOI (SC),,147000000.0
+MP_LS_205,Lok Sabha,Janardan Mishra,Madhya Pradesh,REWA,,147000000.0
+MP_LS_206,Lok Sabha,Jashubhai Bhilubhai Rathva,Gujarat,CHHOTA UDAIPUR(ST),,147000000.0
+MP_LS_207,Lok Sabha,Jaswantsinh Sumanbhai Bhabhor,Gujarat,DAHOD(ST),,147000000.0
+MP_LS_208,Lok Sabha,Jitan Ram Manjhi,Bihar,GAYA (SC),,147000000.0
+MP_LS_209,Lok Sabha,Jitendra Kumar Dohare,Uttar Pradesh,ETAWAH(SC),,188747306.26
+MP_LS_210,Lok Sabha,Jitendra Singh,Jammu And Kashmir,UDHAMPUR,,147000000.0
+MP_LS_211,Lok Sabha,Jitin Prasada,Uttar Pradesh,PILIBHIT,,147000000.0
+MP_LS_212,Lok Sabha,Joba Majhi,Jharkhand,SINGHBHUM(ST),,147000000.0
+MP_LS_213,Lok Sabha,Joyanta Basumatary,Assam,KOKRAJHAR (ST),,147000000.0
+MP_LS_214,Lok Sabha,June Maliah,West Bengal,MEDINIPUR,,147000000.0
+MP_LS_215,Lok Sabha,Jyotiraditya M. Scindia,Madhya Pradesh,GUNA,,147000000.0
+MP_LS_216,Lok Sabha,Jyotsna Charandas Mahant,Chhattisgarh,KORBA,,155153738.11
+MP_LS_217,Lok Sabha,K E Prakash,Tamil Nadu,ERODE,,147000000.0
+MP_LS_218,Lok Sabha,K Radhakrishnan,Kerala,ALATHUR(SC),,147000000.0
+MP_LS_219,Lok Sabha,K Subbarayan,Tamil Nadu,TIRUPPUR,,147000000.0
+MP_LS_220,Lok Sabha,K. C Venugopal,Kerala,ALAPPUZHA,,147000000.0
+MP_LS_221,Lok Sabha,K. Rajashekar Basavaraj Hitnal,Karnataka,KOPPAL,,147000000.0
+MP_LS_222,Lok Sabha,Kadiyam Kavya,Telangana,WARANGEL(SC),,147000000.0
+MP_LS_223,Lok Sabha,Kakoli Ghosh Dastidar,West Bengal,BARASAT,,147000000.0
+MP_LS_224,Lok Sabha,Kalaben Mohanbhai Delkar,The Dadra And Nagar Haveli And Daman And Diu,DADRA & NAGAR HAVELI (ST),,147000000.0
+MP_LS_225,Lok Sabha,Kalanidhi Veeraswamy,Tamil Nadu,CHENNAI NORTH,,171500000.0
+MP_LS_226,Lok Sabha,Kali Charan Munda,Jharkhand,KHUNTI(ST),,147000000.0
+MP_LS_227,Lok Sabha,Kali Charan Singh,Jharkhand,CHATRA,,147000000.0
+MP_LS_228,Lok Sabha,Kalipada Saren,West Bengal,JHARGRAM(ST),,147000000.0
+MP_LS_229,Lok Sabha,Kalyan Banerjee,West Bengal,SREERAMPUR,,147000000.0
+MP_LS_230,Lok Sabha,Kalyan Vaijinathrao Kale,Maharashtra,JALNA,,147000000.0
+MP_LS_231,Lok Sabha,Kamakhya Prasad Tasa,Assam,Kaziranga,,147000000.0
+MP_LS_232,Lok Sabha,Kamaljeet Sehrawat,Delhi,WEST DELHI,,147000000.0
+MP_LS_233,Lok Sabha,Kamlesh Jangde,Chhattisgarh,JANJGIR CHAMPA(SC),,150384382.11
+MP_LS_234,Lok Sabha,Kamlesh Paswan,Uttar Pradesh,BANSGAON(SC),,147000000.0
+MP_LS_235,Lok Sabha,Kangana Ranaut,Himachal Pradesh,MANDI,,147000000.0
+MP_LS_236,Lok Sabha,Kani K Navas,Tamil Nadu,RAMANATHAPURAM,,147000000.0
+MP_LS_237,Lok Sabha,Kanimozhi Karunanidhi,Tamil Nadu,THOOTHUKKUDI,,147000000.0
+MP_LS_238,Lok Sabha,Kanwar Singh Tanwar,Uttar Pradesh,AMROHA,,147000000.0
+MP_LS_239,Lok Sabha,Karan Bhushan Singh,Uttar Pradesh,KAISERGANJ,,147000000.0
+MP_LS_240,Lok Sabha,Kartick Chandra Paul,West Bengal,RAIGANJ,,202677986.56
+MP_LS_241,Lok Sabha,Kaushalendra Kumar,Bihar,NALANDA,,147000000.0
+MP_LS_242,Lok Sabha,Khagen Murmu,West Bengal,MALDAHA UTTAR,,147000000.0
+MP_LS_243,Lok Sabha,Khalilur Rahaman,West Bengal,JANGIPUR,,147000000.0
+MP_LS_244,Lok Sabha,Kinjarapu Ram Mohan Naidu,Andhra Pradesh,SRIKAKULAM,,171200630.11
+MP_LS_245,Lok Sabha,Kiren Rijiju,Arunachal Pradesh,ARUNACHAL WEST,,147000000.0
+MP_LS_246,Lok Sabha,Kirti Vardhan Singh,Uttar Pradesh,GONDA,,147000000.0
+MP_LS_247,Lok Sabha,Kishan Reddy Gangapuram,Telangana,SECUNDERABAD,,147000000.0
+MP_LS_248,Lok Sabha,Kishori Lal,Uttar Pradesh,AMETHI,,171500000.0
+MP_LS_249,Lok Sabha,Konda Vishweshwar Reddy,Telangana,CHELVELLA,,233721420.96
+MP_LS_250,Lok Sabha,Kota Srinivas Poojary,Karnataka,UDUPI CHIKMAGALUR,,147000000.0
+MP_LS_251,Lok Sabha,Kripanath Mallah,Assam,KARIMGANJ (SC),,147000000.0
+MP_LS_252,Lok Sabha,Krishan Pal Gurjar,Haryana,FARIDABAD,,147000000.0
+MP_LS_253,Lok Sabha,Krishna Devi Shivshanker Patel,Uttar Pradesh,BANDA,,147000000.0
+MP_LS_254,Lok Sabha,Krishna Prasad Tenneti,Andhra Pradesh,BAPATLA,,167796849.11
+MP_LS_255,Lok Sabha,Kriti Devi Debbarman,Tripura,TRIPURA EAST(ST),,147000000.0
+MP_LS_256,Lok Sabha,Kuldeep Indora,Rajasthan,GANGANAGAR(SC),,147000000.0
+MP_LS_257,Lok Sabha,Kunduru Raghuveer,Telangana,NALGONDA,,162952022.0
+MP_LS_258,Lok Sabha,Lalji Verma,Uttar Pradesh,AMBEDKAR NAGAR,,147000000.0
+MP_LS_259,Lok Sabha,Lavu Sri Krishna Devarayalu,Andhra Pradesh,NARASARAOPET,,174009663.11
+MP_LS_260,Lok Sabha,Laxmikant Pappu Nishad,Uttar Pradesh,SANT KABIR NAGAR,,147000000.0
+MP_LS_261,Lok Sabha,Lovely Anand,Bihar,SHEOHAR,,147000000.0
+MP_LS_262,Lok Sabha,Lumbaram,Rajasthan,JALORE,,147000000.0
+MP_LS_263,Lok Sabha,M. Mallesh Babu,Karnataka,KOLAR(SC),,147065957.11
+MP_LS_264,Lok Sabha,M.K. Vishnuprasad,Tamil Nadu,CUDDALORE,,147000000.0
+MP_LS_265,Lok Sabha,Maddila Gurumoorthy,Andhra Pradesh,TIRUPATI(SC),,180399007.0
+MP_LS_266,Lok Sabha,Madhavaneni Raghunandan Rao,Telangana,MEDAK,,147000000.0
+MP_LS_267,Lok Sabha,Magunta Sreenivasulu Reddy,Andhra Pradesh,ONGOLE,,147000000.0
+MP_LS_268,Lok Sabha,Mahendra Singh Solanky,Madhya Pradesh,DEWAS(SC),,147000000.0
+MP_LS_269,Lok Sabha,Mahesh Kashyap,Chhattisgarh,BASTAR(ST),,147000000.0
+MP_LS_270,Lok Sabha,Mahesh Sharma,Uttar Pradesh,GAUTAM BUDDHA NAGAR,,148816284.11
+MP_LS_271,Lok Sabha,Mahima Kumari Mewar,Rajasthan,RAJSAMAND,,183892143.0
+MP_LS_272,Lok Sabha,Mala Rajya Laxmi Shah,Uttarakhand,TEHRI GARHWAL,,147000000.0
+MP_LS_273,Lok Sabha,Mala Roy,West Bengal,KOLKATA DAKSHIN,,147000000.0
+MP_LS_274,Lok Sabha,Malaiyarasan D,Tamil Nadu,KALLAKURICHI,,201599593.0
+MP_LS_275,Lok Sabha,Malvika Devi,Odisha,KALAHANDI,,147000000.0
+MP_LS_276,Lok Sabha,Malvinder Singh Kang,Punjab,ANANDPUR SAHIB,,147000000.0
+MP_LS_277,Lok Sabha,Mani. A.,Tamil Nadu,DHARAMAPURI,,164515071.11
+MP_LS_278,Lok Sabha,Manickam Tagore B,Tamil Nadu,VIRUDHUNAGAR,,147000000.0
+MP_LS_279,Lok Sabha,Manish Jaiswal,Jharkhand,HAZARIBAGH,,147000000.0
+MP_LS_280,Lok Sabha,Manish Tewari,Chandigarh,CHANDIGARH,,178351443.75
+MP_LS_281,Lok Sabha,Manju Sharma,Rajasthan,JAIPUR,,167082901.11
+MP_LS_282,Lok Sabha,Manna Lal Rawat,Rajasthan,UDAIPUR(ST),,147000000.0
+MP_LS_283,Lok Sabha,Manohar Lal,Haryana,KARNAL,,147000000.0
+MP_LS_284,Lok Sabha,Manoj Kumar,Bihar,SASARAM(SC),,147000000.0
+MP_LS_285,Lok Sabha,Manoj Tigga,West Bengal,ALIPURDUARS(ST),,147000000.0
+MP_LS_286,Lok Sabha,Manoj Tiwari,Delhi,NORTH EAST DELHI,,225843858.0
+MP_LS_287,Lok Sabha,Mansukhbhai Dhanjibhai Vasava,Gujarat,BHARUCH,,147000000.0
+MP_LS_288,Lok Sabha,Mian Altaf Ahmad,Jammu And Kashmir,ANANTNAG,,147000000.0
+MP_LS_289,Lok Sabha,Midhun Reddy,Andhra Pradesh,RAJAMPET,,178951477.11
+MP_LS_290,Lok Sabha,Misha Bharti,Bihar,PATALIPUTRA,,147000000.0
+MP_LS_291,Lok Sabha,Mitesh Rameshbhai Bakabhai Patel,Gujarat,ANAND,,147000000.0
+MP_LS_292,Lok Sabha,Mohamed Haneefa,Ladakh,LADAKH,,161114542.0
+MP_LS_293,Lok Sabha,Mohibbullah,Uttar Pradesh,RAMPUR,,147000000.0
+MP_LS_294,Lok Sabha,Mohite Patil Dhairyasheel Rajsinh,Maharashtra,MADHA,,195613601.7
+MP_LS_295,Lok Sabha,Mr Gopal Jee Thakur,Bihar,DARBHANGA,,147000000.0
+MP_LS_296,Lok Sabha,Ms Mahua Moitra,West Bengal,KRISHNANAGAR,,159865046.0
+MP_LS_297,Lok Sabha,Muhammed Hamdullah Sayeed,Lakshadweep,LAKSHADWEEP(ST),,153942460.41
+MP_LS_298,Lok Sabha,Mukesh Rajput,Uttar Pradesh,FARRUKHABAD,,147000000.0
+MP_LS_299,Lok Sabha,Mukeshkumar Chandrakaant Dalal,Gujarat,SURAT,,147000000.0
+MP_LS_300,Lok Sabha,Murari Lal Meena,Rajasthan,DAUSA(ST),,147000000.0
+MP_LS_301,Lok Sabha,Murasoli S,Tamil Nadu,THANJAVUR,,147000000.0
+MP_LS_302,Lok Sabha,Murlidhar Mohol,Maharashtra,PUNE,,147000000.0
+MP_LS_303,Lok Sabha,Naba Charan Majhi,Odisha,MAYURBHANJ (ST),,147563957.11
+MP_LS_304,Lok Sabha,Nalin Soren,Jharkhand,DUMKA(ST),,147364097.11
+MP_LS_305,Lok Sabha,Narayan Das Ahirwar,Uttar Pradesh,JALAUN(SC),,147000000.0
+MP_LS_306,Lok Sabha,Narayan Tatu Rane,Maharashtra,RATNAGIRI-SINDHUDURG,,147000000.0
+MP_LS_307,Lok Sabha,Naresh Chandra Uttam Patel,Uttar Pradesh,FATEHPUR,,147000000.0
+MP_LS_308,Lok Sabha,Naresh Ganpat Mhaske,Maharashtra,THANE,,147000000.0
+MP_LS_309,Lok Sabha,Naveen Jindal,Haryana,KURUKSHETRA,,147000000.0
+MP_LS_310,Lok Sabha,Neeraj Maurya,Uttar Pradesh,AONLA,,147000000.0
+MP_LS_311,Lok Sabha,Nilesh Dnyandev Lanke,Maharashtra,AHMEDNAGAR,,147000000.0
+MP_LS_312,Lok Sabha,Nimuben Jayantibhai Bambhaniya,Gujarat,BHAVNAGAR,,147000000.0
+MP_LS_313,Lok Sabha,Nishikant Dubey,Jharkhand,GODDA,,147000000.0
+MP_LS_314,Lok Sabha,Nitin Jairam Gadkari,Maharashtra,NAGPUR,,168195086.11
+MP_LS_315,Lok Sabha,Nityanand Rai,Bihar,UJJARPUR,,147000000.0
+MP_LS_316,Lok Sabha,Om Birla,Rajasthan,KOTA,,163906956.6
+MP_LS_317,Lok Sabha,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,Maharashtra,OSMANABAD,,184758519.11
+MP_LS_318,Lok Sabha,P C Mohan,Karnataka,BANGALORE CENTRAL,,159995711.11
+MP_LS_319,Lok Sabha,Pankaj Chowdhary,Uttar Pradesh,MAHARAJGANJ_UP,,147000000.0
+MP_LS_320,Lok Sabha,Parimal Suklabaidya,Assam,SILCHAR,,148300157.11
+MP_LS_321,Lok Sabha,Parshottambhai Rupala,Gujarat,RAJKOT,,147000000.0
+MP_LS_322,Lok Sabha,Partha Bhowmick,West Bengal,BARRACKPUR,,147000000.0
+MP_LS_323,Lok Sabha,Parvatagouda Chandanagouda Gaddigoudar,Karnataka,BAGALKOT,,167541747.11
+MP_LS_324,Lok Sabha,Patel Umeshbhai Babubhai,The Dadra And Nagar Haveli And Daman And Diu,DAMAN and DIU,,245063957.0
+MP_LS_325,Lok Sabha,Pathan Yusuf,West Bengal,BAHARAMPUR,,147000000.0
+MP_LS_326,Lok Sabha,Phani Bhusan Choudhury,Assam,BARPETA,,147000000.0
+MP_LS_327,Lok Sabha,Piyush Vedprakash Goyal,Maharashtra,MUMBAI NORTH,,147000000.0
+MP_LS_328,Lok Sabha,Prabhakar Reddy Vemireddy,Andhra Pradesh,NELLORE(SC),,147000000.0
+MP_LS_329,Lok Sabha,Prabhubhai Nagarbhai Vasava,Gujarat,BARDOLI(ST),,147000000.0
+MP_LS_330,Lok Sabha,Pradan Baruah,Assam,LAKHIMPUR,,147000000.0
+MP_LS_331,Lok Sabha,Pradeep Kumar Singh,Bihar,ARARIA,,147000000.0
+MP_LS_332,Lok Sabha,Pradeep Purohit,Odisha,BARGARH,,147000000.0
+MP_LS_333,Lok Sabha,Pradyut Bordoloi,Assam,NOWGONG,,98000000.0
+MP_LS_334,Lok Sabha,Pralhad Venkatesh Joshi,Karnataka,DHARWAD,,147000000.0
+MP_LS_335,Lok Sabha,Praniti Sushilkumar Shinde,Maharashtra,SOLAPUR(SC),,147000000.0
+MP_LS_336,Lok Sabha,Prasun Banerjee,West Bengal,HOWRAH,,147000000.0
+MP_LS_337,Lok Sabha,Pratap Chandra Sarangi,Odisha,BALASORE,,147064254.11
+MP_LS_338,Lok Sabha,Prataprao Jadhav,Maharashtra,BULDHANA,,147000000.0
+MP_LS_339,Lok Sabha,Pratima Mondal,West Bengal,JOYNAGAR(SC),,147000000.0
+MP_LS_340,Lok Sabha,Praveen Khandelwal,Delhi,CHANDINI CHOWK,,147470276.0
+MP_LS_341,Lok Sabha,Praveen Patel,Uttar Pradesh,PHULPUR,,151559884.09
+MP_LS_342,Lok Sabha,Priya Saroj,Uttar Pradesh,MACHHLISHAHR(SC),,147000000.0
+MP_LS_343,Lok Sabha,Priyanka Gandhi Vadra,Kerala,WAYANAD,,122500000.0
+MP_LS_344,Lok Sabha,Priyanka Satish Jarkiholi,Karnataka,CHIKKODI,,147000000.0
+MP_LS_345,Lok Sabha,Prof Sougata Ray,West Bengal,DUM DUM,,147000000.0
+MP_LS_346,Lok Sabha,Prof Sp Singh Baghel,Uttar Pradesh,AGRA(SC),,147000000.0
+MP_LS_347,Lok Sabha,Pushpendra Saroj,Uttar Pradesh,KAUSHAMBI(SC),,147000000.0
+MP_LS_348,Lok Sabha,Putta Mahesh Kumar,Andhra Pradesh,ELURU,,147000000.0
+MP_LS_349,Lok Sabha,R.K. Chaudhary,Uttar Pradesh,MOHANLALGANJ(SC),,147000000.0
+MP_LS_350,Lok Sabha,Rabindra Narayan Behera,Odisha,JAJPUR(SC),,147064617.11
+MP_LS_351,Lok Sabha,Rachna Banerjee,West Bengal,HOOGHLY,,147000000.0
+MP_LS_352,Lok Sabha,Radha Mohan Singh,Bihar,PURVI CHAMPARAN,,147000000.0
+MP_LS_353,Lok Sabha,Radhakrishna,Karnataka,GULBARGA(SC),,147000000.0
+MP_LS_354,Lok Sabha,Radhe Shyam Rathiya,Chhattisgarh,RAIGARH(ST),,159706972.09
+MP_LS_355,Lok Sabha,Rahul Gandhi,Uttar Pradesh,RAE BARELI,,147000000.0
+MP_LS_356,Lok Sabha,Rahul Kaswan,Rajasthan,CHURU,,147000000.0
+MP_LS_357,Lok Sabha,Rahul Singh Lodhi,Madhya Pradesh,DAMOH,,163058785.37
+MP_LS_358,Lok Sabha,Raj Bhushan Choudhary,Bihar,MUZAFFARPUR,,147000000.0
+MP_LS_359,Lok Sabha,Raj Kumar Roat,Rajasthan,BANSWARA(ST),,147000000.0
+MP_LS_360,Lok Sabha,Raja Ram Singh,Bihar,KARAKAT,,147000000.0
+MP_LS_361,Lok Sabha,Rajabhau,Maharashtra,NASHIK,,152878682.11
+MP_LS_362,Lok Sabha,Rajeev Bhardwaj,Himachal Pradesh,KANGRA,,179388967.11
+MP_LS_363,Lok Sabha,Rajeev Rai,Uttar Pradesh,GHOSI,,147000000.0
+MP_LS_364,Lok Sabha,Rajesh Ranjan Alias Pappu Yadav,Bihar,PURNEA,,147000000.0
+MP_LS_365,Lok Sabha,Rajesh Verma,Bihar,KHAGARIA,,147000000.0
+MP_LS_366,Lok Sabha,Rajeshbhai Naranbhai Chudasama,Gujarat,JUNAGADH,,147000000.0
+MP_LS_367,Lok Sabha,Rajiv Pratap Rudy,Bihar,SARAN,,147000000.0
+MP_LS_368,Lok Sabha,Rajiv Ranjan (Lalan) Singh,Bihar,MUNGER,,147000000.0
+MP_LS_369,Lok Sabha,Rajkumar Chahar,Uttar Pradesh,FATEHPUR SIKRI,,147000000.0
+MP_LS_370,Lok Sabha,Rajnath Singh,Uttar Pradesh,LUCKNOW,,154808797.11
+MP_LS_371,Lok Sabha,Rajpalsinh Mahendrasinh Jadav,Gujarat,PANCHMAHAL,,147000000.0
+MP_LS_372,Lok Sabha,Raju Bista,West Bengal,DARJEELING,,147000000.0
+MP_LS_373,Lok Sabha,Rakesh Rathor,Uttar Pradesh,SITAPUR,,147000000.0
+MP_LS_374,Lok Sabha,Rakibul Hussain,Assam,DHUBRI,,147000000.0
+MP_LS_375,Lok Sabha,Ram Prasad Chaudhary,Uttar Pradesh,BASTI,,204176957.11
+MP_LS_376,Lok Sabha,Ram Shiromani,Uttar Pradesh,SHRAWASTI,,151746878.11
+MP_LS_377,Lok Sabha,Ramasahayam Raghuram Reddy,Telangana,KHAMMAM,,147000000.0
+MP_LS_378,Lok Sabha,Ramashankar Rajbhar,Uttar Pradesh,SALEMPUR,,160056927.07
+MP_LS_379,Lok Sabha,Rambhual Nishad,Uttar Pradesh,SULTANPUR,,151231957.11
+MP_LS_380,Lok Sabha,Ramesh Awasthi,Uttar Pradesh,KANPUR,,147000000.0
+MP_LS_381,Lok Sabha,Ramesh Chandappa Jigajinagi,Karnataka,BIJAPUR(SC),,269500000.0
+MP_LS_382,Lok Sabha,Ramprit Mandal,Bihar,JHANJHARPUR,,147000000.0
+MP_LS_383,Lok Sabha,Ramvir Singh Bidhuri,Delhi,SOUTH DELHI,,147559100.0
+MP_LS_384,Lok Sabha,Ranjit Dutta,Assam,Sonitpur,,147000000.0
+MP_LS_385,Lok Sabha,Rao Inderjit Singh,Haryana,GURGAON,,147000000.0
+MP_LS_386,Lok Sabha,Rao Rajendra Singh,Rajasthan,JAIPUR RURAL,,147000000.0
+MP_LS_387,Lok Sabha,Ravi Shankar Prasad,Bihar,PATNA SAHIB,,147000000.0
+MP_LS_388,Lok Sabha,Ravindra Dattaram Waikar,Maharashtra,MUMBAI NORTH WEST,,147000000.0
+MP_LS_389,Lok Sabha,Ravindra Shyamnarayan Alias Ravi Kishan Shukla,Uttar Pradesh,GORAKHPUR,,147000000.0
+MP_LS_390,Lok Sabha,Ravindra Vasantrao Chavan,Maharashtra,NANDED,,147000000.0
+MP_LS_391,Lok Sabha,Richard Vanlalhmangaiha,Mizoram,MIZORAM (ST),,147000000.0
+MP_LS_392,Lok Sabha,Robert Bruce C,Tamil Nadu,TIRUNELVELI,,147475440.11
+MP_LS_393,Lok Sabha,Rodmal Nagar,Madhya Pradesh,RAJGARH,,147000000.0
+MP_LS_394,Lok Sabha,Roop Kumari Choudhary,Chhattisgarh,MAHASAMUND,,153035414.0
+MP_LS_395,Lok Sabha,Ruchi Vira,Uttar Pradesh,MORADABAD,,147000000.0
+MP_LS_396,Lok Sabha,Rudra Narayan Pany,Odisha,DHENKANAL,,155013957.11
+MP_LS_397,Lok Sabha,S Supongmeren Jamir,Nagaland,NAGALAND,,147000000.0
+MP_LS_398,Lok Sabha,S Venkatesan,Tamil Nadu,MADURAI,,147000000.0
+MP_LS_399,Lok Sabha,S. Jagathrakshakan,Tamil Nadu,ARAKKONAM,,180589332.34
+MP_LS_400,Lok Sabha,Sachithanantham R,Tamil Nadu,DINDIGUL,,147000000.0
+MP_LS_401,Lok Sabha,Sagar Eshwar Khandre,Karnataka,BIDAR,,147000000.0
+MP_LS_402,Lok Sabha,Saleng A Sangma,Meghalaya,TURA,,147000000.0
+MP_LS_403,Lok Sabha,Sambit Patra,Odisha,PURI,,147000000.0
+MP_LS_404,Lok Sabha,Sanatan Pandey,Uttar Pradesh,BALLIA,,180420041.4
+MP_LS_405,Lok Sabha,Sanjay Dina Patil,Maharashtra,MUMBAI NORTH EAST,,147000000.0
+MP_LS_406,Lok Sabha,Sanjay Haribhau Jadhav,Maharashtra,PARBHANI,,147000000.0
+MP_LS_407,Lok Sabha,Sanjay Jaiswal,Bihar,PASCHIM CHAMPARAN,,147000000.0
+MP_LS_408,Lok Sabha,Sanjay Kumar Bandi,Telangana,KARIMNAGAR,,172775317.11
+MP_LS_409,Lok Sabha,Sanjay Seth,Jharkhand,RANCHI,,147064357.11
+MP_LS_410,Lok Sabha,Sanjay Uttamrao Deshmukh,Maharashtra,YAVATMAL-WASHIM,,185640423.0
+MP_LS_411,Lok Sabha,Sanjna Jatav,Rajasthan,BHARATPUR(SC),,147000000.0
+MP_LS_412,Lok Sabha,Santosh Pandey,Chhattisgarh,RAJNANDGAON,,147000000.0
+MP_LS_413,Lok Sabha,Saptagiri Sankar Ulaka,Odisha,KORAPUT(ST),,269500000.0
+MP_LS_414,Lok Sabha,Sarabjeet Singh Khalsa,Punjab,FARIDKOT(SC),,150850348.15
+MP_LS_415,Lok Sabha,Sasikanth Senthil,Tamil Nadu,TIRUVALLUR(SC),,171500000.0
+MP_LS_416,Lok Sabha,Satpal Brahamchari,Haryana,SONEPAT,,147000000.0
+MP_LS_417,Lok Sabha,Saumitra Khan,West Bengal,BISHNUPUR(SC),,147000000.0
+MP_LS_418,Lok Sabha,Savitri Thakur,Madhya Pradesh,DHAR(ST),,147000000.0
+MP_LS_419,Lok Sabha,Sayani Ghosh,West Bengal,JADAVPUR,,147000000.0
+MP_LS_420,Lok Sabha,Selja,Haryana,SIRSA(SC),,147000000.0
+MP_LS_421,Lok Sabha,Selvaganapathi T M,Tamil Nadu,SALEM,,147000000.0
+MP_LS_422,Lok Sabha,Selvaraj V,Tamil Nadu,NAGAPATTINAM(SC),,147000000.0
+MP_LS_423,Lok Sabha,Shafi Parambil,Kerala,VADAKARA,,147000000.0
+MP_LS_424,Lok Sabha,Shambhavi,Bihar,SAMASTIPUR(SC),,147000000.0
+MP_LS_425,Lok Sabha,Shankar Lalwani,Madhya Pradesh,INDORE,,147000000.0
+MP_LS_426,Lok Sabha,Shashank Mani,Uttar Pradesh,DEORIA,,147000000.0
+MP_LS_427,Lok Sabha,Shatrughan Sinha,West Bengal,ASANSOL,,147000000.0
+MP_LS_428,Lok Sabha,Sher Singh Ghubaya,Punjab,FIROZPUR,,147000000.0
+MP_LS_429,Lok Sabha,Shivmangal Singh Tomar,Madhya Pradesh,MORENA,,147000000.0
+MP_LS_430,Lok Sabha,Shivraj Singh Chouhan,Madhya Pradesh,VIDISHA,,147000000.0
+MP_LS_431,Lok Sabha,Shobha Karandlaje,Karnataka,BANGALORE NORTH,,147000000.0
+MP_LS_432,Lok Sabha,Shobhanaben Mahendrasinh Baraiya,Gujarat,SABARKANTHA,,147000000.0
+MP_LS_433,Lok Sabha,Shreyas. M. Patel,Karnataka,HASSAN,,147000000.0
+MP_LS_434,Lok Sabha,Dharambir Singh,Haryana,BHIWANI MAHENDRAGARH,,147000000.0
+MP_LS_435,Lok Sabha,Abhishek Banerjee,West Bengal,DIAMOND HARBOUR,,147000000.0
+MP_LS_436,Lok Sabha,Amar Singh,Punjab,FATEHGARH SAHIB(SC),,147000000.0
+MP_LS_437,Lok Sabha,Amit Shah,Gujarat,GANDHINAGAR,,147000000.0
+MP_LS_438,Lok Sabha,Anil Firojiya,Madhya Pradesh,UJJAIN(SC),,147000000.0
+MP_LS_439,Lok Sabha,Arjun Ram Meghwal,Rajasthan,BIKANER(SC),,147000000.0
+MP_LS_440,Lok Sabha,Arun Kumar Sagar,Uttar Pradesh,SHAHJAHANPUR(SC),,147000000.0
+MP_LS_441,Lok Sabha,B Y Raghavendra,Karnataka,SHIMOGA,,147000000.0
+MP_LS_442,Lok Sabha,Benny Behanan,Kerala,CHALAKUDY,,164674770.11
+MP_LS_443,Lok Sabha,Bhartruhari Mahtab,Odisha,CUTTACK,,147000000.0
+MP_LS_444,Lok Sabha,Chandra Prakash Choudhary,Jharkhand,GIRIDIH,,147000000.0
+MP_LS_445,Lok Sabha,Deepak (Dev) Adhikari,West Bengal,GHATAL,,200747364.0
+MP_LS_446,Lok Sabha,Gurjeet Singh Aujla,Punjab,AMRITSAR,,147000000.0
+MP_LS_447,Lok Sabha,Hanuman Beniwal,Rajasthan,NAGAUR,,147000000.0
+MP_LS_448,Lok Sabha,Hibi Eden,Kerala,ERNAKULAM,,162177260.11
+MP_LS_449,Lok Sabha,Janardan Singh Sigriwal,Bihar,MAHARAJGANJ_BR,,147000000.0
+MP_LS_450,Lok Sabha,Jual Oram,Odisha,SUNDARGARH (ST),,173096756.91
+MP_LS_451,Lok Sabha,Jugal Kishore Sharma,Jammu And Kashmir,JAMMU,,147000000.0
+MP_LS_452,Lok Sabha,Jyotirmay Singh Mahato,West Bengal,PURULIA,,147000000.0
+MP_LS_453,Lok Sabha,Karti P Chidambaram,Tamil Nadu,SIVAGANGA,,159049284.11
+MP_LS_454,Lok Sabha,Kumbakudi Sudhakaran,Kerala,KANNUR,,147000000.0
+MP_LS_455,Lok Sabha,Ls Tejasvi Surya,Karnataka,BANGALORE SOUTH,,147000000.0
+MP_LS_456,Lok Sabha,M K Raghavan,Kerala,KOZHIKODE,,147000000.0
+MP_LS_457,Lok Sabha,Narendra Modi,Uttar Pradesh,VARANASI,,162070276.11
+MP_LS_458,Lok Sabha,Nk Premachandran,Kerala,KOLLAM,,171477994.11
+MP_LS_459,Lok Sabha,Pp Chaudhary,Rajasthan,PALI,,147000000.0
+MP_LS_460,Lok Sabha,Rajmohan Unnithan,Kerala,KASARAGOD,,156754633.11
+MP_LS_461,Lok Sabha,Sarbananda Sonowal (18Ls),Assam,DIBRUGARH,,147000000.0
+MP_LS_462,Lok Sabha,Satish Kumar Gautam,Uttar Pradesh,ALIGARH,,147000000.0
+MP_LS_463,Lok Sabha,Shantanu Thakur,West Bengal,BANGAON(SC),,147000000.0
+MP_LS_464,Lok Sabha,Sudheer Gupta,Madhya Pradesh,MANDSOUR,,148988014.83
+MP_LS_465,Lok Sabha,Suresh Kodikunnil,Kerala,MAVELIKKARA(SC),,172429519.11
+MP_LS_466,Lok Sabha,Tapir Gao,Arunachal Pradesh,ARUNACHAL EAST,,147000000.0
+MP_LS_467,Lok Sabha,Vijayakumar Vasanth,Tamil Nadu,KANNIYAKUMARI,,171500000.0
+MP_LS_468,Lok Sabha,Shrikant Eknath Shinde,Maharashtra,KALYAN,,147000000.0
+MP_LS_469,Lok Sabha,Shrimant Chh Udayanraje Pratapsinhamaharaj Bhonsle,Maharashtra,SATARA,,147000000.0
+MP_LS_470,Lok Sabha,Shripad Yesso Naik,Goa,NORTH GOA,,147000000.0
+MP_LS_471,Lok Sabha,Shrirang Appa Barne,Maharashtra,MAVAL,,147000000.0
+MP_LS_472,Lok Sabha,Shyamkumar,Maharashtra,RAMTEK(SC),,147000000.0
+MP_LS_473,Lok Sabha,Sivanath Kesineni,Andhra Pradesh,VIJAYAWADA,,147000000.0
+MP_LS_474,Lok Sabha,Sk Nurul Islam,West Bengal,BASIRHAT,,49000000.0
+MP_LS_475,Lok Sabha,Smita Uday Wagh,Maharashtra,JALGAON,,148107373.11
+MP_LS_476,Lok Sabha,Anupriya Patel,Uttar Pradesh,MIRZAPUR,,147000000.0
+MP_LS_477,Lok Sabha,Aparajita Sarangi,Odisha,BHUBANESWAR,,147420861.41
+MP_LS_478,Lok Sabha,Dimple Yadav,Uttar Pradesh,MAINPURI,,192042469.11
+MP_LS_479,Lok Sabha,Harsimrat Kaur Badal,Punjab,BHATINDA,,159775982.39
+MP_LS_480,Lok Sabha,Hema Malini,Uttar Pradesh,MATHURA,,147000000.0
+MP_LS_481,Lok Sabha,Himadri Singh,Madhya Pradesh,SHAHDOL (ST),,150724861.11
+MP_LS_482,Lok Sabha,Poonamben Hematbhai Maadam,Gujarat,JAMNAGAR,,147000000.0
+MP_LS_483,Lok Sabha,Raksha Nikhil Khadse,Maharashtra,RAVER,,153112586.11
+MP_LS_484,Lok Sabha,S Jothimani,Tamil Nadu,KARUR,,147000000.0
+MP_LS_485,Lok Sabha,Sajda Ahmed,West Bengal,ULUBERIA,,147000000.0
+MP_LS_486,Lok Sabha,Sandhya Ray,Madhya Pradesh,BHIND(SC),,147000000.0
+MP_LS_487,Lok Sabha,Sangeeta Kumari Singh Deo,Odisha,BOLANGIR,,147000000.0
+MP_LS_488,Lok Sabha,Satabdi Roy (Banerjee),West Bengal,BIRBHUM,,147000000.0
+MP_LS_489,Lok Sabha,Supriya Sadanand Sule,Maharashtra,BARAMATI,,147000000.0
+MP_LS_490,Lok Sabha,Veena Devi,Bihar,VAISHALI,,147000000.0
+MP_LS_491,Lok Sabha,Sribharat Mathukumli,Andhra Pradesh,VISAKHAPATNAM,,164841922.0
+MP_LS_492,Lok Sabha,Sudama Prasad,Bihar,ARRAH,,147000000.0
+MP_LS_493,Lok Sabha,Sudha R,Tamil Nadu,MAYILADUTHURAI,,147332315.11
+MP_LS_494,Lok Sabha,Sudhakar Singh,Bihar,BUXAR,,185211956.54
+MP_LS_495,Lok Sabha,Sudip Bandyopadhyay,West Bengal,KOLKATA UTTAR,,147000000.0
+MP_LS_496,Lok Sabha,Sukanta Kumar Panigrahi,Odisha,KANDHAMAL,,190712424.11
+MP_LS_497,Lok Sabha,Sukhdeo Bhagat,Jharkhand,LOHARDAGA(ST),,171821957.11
+MP_LS_498,Lok Sabha,Sukhjinder Singh Randhawa,Punjab,GURDASPUR,,147000000.0
+MP_LS_499,Lok Sabha,Sunil Bose,Karnataka,CHAMARAJANAGAR(SC),,147000000.0
+MP_LS_500,Lok Sabha,Sunil Dattatray Tatkare,Maharashtra,RAIGAD,,147000000.0
+MP_LS_501,Lok Sabha,Sunil Kumar,Bihar,VALMIKI NAGAR,,147000000.0
+MP_LS_502,Lok Sabha,Surendra Prasad Yadav,Bihar,JAHANABAD,,155325714.0
+MP_LS_503,Lok Sabha,Suresh Gopi,Kerala,THRISSUR,,147000000.0
+MP_LS_504,Lok Sabha,Suresh Kumar Kashyap,Himachal Pradesh,SHIMLA (SC),,153563957.11
+MP_LS_505,Lok Sabha,Suresh Kumar Shetkar,Telangana,ZAHIRABAD,,147000000.0
+MP_LS_506,Lok Sabha,Swami Sachchidanandhari Sakshi Ji Maharaj,Uttar Pradesh,UNNAO,,147000000.0
+MP_LS_507,Lok Sabha,T Sumathy (A) Thamizhachi Thangapandian,Tamil Nadu,CHENNAI SOUTH,,147000000.0
+MP_LS_508,Lok Sabha,Tangella Uday Srinivas,Andhra Pradesh,KAKINADA,,199417886.76
+MP_LS_509,Lok Sabha,Tanuj Punia,Uttar Pradesh,BARABANKI(SC),,148198170.11
+MP_LS_510,Lok Sabha,Tariq Anwar,Bihar,KATIHAR,,147000000.0
+MP_LS_511,Lok Sabha,Thalikkottai Rajuthevar Baalu,Tamil Nadu,SRIPERUMBUDUR,,196905535.11
+MP_LS_512,Lok Sabha,Thanga Tamilselvan,Tamil Nadu,THENI,,147000000.0
+MP_LS_513,Lok Sabha,Tharaniventhan M S,Tamil Nadu,ARANI,,168337124.35
+MP_LS_514,Lok Sabha,Thiru Dayanidhi Maran,Tamil Nadu,CHENNAI CENTRAL,,147000000.0
+MP_LS_515,Lok Sabha,Thirumaa Valavan Thol,Tamil Nadu,CHIDAMBARAM(SC),,147000000.0
+MP_LS_516,Lok Sabha,Tokhan Sahu,Chhattisgarh,BILASPUR,,147000000.0
+MP_LS_517,Lok Sabha,Trivendra Singh Rawat,Uttarakhand,HARDWAR,,147000000.0
+MP_LS_518,Lok Sabha,Ujjwal Raman Singh,Uttar Pradesh,ALLAHABAD,,147000000.0
+MP_LS_519,Lok Sabha,Ummeda Ram Beniwal,Rajasthan,BARMER,,147000000.0
+MP_LS_520,Lok Sabha,Utkarsh Verma Madhur,Uttar Pradesh,KHERI,,147000000.0
+MP_LS_521,Lok Sabha,V S Matheswaran,Tamil Nadu,NAMAKKAL,,162539930.11
+MP_LS_522,Lok Sabha,V. Somanna,Karnataka,TUMKUR,,147000000.0
+MP_LS_523,Lok Sabha,Vaithilingam Ve,Puducherry,Puducherry,,209368972.11
+MP_LS_524,Lok Sabha,Vamsi Krishna Gaddam,Telangana,PEDDAPALLE,,148451721.11
+MP_LS_525,Lok Sabha,Varun Chaudhry,Haryana,AMBALA (SC),,255454264.0
+MP_LS_526,Lok Sabha,Vellalath Kochukrishnan Nair Sreekandan,Kerala,PALAKKAD,,167807990.11
+MP_LS_527,Lok Sabha,Vijay Baghel,Chhattisgarh,DURG,,147000000.0
+MP_LS_528,Lok Sabha,Vijay Kumar Dubey,Uttar Pradesh,KUSHI NAGAR,,148900000.0
+MP_LS_529,Lok Sabha,Vijay Kumar Hansdak,Jharkhand,RAJMAHAL(ST),,147223957.11
+MP_LS_530,Lok Sabha,Vijaylakshmi Devi,Bihar,SIWAN,,147000000.0
+MP_LS_531,Lok Sabha,Vinod Chavda,Gujarat,KACHCHH(SC),,147000000.0
+MP_LS_532,Lok Sabha,Vinod Kumar Bind,Uttar Pradesh,BHADOHI,,147000000.0
+MP_LS_533,Lok Sabha,Virendra Kumar,Madhya Pradesh,TIKAMGARH(SC),,147000000.0
+MP_LS_534,Lok Sabha,Virendra Singh,Uttar Pradesh,CHANDAULI,,147000000.0
+MP_LS_535,Lok Sabha,Vishal,Maharashtra,SANGLI,,147000000.0
+MP_LS_536,Lok Sabha,Vishnu Dayal Ram,Jharkhand,PALAMU(SC),,158176083.11
+MP_LS_537,Lok Sabha,Vishnu Dutt Sharma,Madhya Pradesh,KHAJURAHO,,147000000.0
+MP_LS_538,Lok Sabha,Vishweshwar Hegde Kageri,Karnataka,UTTARA KANNADA,,147000000.0
+MP_LS_539,Lok Sabha,Vivek Thakur,Bihar,NAWADA,,147000000.0
+MP_LS_540,Lok Sabha,Y S Avinash Reddy,Andhra Pradesh,KADAPA,,156430260.11
+MP_LS_541,Lok Sabha,Yaduveer Krishnadatta Chamaraja Wadiyar,Karnataka,MYSORE,,147000000.0
+MP_LS_542,Lok Sabha,Yogendra Chandoliya,Delhi,NORTH WEST DELHI(SC),,147876307.0
+MP_LS_543,Lok Sabha,Zia Ur Rehman,Uttar Pradesh,SAMBHAL,,147000000.0
+MP_RS_1,Rajya Sabha,Abhishek Manu Singhvi,Telangana,,Elected MP,73421449.0
+MP_RS_2,Rajya Sabha,Ajeet Madhavrao Gopchade,Maharashtra,,Elected MP,147000000.0
+MP_RS_3,Rajya Sabha,Alka Singh,Rajasthan,,Elected MP,49000000.0
+MP_RS_4,Rajya Sabha,Anbumani Ramadoss,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_5,Rajya Sabha,Anil Sukhdeorao Bonde,Maharashtra,,Elected MP,196063957.11
+MP_RS_6,Rajya Sabha,Ashok Kumar Mittal,Punjab,,Elected MP,222487632.14
+MP_RS_7,Rajya Sabha,Bhim Singh,Bihar,,Elected MP,186200000.0
+MP_RS_8,Rajya Sabha,Dharmasthala Veerendra Heggade,Karnataka,,Nominated MP,196063957.11
+MP_RS_9,Rajya Sabha,Dharmshila Gupta,Bihar,,Elected MP,186200000.0
+MP_RS_10,Rajya Sabha,Dinesh Sharma,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_11,Rajya Sabha,Faiyaz Ahmad,Bihar,,Elected MP,235263957.11
+MP_RS_12,Rajya Sabha,John Brittas,Kerala,,Elected MP,245063957.11
+MP_RS_13,Rajya Sabha,Jyoti Nagnath Waghmare,Maharashtra,,Elected MP,49000000.0
+MP_RS_14,Rajya Sabha,K. Laxman,Uttar Pradesh,,Elected MP,197637007.11
+MP_RS_15,Rajya Sabha,Kalpana Saini,Uttarakhand,,Elected MP,200830405.8
+MP_RS_16,Rajya Sabha,Kavita Patidar,Madhya Pradesh,,Elected MP,197118521.35000002
+MP_RS_17,Rajya Sabha,L. Murugan,Madhya Pradesh,,Elected MP,147000000.0
+MP_RS_18,Rajya Sabha,Laxmikant Bajpayee,Uttar Pradesh,,Elected MP,196000000.0
+MP_RS_19,Rajya Sabha,M. Dhanapal,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_20,Rajya Sabha,M. Thambi Durai,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_21,Rajya Sabha,Medha Vishram Kulkarni,Maharashtra,,Elected MP,147000000.0
+MP_RS_22,Rajya Sabha,Meenakshi Jain,Delhi,,Nominated MP,73500000.0
+MP_RS_23,Rajya Sabha,Mukeshbhai J. Rathwa,Gujarat,,Elected MP,49000000.0
+MP_RS_24,Rajya Sabha,Parmar Jashvantsinh Salamsinh,Gujarat,,Elected MP,147000000.0
+MP_RS_25,Rajya Sabha,Radha Mohan Das Agrawal,Uttar Pradesh,,Elected MP,203626524.67000002
+MP_RS_26,Rajya Sabha,Sandeep Kumar Pathak,Punjab,,Elected MP,232203454.24
+MP_RS_27,Rajya Sabha,Sangeeta Balwant,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_28,Rajya Sabha,Santrupt Misra,Odisha,,Elected MP,49000000.0
+MP_RS_29,Rajya Sabha,Sarfraz Ahmad,Jharkhand,,Elected MP,178564551.09
+MP_RS_30,Rajya Sabha,Sasmit Patra,Odisha,,Elected MP,196063957.11
+MP_RS_31,Rajya Sabha,Satish Poonia,Rajasthan,,Elected MP,49000000.0
+MP_RS_32,Rajya Sabha,Sikander Kumar,Himachal Pradesh,,Elected MP,207863957.11
+MP_RS_33,Rajya Sabha,Sudhanshu Trivedi,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_34,Rajya Sabha,Syed Naseer Hussain,Karnataka,,Elected MP,147000000.0
+MP_RS_35,Rajya Sabha,V. Sivadasan,Kerala,,Elected MP,276720323.27
+MP_RS_36,Rajya Sabha,Vikramjit Singh Sahney,Punjab,,Elected MP,198656208.57000002
+MP_RS_37,Rajya Sabha,Ms. Dola Sen,West Bengal,,Elected MP,171500000.0
+MP_RS_38,Rajya Sabha,Ms. Swati Maliwal,Delhi,,Elected MP,147000000.0
+MP_RS_39,Rajya Sabha,Prof. Manoj Kumar Jha,Bihar,,Elected MP,191620112.11
+MP_RS_40,Rajya Sabha,Prof. Ram Gopal Yadav,Uttar Pradesh,,Elected MP,221271395.11
+MP_RS_41,Rajya Sabha,A. A. Rahim,Kerala,,Elected MP,220563957.11
+MP_RS_42,Rajya Sabha,Abdul Wahab,Kerala,,Elected MP,310898953.29
+MP_RS_43,Rajya Sabha,Aditya Prasad,Jharkhand,,Elected MP,227628508.2
+MP_RS_44,Rajya Sabha,Ajay Makan,Karnataka,,Elected MP,147000000.0
+MP_RS_45,Rajya Sabha,Akhilesh Prasad Singh,Bihar,,Elected MP,186200000.0
+MP_RS_46,Rajya Sabha,Amar Pal Maurya,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_47,Rajya Sabha,Anil Kumar Yadav Mandadi,Telangana,,Elected MP,147000000.0
+MP_RS_48,Rajya Sabha,Anurag Sharma,Himachal Pradesh,,Elected MP,49000000.0
+MP_RS_49,Rajya Sabha,Arun Singh,Uttar Pradesh,,Elected MP,223492764.11
+MP_RS_50,Rajya Sabha,Ashok Singh,Madhya Pradesh,,Elected MP,147000000.0
+MP_RS_51,Rajya Sabha,Ashokrao Shankarrao Chavan,Maharashtra,,Elected MP,147000000.0
+MP_RS_52,Rajya Sabha,Ashwini Vaishnaw,Odisha,,Elected MP,265563957.11
+MP_RS_53,Rajya Sabha,B. Parthasaradhi Reddy,Telangana,,Elected MP,244365104.0
+MP_RS_54,Rajya Sabha,B.L. Verma,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_55,Rajya Sabha,Babubhai Jesangbhai Desai,Gujarat,,Elected MP,171500000.0
+MP_RS_56,Rajya Sabha,Baburam Nishad,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_57,Rajya Sabha,Baidyanath Ram,Jharkhand,,Elected MP,49000000.0
+MP_RS_58,Rajya Sabha,Balyogi Umeshnath,Madhya Pradesh,,Elected MP,147000000.0
+MP_RS_59,Rajya Sabha,Banshilal Gurjar,Madhya Pradesh,,Elected MP,147000000.0
+MP_RS_60,Rajya Sabha,Bhashyam Rama Krishna,Andhra Pradesh,,Elected MP,49000000.0
+MP_RS_61,Rajya Sabha,Birendra Prasad Baishya,Assam,,Elected MP,98000000.0
+MP_RS_62,Rajya Sabha,Brij Lal,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_63,Rajya Sabha,C. Sadanandan Master,Kerala,,Nominated MP,73500000.0
+MP_RS_64,Rajya Sabha,Chandrakant Damodar Handore,Maharashtra,,Elected MP,147000000.0
+MP_RS_65,Rajya Sabha,Chowdry Mohammad Ramzan,Jammu And Kashmir,,Elected MP,73500000.0
+MP_RS_66,Rajya Sabha,Christopher Manickam,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_67,Rajya Sabha,Chunnilal Garasiya,Rajasthan,,Elected MP,147000000.0
+MP_RS_68,Rajya Sabha,Constandine Ravindran,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_69,Rajya Sabha,Damodar Rao Divakonda,Telangana,,Elected MP,239919406.11
+MP_RS_70,Rajya Sabha,Debashish Samantaray,Odisha,,Elected MP,23800006.0
+MP_RS_71,Rajya Sabha,Derek O' Brien,West Bengal,,Elected MP,171500000.0
+MP_RS_72,Rajya Sabha,Devendra Pratap Singh,Chhattisgarh,,Elected MP,170837637.76
+MP_RS_73,Rajya Sabha,Dhananjay Bhimrao Mahadik,Maharashtra,,Elected MP,220383643.11
+MP_RS_74,Rajya Sabha,Dilip Kumar Ray,Odisha,,Elected MP,49000000.0
+MP_RS_75,Rajya Sabha,Dorjee Tshering Lepcha,Sikkim,,Elected MP,150170726.11
+MP_RS_76,Rajya Sabha,G.C. Chandrashekhar,Karnataka,,Elected MP,147000000.0
+MP_RS_77,Rajya Sabha,Ghanshyam Tiwari,Rajasthan,,Elected MP,196063957.11
+MP_RS_78,Rajya Sabha,Golla Baburao,Andhra Pradesh,,Elected MP,147000000.0
+MP_RS_79,Rajya Sabha,Govindbhai Laljibhai Dholakia,Gujarat,,Elected MP,147000000.0
+MP_RS_80,Rajya Sabha,Gulam Ali,Jammu And Kashmir,,Nominated MP,196063957.11
+MP_RS_81,Rajya Sabha,Gurwinder Singh Oberoi,Jammu And Kashmir,,Elected MP,73500000.0
+MP_RS_82,Rajya Sabha,Harbhajan Singh,Punjab,,Elected MP,220984094.27
+MP_RS_83,Rajya Sabha,Hardeep Singh Puri,Uttar Pradesh,,Elected MP,226801049.11
+MP_RS_84,Rajya Sabha,Haris Beeran,Kerala,,Elected MP,122500000.0
+MP_RS_85,Rajya Sabha,Harsh Mahajan,Himachal Pradesh,,Elected MP,147000000.0
+MP_RS_86,Rajya Sabha,Harsh Vardhan Shringla,West Bengal,,Nominated MP,73500000.0
+MP_RS_87,Rajya Sabha,I.S. Inbadurai,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_88,Rajya Sabha,Ilaiyaraaja,Tamil Nadu,,Nominated MP,220563957.11
+MP_RS_89,Rajya Sabha,Imran Pratapgarhi,Maharashtra,,Elected MP,196000000.0
+MP_RS_90,Rajya Sabha,Jagat Prakash Nadda,Gujarat,,Elected MP,147000000.0
+MP_RS_91,Rajya Sabha,Jaggesh,Karnataka,,Elected MP,196063957.11
+MP_RS_92,Rajya Sabha,Jairam Ramesh,Karnataka,,Elected MP,220563957.11
+MP_RS_93,Rajya Sabha,James Pangsang Kongkal Sangma,Meghalaya,,Elected MP,49000000.0
+MP_RS_94,Rajya Sabha,Javed Ali Khan,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_95,Rajya Sabha,Jayant Chaudhary,Uttar Pradesh,,Elected MP,214074707.67000002
+MP_RS_96,Rajya Sabha,Jogen Mohan,Assam,,Elected MP,49000000.0
+MP_RS_97,Rajya Sabha,Jose K. Mani,Kerala,,Elected MP,122500000.0
+MP_RS_98,Rajya Sabha,K.R.N. Rajeshkumar,Tamil Nadu,,Elected MP,238513975.53
+MP_RS_99,Rajya Sabha,Kamal Haasan,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_100,Rajya Sabha,Kanad Purkayastha,Assam,,Elected MP,98000000.0
+MP_RS_101,Rajya Sabha,Kapil Sibal,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_102,Rajya Sabha,Karamvir Singh Singh Boudh,Haryana,,Elected MP,49000000.0
+MP_RS_103,Rajya Sabha,Kartikeya Sharma,Haryana,,Elected MP,196000000.0
+MP_RS_104,Rajya Sabha,Kesridevsinh Jhala,Gujarat,,Elected MP,171500000.0
+MP_RS_105,Rajya Sabha,Khiangte Laltluangkima,Mizoram,,Elected MP,24500000.0
+MP_RS_106,Rajya Sabha,Khiru Mahto,Bihar,,Elected MP,235770091.81
+MP_RS_107,Rajya Sabha,L. K. Sudhish,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_108,Rajya Sabha,Lahar Singh Siroya,Karnataka,,Elected MP,206278088.11
+MP_RS_109,Rajya Sabha,Lingamaneni Ramesh,Andhra Pradesh,,Elected MP,49000000.0
+MP_RS_110,Rajya Sabha,M. Nagaraja,Karnataka,,Elected MP,49000000.0
+MP_RS_111,Rajya Sabha,Madan Rathore,Rajasthan,,Elected MP,147000000.0
+MP_RS_112,Rajya Sabha,Mahendra Bhatt,Uttarakhand,,Elected MP,147000000.0
+MP_RS_113,Rajya Sabha,Mahesh Kewat,Madhya Pradesh,,Elected MP,49000000.0
+MP_RS_114,Rajya Sabha,Mallikarjun Kharge,Karnataka,,Elected MP,49063957.11
+MP_RS_115,Rajya Sabha,Manan Kumar Mishra,Bihar,,Elected MP,235263957.11
+MP_RS_116,Rajya Sabha,Manas Ranjan Mangaraj,Odisha,,Elected MP,196063957.11
+MP_RS_117,Rajya Sabha,Manmohan Samal,Odisha,,Elected MP,49000000.0
+MP_RS_118,Rajya Sabha,Mansoor Ali Khan,Karnataka,,Elected MP,49000000.0
+MP_RS_119,Rajya Sabha,Masthan Rao Yadav Beedha,Andhra Pradesh,,Elected MP,171296045.11
+MP_RS_120,Rajya Sabha,Mayankkumar Nayak,Gujarat,,Elected MP,147000000.0
+MP_RS_121,Rajya Sabha,Meda Raghunadha Reddy,Andhra Pradesh,,Elected MP,147000000.0
+MP_RS_122,Rajya Sabha,Milind Murli Deora,Maharashtra,,Elected MP,147000000.0
+MP_RS_123,Rajya Sabha,Mithlesh Kumar,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_124,Rajya Sabha,Mohammed Nadimul Haque,West Bengal,,Elected MP,147000000.0
+MP_RS_125,Rajya Sabha,Mukul Wasnik,Rajasthan,,Elected MP,196063957.11
+MP_RS_126,Rajya Sabha,Nagendra Ray,West Bengal,,Elected MP,171500000.0
+MP_RS_127,Rajya Sabha,Narain Dass Gupta,Delhi,,Elected MP,160837070.0
+MP_RS_128,Rajya Sabha,Narayanasa K. Bhandage,Karnataka,,Elected MP,147450000.0
+MP_RS_129,Rajya Sabha,Naresh Bansal,Uttarakhand,,Elected MP,222043184.71
+MP_RS_130,Rajya Sabha,Naveen Jain,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_131,Rajya Sabha,Neeraj Dangi,Rajasthan,,Elected MP,49000000.0
+MP_RS_132,Rajya Sabha,Neeraj Shekhar,Uttar Pradesh,,Elected MP,236483662.11
+MP_RS_133,Rajya Sabha,Nitin Laxmanrao Jadhav Patil,Maharashtra,,Elected MP,122500000.0
+MP_RS_134,Rajya Sabha,Nitin Nabin,Bihar,,Elected MP,49000000.0
+MP_RS_135,Rajya Sabha,P. Chidambaram,Tamil Nadu,,Elected MP,236312242.52
+MP_RS_136,Rajya Sabha,P. P. Suneer,Kerala,,Elected MP,122500000.0
+MP_RS_137,Rajya Sabha,P. Wilson,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_138,Rajya Sabha,Pabitra Margherita,Assam,,Elected MP,220563957.11
+MP_RS_139,Rajya Sabha,Paka Venkata Satyanarayana,Andhra Pradesh,,Elected MP,98000000.0
+MP_RS_140,Rajya Sabha,Parth Ajit Pawar,Maharashtra,,Elected MP,49000000.0
+MP_RS_141,Rajya Sabha,Pawan Khera,Karnataka,,Elected MP,49000000.0
+MP_RS_142,Rajya Sabha,Pradip Kumar Varma,Jharkhand,,Elected MP,178564551.09
+MP_RS_143,Rajya Sabha,Praful Patel,Maharashtra,,Elected MP,147000000.0
+MP_RS_144,Rajya Sabha,Prakash Chik Baraik,West Bengal,,Elected MP,49662892.0
+MP_RS_145,Rajya Sabha,Pramod Boro,Assam,,Elected MP,49000000.0
+MP_RS_146,Rajya Sabha,Pramod Tiwari,Rajasthan,,Elected MP,196063957.11
+MP_RS_147,Rajya Sabha,Praveen Chakravarthy,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_148,Rajya Sabha,R. Dharmar,Tamil Nadu,,Elected MP,260812242.52
+MP_RS_149,Rajya Sabha,R. Girirajan,Tamil Nadu,,Elected MP,236312242.52
+MP_RS_150,Rajya Sabha,Raghav Chadha,Punjab,,Elected MP,237229207.25
+MP_RS_151,Rajya Sabha,Rajeev Kumar,West Bengal,,Elected MP,49000000.0
+MP_RS_152,Rajya Sabha,Rajeev Shukla,Chhattisgarh,,Elected MP,271174394.23
+MP_RS_153,Rajya Sabha,Rajesh Parmanand Shukla,Gujarat,,Elected MP,49000000.0
+MP_RS_154,Rajya Sabha,Rajib Bhattacharjee,Tripura,,Elected MP,122500000.0
+MP_RS_155,Rajya Sabha,Rajinder Gupta,Punjab,,Elected MP,49000000.0
+MP_RS_156,Rajya Sabha,Rajneesh Kumar Agrawal,Madhya Pradesh,,Elected MP,49000000.0
+MP_RS_157,Rajya Sabha,Ram Nath Thakur,Bihar,,Elected MP,65673638.730000004
+MP_RS_158,Rajya Sabha,Ramdas Bandu Athawale,Maharashtra,,Elected MP,49000000.0
+MP_RS_159,Rajya Sabha,Ramji,Uttar Pradesh,,Elected MP,174518577.11
+MP_RS_160,Rajya Sabha,Ramji Lal Suman,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_161,Rajya Sabha,Ramrao Sakharam Wadkute,Maharashtra,,Elected MP,49000000.0
+MP_RS_162,Rajya Sabha,Randeep Singh Surjewala,Rajasthan,,Elected MP,196063957.11
+MP_RS_163,Rajya Sabha,Ratanjit Pratap Narain Singh,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_164,Rajya Sabha,Ravi Chandra Vaddiraju,Telangana,,Elected MP,152732534.11
+MP_RS_165,Rajya Sabha,Rwngwra Narzary,Assam,,Elected MP,220563957.11
+MP_RS_166,Rajya Sabha,Ryaga Krishnaiah,Andhra Pradesh,,Elected MP,170413583.79
+MP_RS_167,Rajya Sabha,S Niranjan Reddy,Andhra Pradesh,,Elected MP,224621383.11
+MP_RS_168,Rajya Sabha,S. Jaishankar,Gujarat,,Elected MP,171500000.0
+MP_RS_169,Rajya Sabha,S. Kalyanasundaram,Tamil Nadu,,Elected MP,239763792.52
+MP_RS_170,Rajya Sabha,S. Selvaganabathy,Puducherry,,Elected MP,292881856.49
+MP_RS_171,Rajya Sabha,S.R. Sivalingam,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_172,Rajya Sabha,Sadanand Mhalu Shet Tanavade,Goa,,Elected MP,171500000.0
+MP_RS_173,Rajya Sabha,Sajjad Ahmad Kichloo,Jammu And Kashmir,,Elected MP,73500000.0
+MP_RS_174,Rajya Sabha,Samik Bhattacharya,West Bengal,,Elected MP,147000000.0
+MP_RS_175,Rajya Sabha,Samirul Islam,West Bengal,,Elected MP,171500000.0
+MP_RS_176,Rajya Sabha,Sana Sathish Babu,Andhra Pradesh,,Elected MP,49063978.0
+MP_RS_177,Rajya Sabha,Sandosh Kumar P,Kerala,,Elected MP,220563957.11
+MP_RS_178,Rajya Sabha,Sanjay Bhatia,Haryana,,Elected MP,49000000.0
+MP_RS_179,Rajya Sabha,Sanjay Kumar Jha,Bihar,,Elected MP,186200000.0
+MP_RS_180,Rajya Sabha,Sanjay Raut,Maharashtra,,Elected MP,196063957.11
+MP_RS_181,Rajya Sabha,Sanjay Seth,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_182,Rajya Sabha,Sanjay Singh,Delhi,,Elected MP,184466426.11
+MP_RS_183,Rajya Sabha,Sanjay Yadav,Bihar,,Elected MP,186200000.0
+MP_RS_184,Rajya Sabha,Sant Balbir Singh,Punjab,,Elected MP,196359074.44000003
+MP_RS_185,Rajya Sabha,Sat Paul Sharma,Jammu And Kashmir,,Elected MP,73500000.0
+MP_RS_186,Rajya Sabha,Satish Chandra Dubey,Bihar,,Elected MP,235263957.11
+MP_RS_187,Rajya Sabha,Satnam Singh Sandhu,Chandigarh,,Nominated MP,147000000.0
+MP_RS_188,Rajya Sabha,Shambhu Sharan Patel,Bihar,,Elected MP,237168443.49
+MP_RS_189,Rajya Sabha,Shivesh Kumar,Bihar,,Elected MP,49000000.0
+MP_RS_190,Rajya Sabha,Subhash Barala,Haryana,,Elected MP,147000000.0
+MP_RS_191,Rajya Sabha,Subhasish Khuntia,Odisha,,Elected MP,147000000.0
+MP_RS_192,Rajya Sabha,Sujeet Kumar,Odisha,,Elected MP,49000000.0
+MP_RS_193,Rajya Sabha,Surendra Singh Nagar,Uttar Pradesh,,Elected MP,220563957.11
+MP_RS_194,Rajya Sabha,Tai Tagak,Arunachal Pradesh,,Elected MP,49000000.0
+MP_RS_195,Rajya Sabha,Tarun Chugh,Madhya Pradesh,,Elected MP,49000000.0
+MP_RS_196,Rajya Sabha,Tejveer Singh,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_197,Rajya Sabha,Terash Gowalla,Assam,,Elected MP,49000000.0
+MP_RS_198,Rajya Sabha,Tiruchi Siva,Tamil Nadu,,Elected MP,49356476.5
+MP_RS_199,Rajya Sabha,Ujjwal Deorao Nikam,Maharashtra,,Nominated MP,73500000.0
+MP_RS_200,Rajya Sabha,Upendra Kushwaha,Bihar,,Elected MP,49000000.0
+MP_RS_201,Rajya Sabha,V. Vijayendra Prasad,Andhra Pradesh,,Nominated MP,196063957.11
+MP_RS_202,Rajya Sabha,Vijay Chintakayala,Andhra Pradesh,,Elected MP,49000000.0
+MP_RS_203,Rajya Sabha,Vinod Shridhar Tawde,Maharashtra,,Elected MP,49000000.0
+MP_RS_204,Rajya Sabha,Vivek K. Tankha,Madhya Pradesh,,Elected MP,220563957.11
+MP_RS_205,Rajya Sabha,Yerram Venkata Subba Reddy,Andhra Pradesh,,Elected MP,147000000.0
+MP_RS_206,Rajya Sabha,Adhikarimayum Sharda Devi,Manipur,,Elected MP,49000000.0
+MP_RS_207,Rajya Sabha,Darshana Singh,Uttar Pradesh,,Elected MP,196994373.87
+MP_RS_208,Rajya Sabha,Geeta Alias Chandraprabha,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_209,Rajya Sabha,Jaya Amitabh Bachchan,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_210,Rajya Sabha,Jebi Mather Hisham,Kerala,,Elected MP,220563957.11
+MP_RS_211,Rajya Sabha,Laxmi Verma,Chhattisgarh,,Elected MP,49000000.0
+MP_RS_212,Rajya Sabha,Mahua Maji,Jharkhand,,Elected MP,232524001.2
+MP_RS_213,Rajya Sabha,Mamata Thakur,West Bengal,,Elected MP,147000000.0
+MP_RS_214,Rajya Sabha,Maya Chintaman Ivnate,Maharashtra,,Elected MP,49000000.0
+MP_RS_215,Rajya Sabha,Maya Naroliya,Madhya Pradesh,,Elected MP,147000000.0
+MP_RS_216,Rajya Sabha,Nirmala Sitharaman,Karnataka,,Elected MP,215972051.45
+MP_RS_217,Rajya Sabha,P. T. Usha,Kerala,,Nominated MP,196063957.11
+MP_RS_218,Rajya Sabha,Phulo Devi Netam,Chhattisgarh,,Elected MP,49000000.0
+MP_RS_219,Rajya Sabha,Rajathi,Tamil Nadu,,Elected MP,89248285.42
+MP_RS_220,Rajya Sabha,Ranjeet Ranjan,Chhattisgarh,,Elected MP,246780257.87
+MP_RS_221,Rajya Sabha,Rekha Sharma,Haryana,,Elected MP,98000000.0
+MP_RS_222,Rajya Sabha,Renuka Chowdhury,Telangana,,Elected MP,147000000.0
+MP_RS_223,Rajya Sabha,S. Phangnon Konyak,Nagaland,,Elected MP,206563957.11
+MP_RS_224,Rajya Sabha,Sadhna Singh,Uttar Pradesh,,Elected MP,147000000.0
+MP_RS_225,Rajya Sabha,Sagarika Ghose,West Bengal,,Elected MP,147000000.0
+MP_RS_226,Rajya Sabha,Sangeeta Yadav,Uttar Pradesh,,Elected MP,196063957.11
+MP_RS_227,Rajya Sabha,Seema Dwivedi,Uttar Pradesh,,Elected MP,173830159.11
+MP_RS_228,Rajya Sabha,Sonia Gandhi,Rajasthan,,Elected MP,147000000.0
+MP_RS_229,Rajya Sabha,Sudha Murty,Karnataka,,Nominated MP,147000000.0
+MP_RS_230,Rajya Sabha,Sulata Deo,Odisha,,Elected MP,196084721.4
+MP_RS_231,Rajya Sabha,Sumitra Balmik,Madhya Pradesh,,Elected MP,196063957.11

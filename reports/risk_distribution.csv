@@ -1,0 +1,5 @@
+risk_level,count,percentage,min_score,max_score,mean_score,median_score,p95_score,mean_rule_contrib,mean_ml_contrib,mean_stat_contrib
+NORMAL,40732,63.45,0.0,29.9,10.6,9.6,25.8,0.0,10.2,0.5
+REVIEW,21922,34.15,30.0,59.9,49.9,51.5,59.1,8.7,23.1,18.2
+HIGH,1396,2.17,60.0,79.9,67.2,67.0,79.2,19.6,27.9,19.6
+CRITICAL,143,0.22,80.0,92.5,84.9,82.4,92.4,35.2,29.8,19.9

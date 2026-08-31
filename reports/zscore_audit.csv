@@ -1,0 +1,21 @@
+work_id,parliament_house,state,work_category,peer_group,peer_group_size,total_expenditure,peer_exp_median,peer_exp_mad,peer_exp_effective_mad,numerator_deviation,robust_zscore
+WS/MP507/2025-2026/196288,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,37203872.0,0.0,0.0,10000.0,37203872.0,3720.39
+WS/MP507/2026-2027/290535,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,35321457.0,0.0,0.0,10000.0,35321457.0,3532.15
+WS/MP18233/2026-2027/274638,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,20786350.0,0.0,0.0,10000.0,20786350.0,2078.64
+WS/MP817/2025-2026/229416,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,17151917.0,0.0,0.0,10000.0,17151917.0,1715.19
+WS/MP866/2026-2027/213686,Lok Sabha,Tamil Nadu,Normal/Others,Lok Sabha_Tamil Nadu_Normal/Others,3338,9977320.0,0.0,0.0,10000.0,9977320.0,997.73
+WS/MP18242/2025-2026/216762,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,9707139.0,0.0,0.0,10000.0,9707139.0,970.71
+WS/MP18053/2026-2027/256906,Lok Sabha,Gujarat,Normal/Others,Lok Sabha_Gujarat_Normal/Others,3695,9000000.0,0.0,0.0,10000.0,9000000.0,900.0
+WS/MP18249/2025-2026/153601,Lok Sabha,West Bengal,Normal/Others,Lok Sabha_West Bengal_Normal/Others,3036,8601839.0,0.0,0.0,10000.0,8601839.0,860.18
+WS/MP817/2025-2026/229414,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,8480806.0,0.0,0.0,10000.0,8480806.0,848.08
+WS/MP18197/2025-2026/221826,Lok Sabha,Tripura,Normal/Others,Lok Sabha_Tripura_Normal/Others,38,8066962.0,0.0,0.0,10000.0,8066962.0,806.7
+WS/MP18391/2026-2027/283789,Lok Sabha,Nagaland,Normal/Others,Lok Sabha_Nagaland_Normal/Others,51,7800000.0,0.0,0.0,10000.0,7800000.0,780.0
+WS/MP585/2025-2026/178906,Lok Sabha,Gujarat,Normal/Others,Lok Sabha_Gujarat_Normal/Others,3695,7737422.0,0.0,0.0,10000.0,7737422.0,773.74
+WS/MP18070/2025-2026/166162,Lok Sabha,Jammu And Kashmir,Normal/Others,Lok Sabha_Jammu And Kashmir_Normal/Others,451,6894000.0,0.0,0.0,10000.0,6894000.0,689.4
+WS/MP18391/2026-2027/283805,Lok Sabha,Nagaland,Normal/Others,Lok Sabha_Nagaland_Normal/Others,51,6800000.0,0.0,0.0,10000.0,6800000.0,680.0
+WS/MP817/2025-2026/229420,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,6101030.0,0.0,0.0,10000.0,6101030.0,610.1
+WS/MP18391/2026-2027/283791,Lok Sabha,Nagaland,Normal/Others,Lok Sabha_Nagaland_Normal/Others,51,6000000.0,0.0,0.0,10000.0,6000000.0,600.0
+WS/MP745/2026-2027/202605,Lok Sabha,Tamil Nadu,Normal/Others,Lok Sabha_Tamil Nadu_Normal/Others,3338,5998083.0,0.0,0.0,10000.0,5998083.0,599.81
+WS/MP18198/2025-2026/214766,Lok Sabha,Uttar Pradesh,Normal/Others,Lok Sabha_Uttar Pradesh_Normal/Others,9766,5898698.0,0.0,0.0,10000.0,5898698.0,589.87
+WS/MP18277/2025-2026/149810,Lok Sabha,West Bengal,Normal/Others,Lok Sabha_West Bengal_Normal/Others,3036,5758516.0,0.0,0.0,10000.0,5758516.0,575.85
+WS/MP18388/2025-2026/250877,Lok Sabha,Telangana,Normal/Others,Lok Sabha_Telangana_Normal/Others,2496,5683700.0,0.0,0.0,10000.0,5683700.0,568.37
