@@ -64,7 +64,8 @@ const RISK = {NORMAL:'#1fa971', REVIEW:'#e5b84b', HIGH:'#ee8b32', CRITICAL:'#d94
 const fmt = n => n == null || Number.isNaN(Number(n)) ? 'Data Not Available' : Number(n).toLocaleString('en-IN',{maximumFractionDigits:2});
 const cr = n => n == null || Number.isNaN(Number(n)) ? 'Data Not Available' : `₹${(Number(n)/1e7).toLocaleString('en-IN',{maximumFractionDigits:2})} Cr`;
 const pct = n => n == null || Number.isNaN(Number(n)) ? 'Data Not Available' : `${Number(n).toFixed(1)}%`;
-const API_BASE = (import.meta.env.VITE_API_URL || '').replace(/\\/$/, '');
+// const API_BASE = (import.meta.env.VITE_API_URL || '').replace(/\\/$/, '');
+const API_BASE = (import.meta.env.VITE_API_URL || '').replace(/\/+$/, '');
 const api = async (path) => {
   const r = await fetch(`${API_BASE}${path}`);
   if(!r.ok) throw new Error(await r.text());
